@@ -40,11 +40,20 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 ## References
 Bell, W. A. (1949). Uppermost Cretaceous and Paleocene floras of western Alberta. Bulletin, Geological Survey of Canada, 13: 1–231.
+
 L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó Formation, Parnaı́ba Basin, NE Brazil. Cretaceous Research, 14(6): 735-746.
+
 de Lima, M. R. (1982). Palinologia da Formação Codó na região de Codó, Maranhão. Boletim IG, 13: 116-128.
+
 Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
+
 Doyle, J.A. (1992). Revised palynological correlations of the lower Potomac Group (USA) and the Cocobeach sequence of Gabon (Barremian–Aptian). Cretaceous Research, 13: 337–349.
+
 Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of early angiosperm pollen, with notes on the Cretaceous palynostratigraphy and palaeoenvironments of northern Gondwana. Bulletin. Centres de Recherches Exploration-Production Elf-Aquitaine, 6: 39–117.
+
 Pons, D., Berthou, P.Y., Filgueira, J.B.M., Sampaio, J.J.A. (1996). Palynologie des unités lithostratigraphique “Fundao”, “Crato” et “Ipubi” (Aptien supérieur à Albien inférieurmoyen, Bassin d'Araripe, NE du Brésil): enseignements paléoécologiques, stratigraphiques et climatologiques. In: Jardiné, S., Klasz, I., Debenet, J.-P. (Eds.), Géologie de l'Afrique et de l'Atlantique Sud. Elf Aquitaine Memoire, Pau, pp. 383–401.
+
 Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia do Araripe e das Bacias Interiores do Nordeste—Brasil. In: Barros, L.M., Nuvens, P.C., Filgueira, J.B.M. (Eds.), I e II Simpósios Sobre a Bacia do Araripe e Bacias Interiores do Nordeste. Universidade Regional do Cariri—URCA, Crato, pp. 101–108.
+
 Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimático e paleoambiental do intervalo Alagoas (Cretáceo Inferior) da Bacia do Araripe, Nordeste do Brasil (Poço 1-PS-11-CE). Paleontologia: Cenários de Vida. Interciência, Rio de Janeiro, pp. 481–490.
+
