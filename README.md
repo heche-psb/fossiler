@@ -5,7 +5,7 @@
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
 
-[**Fossil Info**](#Fossil-Justifications)
+[**Fossil Justifications**](#Fossil-Justifications)
 </div>
 
 ## Fossil Justifications
