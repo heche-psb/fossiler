@@ -12,6 +12,8 @@
 ## Fossil Justifications
 Below we give a detailed justification for each accepted fossil regarding the phylogenetic assignment and age bounds.
 
+:leaves: and :microscope: denote macrofossils and microfossils, respectively.
+
 :leaves: **${\text{\color{green} Fossil \ No.0}}$**
 
 **Brief Desription:** The oldest fossil found in Nymphaeales.
