@@ -24,7 +24,7 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The sedimentary rock from Parnaíba Basin, Codó Formation was thought to be of Aptian/Albian age (Lima, 1982). Based on numerous findings of the *Nymphaeites* fossil in shales of Aptian age, Duarte and R.Silva Santos suggested the age of the *Nymphaeites* fossil to be within Aptian. Thus, we use 121.4-113.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:leaves: **${\text{\color{green} Fossil \ No.1}}$**
+:microscope: **${\text{\color{green} Fossil \ No.1}}$**
 
 **Brief Desription:** The oldest fossil found in Austrobaileyales.
 
