@@ -5,7 +5,7 @@
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
 
-[**Fossil Justifications**](#Fossil-Justifications) | 
+**[Fossil Justifications](#Fossil-Justifications) | **
 [**References**](#References)
 </div>
 
@@ -50,8 +50,21 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** Cluster analysis (Q mode) of (Viviana et al., 2012) revealed two stratigraphically wellordered major groups of samples: group A comprised of the Maastrichtian samples M1-M3, group B comprised of all early Danian samples. The highest proportional abundances of *Rosannia manika* Srivastava emend emerged at sample M3 as 0.389. Thus, we used 72.3 - 66.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.3}}$**
+
+**Brief Desription:** The oldest fossil found in Canellales.
+
+**Age Bounds:** 72.3 - 66.0 mya.
+
+**Taxon & Specimen & Rock: *Pseudowinterapollis couperi* Krutzsch, 1970 emend, pollen grains labeled as MPM-MP 1952 101,3/8 on the Monte Chico Formation, Upper Cretaceous, Santa Cruz, Cretaceous of Argentina.
+
+**Phylogenetic Justification:** (Leticia Karina Povilauskas, 2013) proposed the fossil assignment as *Pseudowinterapollis couperi* Krutzsch, 1970 emend, following the diagnosis of (Mildenhall, 1979).
+
+**Age Justification:** Based on the stratigraphic distribution of the identified fossil species, mainly in Argentina and Antarctica, together with the preliminary analysis of spores, (Leticia Karina Povilauskas, 2013) suggested a Maastrichtian age of the studied sedimentary rock. Thus, we used 72.3 - 66.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
+Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
+
 Bell, W. A. (1949). Uppermost Cretaceous and Paleocene floras of western Alberta. Bulletin, Geological Survey of Canada, 13: 1–231.
 
 L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó Formation, Parnaı́ba Basin, NE Brazil. Cretaceous Research, 14(6): 735-746.
@@ -64,13 +77,15 @@ Doyle, J.A. (1992). Revised palynological correlations of the lower Potomac Grou
 
 Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of early angiosperm pollen, with notes on the Cretaceous palynostratigraphy and palaeoenvironments of northern Gondwana. Bulletin. Centres de Recherches Exploration-Production Elf-Aquitaine, 6: 39–117.
 
+Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia 16(1):115-126.
+
+Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Pliocene and Pleistocene), Wanganui, New Zealand (note). New Zealand Journal of Geology and Geophysics, 21:775-777.
+
 Pons, D., Berthou, P.Y., Filgueira, J.B.M., Sampaio, J.J.A. (1996). Palynologie des unités lithostratigraphique “Fundao”, “Crato” et “Ipubi” (Aptien supérieur à Albien inférieurmoyen, Bassin d'Araripe, NE du Brésil): enseignements paléoécologiques, stratigraphiques et climatologiques. In: Jardiné, S., Klasz, I., Debenet, J.-P. (Eds.), Géologie de l'Afrique et de l'Atlantique Sud. Elf Aquitaine Memoire, Pau, pp. 383–401.
 
 Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia do Araripe e das Bacias Interiores do Nordeste—Brasil. In: Barros, L.M., Nuvens, P.C., Filgueira, J.B.M. (Eds.), I e II Simpósios Sobre a Bacia do Araripe e Bacias Interiores do Nordeste. Universidade Regional do Cariri—URCA, Crato, pp. 101–108.
 
 Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimático e paleoambiental do intervalo Alagoas (Cretáceo Inferior) da Bacia do Araripe, Nordeste do Brasil (Poço 1-PS-11-CE). Paleontologia: Cenários de Vida. Interciência, Rio de Janeiro, pp. 481–490.
-
-Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
