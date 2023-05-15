@@ -5,7 +5,7 @@
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
 
-**[Fossil Justifications](#Fossil-Justifications) | **
+[**Fossil Justifications**](#Fossil-Justifications) |
 [**References**](#References)
 </div>
 
@@ -61,6 +61,19 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 **Phylogenetic Justification:** (Leticia Karina Povilauskas, 2013) proposed the fossil assignment as *Pseudowinterapollis couperi* Krutzsch, 1970 emend, following the diagnosis of (Mildenhall, 1979).
 
 **Age Justification:** Based on the stratigraphic distribution of the identified fossil species, mainly in Argentina and Antarctica, together with the preliminary analysis of spores, (Leticia Karina Povilauskas, 2013) suggested a Maastrichtian age of the studied sedimentary rock. Thus, we used 72.3 - 66.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.4}}$**
+
+**Brief Desription:** The oldest fossil found in Magnoliales.
+
+**Age Bounds:** 121.4 - 113.0 mya.
+
+**Taxon & Specimen & Rock: *Endressinia brasiliana* Mohr and Bernardes-de-Oliveira, leaves and flowers specimen labled as MB.PB.2001/1455, Araripe Basin, Crato Formation, Cretaceous of Brazil.
+
+**Phylogenetic Justification:** Based on the characters featuring the genus *Endressinia*, small (less than or ca.10mm in diameter), multiparted flowers, consisting of tepals and spirally arranged inner organs, borne on a more or less flattened receptacle, towards the center, several spirally arranged rows of flat, elongated staminodes with marginal glands and in the center, ca.20 narrowly apocarpous follicles with small, distinct, glabrous stigmatic area, (Mohr and Bernardes‐de‐Oliveira, 2004) assigned the observed fossil displaying a branching axis with attached simple, narrowly ovate leaves and several terminal small flowers as *Endressinia brasiliana*, and suggested the genus *Endressinia* of being sister to Eupomatiaceae since only Himantandraceae and Eupomatiaceae among recent Magnoliales share the character of having staminodes with glands, which are broad in Eupomatia. The proability of representing an extinct lineage with convergent staminode morphology was also proposed therein.
+
+**Age Justification:** As discussed in fossil No.1, a late Aptian age was also agreed on the Crato Formation. Thus, we used 121.4-113.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
