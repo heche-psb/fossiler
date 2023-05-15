@@ -5,7 +5,7 @@
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
 
-[**Fossil Justifications**](#Fossil-Justifications)
+[**Fossil Justifications**](#Fossil-Justifications) | 
 [**References**](#References)
 </div>
 
@@ -38,6 +38,19 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The stratigraphic position of the Rio da Batateira Formation is confined by the occurrences of a number of age-diagnostic gymnosperm pollen taxa including *Afropollis aff. jardinus*, *A. jardinus* and *Sergipea cf. variverrucata* as well as the spore *Crybelosporites pannuceus*. According to (Doyle et al., 1982 and Doyle et al., 1992), the dominance of the heteropolar inaperturate taxon *Afropollis aff. jardinus* and the absence of zonosulcate forms (*A. zonatus* and *A. aff. zonatus*) indicate a late early Aptian (*A. aff. jardinus*) or younger age (*A. jardinus*). In the Rio da Batateira Formation, the maximum abundances of heteropolar *Afropollis* forms reach up to 17% of the whole palynoflora. According to the Northern Gabon reference record of (Doyle et al., 1982), this peak may be part of the second *Afropollis* maximum in palynozone C-X,which covers the uppermost Aptian–Lower Albian interval. (Pons et al., 1996) proposed a late Aptian age for the “Fundão” unit located below the Rio da Batateira Formation. While (Coimbra et al., 2002) also proposed an late Aptian *S. variverrucata* palynozone for the Rio da Batateira formation. Based on the essentially continuous occurrence of *S. variverrucata* in core material covering the Crato, Ipubi and Santana formations, (Regali, 2001) and (Rios-Netto and Regali, 2007) argued in favour of an Aptian age for the entire succession. Desipte the age uncertainty concerning the Santana Formation, a late Aptian age was agreed on the Rio da Batateira formation. Thus, we used 121.4-113.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.2}}$**
+
+**Brief Desription:** The oldest fossil found in Piperales.
+
+**Age Bounds:** 72.3 - 66.0 mya.
+
+**Taxon & Specimen & Rock:** *Rosannia manika* Srivastava emend, spore-pollen labeled as MPEF–Palin 106 b: W45 on sample M3 of San Ramón section of the Lefipán Formation, Northwestern Patagonia, Cretaceous of Argentina.
+
+**Phylogenetic Justification:** (Viviana et al., 2012) proposed the fossil assignment as *Rosannia manika* Srivastava emend following the revised generic diagnosis of (Srivastava and Braman 2010) featured with an obligate ana-ulcerate tetrad with calymmate exine and granulose supratectal ornamentation and a close morphological affinity with the pollen of extant *Lactoris fernandeziana* Phil, which was thus suggested to be assigned to Lactoridaceae.
+
+**Age Justification:** Cluster analysis (Q mode) of (Viviana et al., 2012) revealed two stratigraphically wellordered major groups of samples: group A comprised of the Maastrichtian samples M1-M3, group B comprised of all early Danian samples. The highest proportional abundances of *Rosannia manika* Srivastava emend emerged at sample M3 as 0.389. Thus, we used 72.3 - 66.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+
 ## References
 Bell, W. A. (1949). Uppermost Cretaceous and Paleocene floras of western Alberta. Bulletin, Geological Survey of Canada, 13: 1–231.
 
@@ -56,4 +69,8 @@ Pons, D., Berthou, P.Y., Filgueira, J.B.M., Sampaio, J.J.A. (1996). Palynologie 
 Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia do Araripe e das Bacias Interiores do Nordeste—Brasil. In: Barros, L.M., Nuvens, P.C., Filgueira, J.B.M. (Eds.), I e II Simpósios Sobre a Bacia do Araripe e Bacias Interiores do Nordeste. Universidade Regional do Cariri—URCA, Crato, pp. 101–108.
 
 Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimático e paleoambiental do intervalo Alagoas (Cretáceo Inferior) da Bacia do Araripe, Nordeste do Brasil (Poço 1-PS-11-CE). Paleontologia: Cenários de Vida. Interciência, Rio de Janeiro, pp. 481–490.
+
+Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
+
+Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
