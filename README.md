@@ -12,9 +12,7 @@
 ## Fossil Justifications
 Below we give a detailed justification for each accepted fossil regarding the phylogenetic assignment and age bounds.
 
-```
-Fossil 0
-```
+`Fossil 0`
 
 **Brief Desription:** The oldest fossil found in Nymphaeales.
 
