@@ -68,12 +68,23 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Bounds:** 121.4 - 113.0 mya.
 
-**Taxon & Specimen & Rock: *Endressinia brasiliana* Mohr and Bernardes-de-Oliveira, leaves and flowers specimen labled as MB.PB.2001/1455, Araripe Basin, Crato Formation, Cretaceous of Brazil.
+**Taxon & Specimen & Rock:** *Endressinia brasiliana* Mohr and Bernardes-de-Oliveira, leaves and flowers specimen labled as MB.PB.2001/1455, Araripe Basin, Crato Formation, Cretaceous of Brazil.
 
 **Phylogenetic Justification:** Based on the characters featuring the genus *Endressinia*, small (less than or ca.10mm in diameter), multiparted flowers, consisting of tepals and spirally arranged inner organs, borne on a more or less flattened receptacle, towards the center, several spirally arranged rows of flat, elongated staminodes with marginal glands and in the center, ca.20 narrowly apocarpous follicles with small, distinct, glabrous stigmatic area, (Mohr and Bernardes‐de‐Oliveira, 2004) assigned the observed fossil displaying a branching axis with attached simple, narrowly ovate leaves and several terminal small flowers as *Endressinia brasiliana*, and suggested the genus *Endressinia* of being sister to Eupomatiaceae since only Himantandraceae and Eupomatiaceae among recent Magnoliales share the character of having staminodes with glands, which are broad in Eupomatia. The proability of representing an extinct lineage with convergent staminode morphology was also proposed therein.
 
-**Age Justification:** As discussed in fossil No.1, a late Aptian age was also agreed on the Crato Formation. Thus, we used 121.4-113.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+**Age Justification:** As discussed in fossil No.1, a late Aptian age was also agreed on the Crato Formation. Thus, we used 121.4 - 113.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.5}}$**
+
+**Brief Desription:** The oldest fossil found in Laurales.
+
+**Age Bounds:** 113.0 - 105.68 mya.
+
+**Taxon & Specimen & Rock:** *Appomattoxia ancistrophora* gen. et sp. nov., fruit and pollen grains with holotype specimen PP44001 and more than 450 other specimens from Puddledock samples 82, 83, 142, 143, 151, 152, 156, palynological Subzone IIB, Tarmac Lone Star Industries Puddledock locality in the Potomac Group sequence of Virginia, Cretaceous of the United States.
+
+**Phylogenetic Justification:** The genus *Appomattoxia* and fossil *Appomattoxia ancistrophora* was first established by (Friis et al., 1995) based on well-preserved fruiting units and associated pollen. Fruiting units are small, unilocular, and with a single, pendulous, orthotropous seed. The fruit surface is characterized by densely spaced unicellular spines with hooklike tips, which probably functioned in biotic dispersal. Pollen grains adhering to the stigmatic area of many specimens are monocolpate and tectate with granular to columellate infratectal structure. The fossil *Appomattoxia ancistrophora* shared an exclusive combination of characters with magnoliid taxa including Piperales, Laurales and Circaeasteraceae. Since *Appomattoxia ancistrophora* differs from extant Piperales in having a pendulous instead of erect ovule, and differs from extant *Circaeaster* in details of the fruit wall and the presence of monosulcate instead of tricolpate pollen, (Friis et al., 1995) suggested the genus *Appomattoxia* to be closest to Laurales.
+
+**Age Justification:** The age of Potomac Group palynological Subzone IIB has not been established with certainty, although it is generally believed to fall within the Albian. (Doyle and Robbins, 1977) dated basal Subzone IIB of the Potomac Group to about the Early/Middle Albian boundary and middle Subzone IIB to late Middle Albian. Subsequent palynological correlations of the Potomac Group sequence with material from other areas for which there is better marine control indicate that Subzone IIB may extend down into the Early Albian ((Doyle, 1992). Palynological Subzone IIC, which overlies Subzone IIB, has been interpreted as latest Albian (Doyle and Robbins, 1977).The palynological Subzone IIB may therefore be as old as the Early Albian, and are probably not younger than the Middle Albian. Thus, we used 113.0 - 105.68 mya as the age bound for this fossil, according to (Scott, 2009) and the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -84,11 +95,13 @@ L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó For
 
 de Lima, M. R. (1982). Palinologia da Formação Codó na região de Codó, Maranhão. Boletim IG, 13: 116-128.
 
-Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
-
 Doyle, J.A. (1992). Revised palynological correlations of the lower Potomac Group (USA) and the Cocobeach sequence of Gabon (Barremian–Aptian). Cretaceous Research, 13: 337–349.
 
+Doyle, J.A., P. Biens, A. Doerenkamp and S. Jardiné. (1977). Angiosperm pollen from the pre-Albian Lower Cretaceous of Equatorial Africa. Bulletin Centres Rescherches Exploration-Production Elf-Aquitaine, 1:451-473.
+
 Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of early angiosperm pollen, with notes on the Cretaceous palynostratigraphy and palaeoenvironments of northern Gondwana. Bulletin. Centres de Recherches Exploration-Production Elf-Aquitaine, 6: 39–117.
+
+E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophora* gen. et sp. nov., a new Early Cretaceous plant with similarities to Circaeaster and extant Magnoliidae. American Journal of Botany, 82(7):933-943.
 
 Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia 16(1):115-126.
 
@@ -102,3 +115,6 @@ Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimát
 
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
+Scott R.W. (2009). Uppermost Albian biostratigraphy and chronostratigraphy. Carnets de Géologie / Notebooks on Geology, Brest, Article 2009/03 (CG2009_A03)
+
+Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
