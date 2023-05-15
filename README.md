@@ -5,9 +5,9 @@
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
 
-[**Fossil Info**](#Fossil Justification)
+[**Fossil Info**](#Fossil-Justifications)
 </div>
 
-## Fossil Justification
+## Fossil Justifications
 Below we give a detailed justification for each accepted fossil regarding the phylogenetic assignment and age bounds
 
