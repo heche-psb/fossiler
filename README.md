@@ -106,9 +106,21 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Taxon & Specimen & Rock:** *Eichhornia sp.*, megafossils in root and stem fragments, the Deccan Intertrappean beds, Eocene of India.
 
-**Phylogenetic Justification:** ((Patil and Singh, 1978) described and assigned the fossil as *Eichhornia sp.* affiliated to Pontederiaceae.
+**Phylogenetic Justification:** (Patil and Singh, 1978) described and assigned the fossil as *Eichhornia sp.* affiliated to Pontederiaceae.
 
 **Age Justification:** The sedimentary rock was dated as Eocene. Thus, we used 56.0 - 33.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:microscope: **${\text{\color{green} Fossil \ No.8}}$**
+
+**Brief Desription:** The oldest fossil found in Zingiberales.
+
+**Age Bounds:** 83.8 - 71.9 mya.
+
+**Taxon & Specimen & Rock:** *Spirematospermum chandlerae*, macrofossils, Neuse River Cut-Off, Wayne County, Black Creek Formation, North Carolina, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Friis et al., 1988) described the fossil as *Spirematospermum chandlerae*. (Andrews, 1970) assigned the genus *Spirematospermum* to be within Zingiberaceae based on the morphology of a fruit fossil deposited in Hordle, Hampshire, England.
+
+**Age Justification:** The Black Creek Formation was dated as Campanian. Thus, we used 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -128,6 +140,10 @@ Doyle, J.A., P. Biens, A. Doerenkamp and S. Jardiné. (1977). Angiosperm pollen 
 Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of early angiosperm pollen, with notes on the Cretaceous palynostratigraphy and palaeoenvironments of northern Gondwana. Bulletin. Centres de Recherches Exploration-Production Elf-Aquitaine, 6: 39–117.
 
 E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophora* gen. et sp. nov., a new Early Cretaceous plant with similarities to Circaeaster and extant Magnoliidae. American Journal of Botany, 82(7):933-943.
+
+E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31:1-55.
+
+H. N. Andrews. (1970). Index of Generic Names of Fossil Plants, 1820-1965. Geological Survey Bulletin, 1-354.
 
 Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
 
