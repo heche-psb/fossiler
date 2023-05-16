@@ -1,0 +1,12 @@
+LICENSE
+README.md
+command.py
+setup.cfg
+setup.py
+fossiler/fossils.py
+fossiler.egg-info/PKG-INFO
+fossiler.egg-info/SOURCES.txt
+fossiler.egg-info/dependency_links.txt
+fossiler.egg-info/entry_points.txt
+fossiler.egg-info/requires.txt
+fossiler.egg-info/top_level.txt

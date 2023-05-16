@@ -146,6 +146,30 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The age of Rio Mayer Formation was dated as Upper Aptian (Archangelsky et al., 2012). Thus, we used the age 121.4 - 113.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/). 
 
+:leaves: **${\text{\color{green} Fossil \ No.11}}$**
+
+**Brief Desription:** The oldest fossil found in Asparagales.
+
+**Age Bounds:** 27.82 - 15.97 mya.
+
+**Taxon & Specimen & Rock:** *Phormium sp.*, leaf litter, cuticle and pollen grain, Newvale Mine leaf beds, fossil site F45/f0394, Newvale assemblage, Gore Lignite Measures, the Late Oligocene to Early Miocene southern New Zealand.
+
+**Phylogenetic Justification:** All of the macrofossils reported by (Ferguson et al., 2010) have exceptionally well-preserved cuticle. (Ferguson et al., 2010) decided the phylogenetic assignment of the fossil *Phormium sp.* by the observation of its partial leaf, cuticle, and pollen grain from Newvale Mine leaf beds. (Ferguson et al., 2010) regarded it as members of Asparagaceae.
+
+**Age Justification:** The age of the middle Gore Lignite Measures is Late Oligocene or Early Miocene (Waitakian to Altonian Stage) based on studies of palynofloras of Oligocene and Miocene strata of Otago and Southland by (Pocknall and Mildenhall, 1984) and (Mildenhall and Pocknall, 1989). Given the close association between marine strata of Waitakian age and the lower and middle Gore Lignite Measures in the Waimumu area (Isaac and Lindqvist, 1990), (Ferguson et al., 2010) suggested the age of the lignite as Waitakian (late Oligocene to early Miocene). Thus, we used the age 27.82 - 15.97 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:microscope: **${\text{\color{green} Fossil \ No.13}}$**
+
+**Brief Desription:** The oldest fossil found in Liliales.
+
+**Age Bounds:** 125.77 - 121.4 mya.
+
+**Taxon & Specimen & Rock:** *Liliacidites sp.*, pollen grains with sample labeled as Sh-1, 576-582, El Wadi El Gadid, Dakhla Oasis Area, Six Hills Formation, Cretaceous of Egypt.
+
+**Phylogenetic Justification:** The recognized differences under a light microscope, for instance, the wider sulci gaping in the middle of the grain of *Liliacidites* indicated the phylogenetic assignment of the fossil as to *Liliacidites sp.* (Schrank and Mahmoud., 2002). Archangelsky suggested the assignment of genus *Liliacidites* to be within Liliales (Archangelsky, 1973).
+
+**Age Justification:** The age of Six Hills Formation was estimated to be as late Barremian (Schrank and Mahmoud., 2002). Thus, we used the age 125.77 - 121.4 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -154,6 +178,8 @@ Bell, W. A. (1949). Uppermost Cretaceous and Paleocene floras of western Alberta
 Brenner, G.J. (1963). The spores and pollen of the Potomac Group of Maryland. Maryland Department of Geology, Mines and Water Resources, 27: 215.
 
 Brenner, G. J. and Bickoff, I. S. (1992). Palynology and Age of the Lower Cretaceous Basal Kurnub Group from the Coastal Plain to the Northern Negev of Israel. Palynology, 16: 137–185.
+
+David K. Ferguson, Daphne E. Lee, Jennifer M. Bannister, Reinhard Zetter, Gregory J. Jordan, Norbert Vavra, Dallas C. Mildenhall (2010). The taphonomy of a remarkable leaf bed assemblage from the Late Oligocene–Early Miocene Gore Lignite Measures, southern New Zealand. International Journal of Coal Geology, 83(2-3): 173-181.
 
 de Lima, M. R. (1982). Palinologia da Formação Codó na região de Codó, Maranhão. Boletim IG, 13: 116-128.
 
@@ -167,9 +193,13 @@ E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophor
 
 E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31:1-55.
 
+E. Schrank and M. S. Mahmoud. (2002). Barremian angiosperm pollen and associated palynomorphs from the Dakhla Oasis Area, Egypt. Palaeontology, 45(1): 33-56.
+
 Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel Pérez-Pinedo, Jan Westerweel, Zaw Win, Day Wa Aung, Eko Budi Lelono, Galina N. Aleksandrova, Ramesh K. Saxena, Carina Hoorn (2023). A proto-monsoonal climate in the late Eocene of Southeast Asia: Evidence from a sedimentary record in central Myanmar. Geoscience Frontiers, 14(1): 101457.
 
 H. N. Andrews. (1970). Index of Generic Names of Fossil Plants, 1820-1965. Geological Survey Bulletin, 1-354.
+
+Isaac, M.J. and Lindqvist, J.K. (1990). Geology and lignite resources of the East Southland Group, New Zealand. New Zealand Geological Survey Bulletin, 101: 1–202.
 
 Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
 
@@ -181,9 +211,13 @@ L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chic
 
 Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Pliocene and Pleistocene), Wanganui, New Zealand (note). New Zealand Journal of Geology and Geophysics, 21:775-777.
 
+Mildenhall, D.C. and Pocknall, D.T. (1989). Miocene–Pleistocene spores and pollen from Central Otago, South Island, New Zealand. New Zealand Geological Survey Paleontological Bulletin, 59: 1–128.
+
 Ogg, James,  Ogg, Gabi and Gradstein, Felix. (2016). A Concise Geologic TimeScale.
 
 Patil, G. V., & Singh, R. B. (1978). Fossil Eichhornia from the Eocene Deccan Intertrappean beds, India. Palaeontographica Abteilung B-Palaophytologie.
+
+Pocknall, D.T. and Mildenhall, D.C. (1984). Late Oligocene–early Miocene spores and pollen from Southland, New Zealand. New Zealand Geological Survey Paleontological Bulletin, 51: 1–66.
 
 Pons, D., Berthou, P.Y., Filgueira, J.B.M., Sampaio, J.J.A. (1996). Palynologie des unités lithostratigraphique “Fundao”, “Crato” et “Ipubi” (Aptien supérieur à Albien inférieurmoyen, Bassin d'Araripe, NE du Brésil): enseignements paléoécologiques, stratigraphiques et climatologiques. In: Jardiné, S., Klasz, I., Debenet, J.-P. (Eds.), Géologie de l'Afrique et de l'Atlantique Sud. Elf Aquitaine Memoire, Pau, pp. 383–401.
 
@@ -192,6 +226,8 @@ Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia d
 Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimático e paleoambiental do intervalo Alagoas (Cretáceo Inferior) da Bacia do Araripe, Nordeste do Brasil (Poço 1-PS-11-CE). Paleontologia: Cenários de Vida. Interciência, Rio de Janeiro, pp. 481–490.
 
 R. N. Lakhanpal, H. K. Maheshwari, and N. Awasthi. (1976). A Catalogue of Indian Fossil Plants. 1-318.
+
+S. Archangelsky. (1973). Palinología del Paleoceno de Chubut. I. Descripciones Sistemáticas. Ameghiniana, 10(4): 339-399.
 
 S. Archangelsky, A. Archangelsky, and G. Cladera. (2012). Palinología y paleoambientes en el perfil de Bajo Comisión (Cretácico), provincia de Santa Cruz, Argentina. Revista del Museo Argentino de Ciencias Naturales, 14(1):23-39.
 
