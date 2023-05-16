@@ -110,7 +110,7 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The sedimentary rock was dated as Eocene. Thus, we used 56.0 - 33.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:microscope: **${\text{\color{green} Fossil \ No.8}}$**
+:leaves: **${\text{\color{green} Fossil \ No.8}}$**
 
 **Brief Desription:** The oldest fossil found in Zingiberales.
 
@@ -121,6 +121,20 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 **Phylogenetic Justification:** (Friis et al., 1988) described the fossil as *Spirematospermum chandlerae*. (Andrews, 1970) assigned the genus *Spirematospermum* to be within Zingiberaceae based on the morphology of a fruit fossil deposited in Hordle, Hampshire, England.
 
 **Age Justification:** The Black Creek Formation was dated as Campanian. Thus, we used 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.9}}$**
+
+**Brief Desription:** The oldest fossil found in Poales.
+
+**Age Bounds:** 124.85 - 124.35 mya. 
+
+**Taxon & Specimen & Rock:** *Eragrosites changii*, spikelets and panicle, Holotype: pl. ll-2 (PB17803), Yixian Formation (Jehol Group), Cretaceous of China.
+
+**Phylogenetic Justification:** (Cao et al., 1998) described the morphology of the fossil as larger panicle, about 14 cm in incompletely preserved length and at least 10 cm in width; rachis about 3 mm wide at the base, narrowing gradually to the upper portion of inflorescence, oppositely branching 3 times, apart from each other, with longitudinal striations and glandula-like appendages on the surface of rachis and branches; bracts absent. Spikelets arranged in panicle, ovate to elongatedly elliptical in outline, about 5 mm long, composed of the biserial "florets", likely bearing two glumes at its base. The spikelets and inflorescences of the present specimens extremely resemble those of the existing plant *Eragrostis Wolf* of Poaceae. The difference between them is that the inflorescence branches of the latter are generally alternate and sometimes partly opposite even verticillate, while those of the former are consistently opposite. The new genus was accordingly named as *Eragrosties* for its similarity to *Eragrostis*.
+
+**Age Justification:** The Jianshangou bed was dated by (Swisher et al., 1999) using <sup>40<sup>Ar/<sup>39<sup>Ar method as 124.60 ± 0.25 mya for Sample P1T-2 and 124.61 ± 0.20 mya for Sample P4T-1. Here, we used the union set of the two estimates and set the age of the fossil as 124.85 - 124.35 mya.
+
+
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -169,4 +183,8 @@ Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, sp
 
 Scott R.W. (2009). Uppermost Albian biostratigraphy and chronostratigraphy. Carnets de Géologie / Notebooks on Geology, Brest, Article 2009/03 (CG2009_A03)
 
+Swisher, C.C., Wang, Y.Q., Wang, X.L., Xu, X. and Wang, Y. (1999). Cretaceous age for the feathered dinosaurs of Liaoning, China. Nature, 400: 58–61.
+
 Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
+
+Zhengyao Cao, Shunqing Wu, Ping'an and Li Jieru Zhang (1998). Discovery of fossil monocotyledons from Yixian Formation, western Liaoning. Chinese Science Bulletin, 43(3): 230-233.
