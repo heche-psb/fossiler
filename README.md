@@ -132,7 +132,7 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Phylogenetic Justification:** (Cao et al., 1998) described the morphology of the fossil as larger panicle, about 14 cm in incompletely preserved length and at least 10 cm in width; rachis about 3 mm wide at the base, narrowing gradually to the upper portion of inflorescence, oppositely branching 3 times, apart from each other, with longitudinal striations and glandula-like appendages on the surface of rachis and branches; bracts absent. Spikelets arranged in panicle, ovate to elongatedly elliptical in outline, about 5 mm long, composed of the biserial "florets", likely bearing two glumes at its base. The spikelets and inflorescences of the present specimens extremely resemble those of the existing plant *Eragrostis Wolf* of Poaceae. The difference between them is that the inflorescence branches of the latter are generally alternate and sometimes partly opposite even verticillate, while those of the former are consistently opposite. The new genus was accordingly named as *Eragrosties* for its similarity to *Eragrostis*.
 
-**Age Justification:** The Jianshangou bed was dated by (Swisher et al., 1999) using <sup>40<sup>Ar/<sup>39<sup>Ar method as 124.60 ± 0.25 mya for Sample P1T-2 and 124.61 ± 0.20 mya for Sample P4T-1. Here, we used the union set of the two estimates and set the age of the fossil as 124.85 - 124.35 mya.
+**Age Justification:** The Jianshangou bed was dated by (Swisher et al., 1999) using <sup>40</sup>Ar/<sup>39</sup>Ar method as 124.60 ± 0.25 mya for Sample P1T-2 and 124.61 ± 0.20 mya for Sample P4T-1. Here, we used the union set of the two estimates and set the age of the fossil as 124.85 - 124.35 mya.
 
 
 
