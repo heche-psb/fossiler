@@ -134,7 +134,17 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The Jianshangou bed was dated by (Swisher et al., 1999) using <sup>40</sup>Ar/<sup>39</sup>Ar method as 124.60 ± 0.25 mya for Sample P1T-2 and 124.61 ± 0.20 mya for Sample P4T-1. Here, we used the union set of the two estimates and set the age of the fossil as 124.85 - 124.35 mya.
 
+:microscope: **${\text{\color{green} Fossil \ No.10}}$**
 
+**Brief Desription:** The oldest fossil found in Arecales.
+
+**Age Bounds:** 121.4 - 113.0 mya.
+
+**Taxon & Specimen & Rock:** *Spinizonocolpites sp.*, palynomorphs, Bajo Comisión, Rio Mayer Formation, Cretaceous of Argentina.
+
+**Phylogenetic Justification:** (Archangelsky et al., 2012) classified the fossil as to *Spinizonocolpites*. (Huang et al., 2023) based on the observation of the scanned electron microscopy micrographs of sporomorphs assigned the *Spinizonocolpites* to Arecaceae.
+
+**Age Justification:** The age of Rio Mayer Formation was dated as Upper Aptian (Archangelsky et al., 2012). Thus, we used the age 121.4 - 113.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/). 
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -157,6 +167,8 @@ E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophor
 
 E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31:1-55.
 
+Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel Pérez-Pinedo, Jan Westerweel, Zaw Win, Day Wa Aung, Eko Budi Lelono, Galina N. Aleksandrova, Ramesh K. Saxena, Carina Hoorn (2023). A proto-monsoonal climate in the late Eocene of Southeast Asia: Evidence from a sedimentary record in central Myanmar. Geoscience Frontiers, 14(1): 101457.
+
 H. N. Andrews. (1970). Index of Generic Names of Fossil Plants, 1820-1965. Geological Survey Bulletin, 1-354.
 
 Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
@@ -164,6 +176,8 @@ Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geologic
 L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó Formation, Parnaıba Basin, NE Brazil. Cretaceous Research, 14(6): 735-746.
 
 Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia 16(1):115-126.
+
+L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia, 16(1):115-126.
 
 Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Pliocene and Pleistocene), Wanganui, New Zealand (note). New Zealand Journal of Geology and Geophysics, 21:775-777.
 
@@ -178,6 +192,8 @@ Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia d
 Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimático e paleoambiental do intervalo Alagoas (Cretáceo Inferior) da Bacia do Araripe, Nordeste do Brasil (Poço 1-PS-11-CE). Paleontologia: Cenários de Vida. Interciência, Rio de Janeiro, pp. 481–490.
 
 R. N. Lakhanpal, H. K. Maheshwari, and N. Awasthi. (1976). A Catalogue of Indian Fossil Plants. 1-318.
+
+S. Archangelsky, A. Archangelsky, and G. Cladera. (2012). Palinología y paleoambientes en el perfil de Bajo Comisión (Cretácico), provincia de Santa Cruz, Argentina. Revista del Museo Argentino de Ciencias Naturales, 14(1):23-39.
 
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
