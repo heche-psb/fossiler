@@ -98,6 +98,18 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** *Clavatipollenites minutus* was found in Helez and Zeweira Formations. While *Clavatipollenites sp.* fossils were restricted to the Helez Formation. The Zeweira Formation was divided into two subzones based on the first occurrence of pollen types in core 6. Core 6 and 7 have very similar spore and pollen assemblages, but core 6 contains the first appearance of the lower marker form *Brenneripollis reticulatus* as well as the first occurrence of the tricolpate pollen and *Afropollis jardinus*. A late Barremian age is therefore suggested for the lower part of the Zeweira Formation (core 7), while the new forms mentioned above in core 6 suggest a early Aptian age. (Grader and Reiss, 1958) laid the foundation for the currently accepted stratigraphy of the Helez Formation by studying subsurface samples from the Helez 1, 2, 3 and Negba 1 wells, and used micro-and megafaunal evidence to date the basal Cretaceous. The dating results from microfauna suggested the age as late Valanginian to early Hauterivian. Specifically, the upper part of units L.CrIIa (Hm, H1, H2, H3) is interpreted to be early Hauterivian based on the presence of the ammonites *Leupoldia* and *Saynella*, while the lower part was determined to be of Valanginian age because it's immediately below early Hauterivian sediments and above Berriasian to Valanginian sediments of the L.CrI unit. Taking into account that *Clavatipollenites sp. B* emerged at H1 and H2, we suggested setting late Valanginian to early Hauterivian as the age of the fossil. The age bound was set as 139.8 - 125.77 mya for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.7}}$**
+
+**Brief Desription:** The oldest fossil found in Commelinales.
+
+**Age Bounds:** 56.0 - 33.9 mya.
+
+**Taxon & Specimen & Rock:** *Eichhornia sp.*, megafossils in root and stem fragments, the Deccan Intertrappean beds, Eocene of India.
+
+**Phylogenetic Justification:** ((Patil and Singh, 1978) described and assigned the fossil as *Eichhornia sp.* affiliated to Pontederiaceae.
+
+**Age Justification:** The sedimentary rock was dated as Eocene. Thus, we used 56.0 - 33.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -127,11 +139,15 @@ Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Plioce
 
 Ogg, James,  Ogg, Gabi and Gradstein, Felix. (2016). A Concise Geologic TimeScale.
 
+Patil, G. V., & Singh, R. B. (1978). Fossil Eichhornia from the Eocene Deccan Intertrappean beds, India. Palaeontographica Abteilung B-Palaophytologie.
+
 Pons, D., Berthou, P.Y., Filgueira, J.B.M., Sampaio, J.J.A. (1996). Palynologie des unités lithostratigraphique “Fundao”, “Crato” et “Ipubi” (Aptien supérieur à Albien inférieurmoyen, Bassin d'Araripe, NE du Brésil): enseignements paléoécologiques, stratigraphiques et climatologiques. In: Jardiné, S., Klasz, I., Debenet, J.-P. (Eds.), Géologie de l'Afrique et de l'Atlantique Sud. Elf Aquitaine Memoire, Pau, pp. 383–401.
 
 Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia do Araripe e das Bacias Interiores do Nordeste—Brasil. In: Barros, L.M., Nuvens, P.C., Filgueira, J.B.M. (Eds.), I e II Simpósios Sobre a Bacia do Araripe e Bacias Interiores do Nordeste. Universidade Regional do Cariri—URCA, Crato, pp. 101–108.
 
 Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimático e paleoambiental do intervalo Alagoas (Cretáceo Inferior) da Bacia do Araripe, Nordeste do Brasil (Poço 1-PS-11-CE). Paleontologia: Cenários de Vida. Interciência, Rio de Janeiro, pp. 481–490.
+
+R. N. Lakhanpal, H. K. Maheshwari, and N. Awasthi. (1976). A Catalogue of Indian Fossil Plants. 1-318.
 
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
