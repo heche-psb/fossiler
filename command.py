@@ -10,7 +10,7 @@ from rich.logging import RichHandler
 __version__ = pkg_resources.require("fossiler")[0].version
 
 
-# CLI entry point
+# cli entry point
 @click.group(context_settings={'help_option_names': ['-h', '--help']})
 @click.option('--verbosity', '-v', type=click.Choice(['info', 'debug']),
     default='info', help="Verbosity level, default = info.")
@@ -28,7 +28,7 @@ def cli(verbosity):
     pass
 
 
-# Diamond and gene families
+# Find fossils
 @cli.command(context_settings={'help_option_names': ['-h', '--help']})
 @click.argument('sequences', nargs=-1, type=click.Path(exists=True))
 @click.option('--outdir', '-o', default='fossiler_find', show_default=True, help='output directory')
