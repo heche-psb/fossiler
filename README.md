@@ -219,6 +219,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** (Dinis 2001; Dinis et al., 2002) suggested a Late Aptian age for the base of the Figueira da Foz Formation based on sedimentological and lithofacies correlations. ,correlation of a marine sequence in the Algarve Basin (dated on the basis of dinoflagellates and carbon-isotope data) with the sedimentary sequence in the Lusitanian Basin (western Portugal) has suggested that the base of the Figueira da Foz Formation could be slightly younger than previously thought, as to Early Albian. To be on the safe side, we used the age 121.4 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves::microscope: **${\text{\color{green} Fossil \ No.18}}$**
+
+**Brief Desription:** The oldest fossil found in Proteales.
+
+**Age Bounds:** 113.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Platanocarpus brookensis*, pistillate inflorescences, flowers and pollen grains, holotype PP42988, PP43044 and PP43038 et al., Subzone II-B zone, the "bank near Brooke" locality in the Patapsco Formation (Potomac Group) of northern Virginia, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Crane et al., 1993) described the fossil *Platanocarpus brookensis* with features: Pistillate inflorescences and infructescences consist of flowers in globose aggregations that are borne directly on the inflorescence axis; Individual flowers are sessile and each consists of five free carpels, surrounded by a prominent perianth. They proposed the affinity to Platanaceae of this fossil.
+
+**Age Justification:** The age of "bank near Brooke" of Subzone II-B zone was dated as early or middle Albian (Doyle and Hickey, 1976). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -243,6 +255,8 @@ Doyle, J. A., and E. I. Robbins. (1977). Angiosperm pollen zonation of the conti
 Doyle, J.A., P. Biens, A. Doerenkamp and S. Jardiné. (1977). Angiosperm pollen from the pre-Albian Lower Cretaceous of Equatorial Africa. Bulletin Centres Rescherches Exploration-Production Elf-Aquitaine, 1:451-473.
 
 Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of early angiosperm pollen, with notes on the Cretaceous palynostratigraphy and palaeoenvironments of northern Gondwana. Bulletin. Centres de Recherches Exploration-Production Elf-Aquitaine, 6: 39–117.
+
+Doyle, J.A. and L. J. HICKEY. (1976). Pollen and leaves from the mid-Cretaceous Potomac Group and their bearing on early angiosperm evolution. Pp. 139- 206 in *Origin and early evolution of angiosperms*, ed. C. B. Beck. New York: Columbia Univ. Press.
 
 E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophora* gen. et sp. nov., a new Early Cretaceous plant with similarities to Circaeaster and extant Magnoliidae. American Journal of Botany, 82(7):933-943.
 
