@@ -207,6 +207,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of the Cheyenne Sandstone Formation is dated as Albian (Huang and Dilcher, 1994). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.17}}$**
+
+**Brief Desription:** The oldest fossil found in Ranunculales.
+
+**Age Bounds:** 121.4 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Teixeiraea lusitanica*, flower and pollen grains, Vale de Agua 320, Famalicao Member (Figueira da Foz Formation), Cretaceous to of Portugal.
+
+**Phylogenetic Justification:** (Balthazar et al, 2005) first described the genus and species with features including: the flower is actinomorphic and unisexually male; at the base of the bud there are several bracts of different sizes, which are followed by sepal-like and petal-like tepals; bracts and perianth organs seem to be arranged spirally and to exhibit transitions between different organ categories; the androecium has numerous stamens in two sizes, but with unclear arrangement; pollen is small and tricolpate with a perforate tectum and a densely columellate infra tectal layer; no carpels or remains of carpels could be observed on the floral axis. They also found that *Teixeiraea lusitanica* shows most affinities to members of Ranunculales.
+
+**Age Justification:** (Dinis 2001; Dinis et al., 2002) suggested a Late Aptian age for the base of the Figueira da Foz Formation based on sedimentological and lithofacies correlations. ,correlation of a marine sequence in the Algarve Basin (dated on the basis of dinoflagellates and carbon-isotope data) with the sedimentary sequence in the Lusitanian Basin (western Portugal) has suggested that the base of the Figueira da Foz Formation could be slightly younger than previously thought, as to Early Albian. To be on the safe side, we used the age 121.4 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -219,6 +231,10 @@ Brenner, G. J. and Bickoff, I. S. (1992). Palynology and Age of the Lower Cretac
 David K. Ferguson, Daphne E. Lee, Jennifer M. Bannister, Reinhard Zetter, Gregory J. Jordan, Norbert Vavra, Dallas C. Mildenhall (2010). The taphonomy of a remarkable leaf bed assemblage from the Late Oligocene–Early Miocene Gore Lignite Measures, southern New Zealand. International Journal of Coal Geology, 83(2-3): 173-181.
 
 de Lima, M. R. (1982). Palinologia da Formação Codó na região de Codó, Maranhão. Boletim IG, 13: 116-128.
+
+Dinis JL (2001). Definition of the Figueira da Foz Formation:Aptianto Cenomanian of the central sector of the western Iberian margin. Comun Inst Geol Min, 88:127–160.
+
+Dinis JL, J Rey and P-C de Graciansky (2002). Le bassin lusitanien (Portugal) à l’Aptien supérieur-Albien: organisation séquentielle, proposition de corre´lations, évolution. CR Geosci, 334: 757–764.
 
 Doyle, J.A. (1992). Revised palynological correlations of the lower Potomac Group (USA) and the Cocobeach sequence of Gabon (Barremian–Aptian). Cretaceous Research, 13: 337–349.
 
