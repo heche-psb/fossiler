@@ -170,6 +170,19 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The age of Six Hills Formation was estimated to be as late Barremian (Schrank and Mahmoud., 2002). Thus, we used the age 125.77 - 121.4 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.14}}$**
+
+**Brief Desription:** The oldest fossil found in Pandanales.
+
+**Age Bounds:** 93.9 - 89.5 mya
+
+**Taxon & Specimen & Rock:** *Nuhliantha nyanzaiana*, Holotype L. H. Bailey Hortorium Paleobotanical Collection CUPC 1267, the Old Crossman Clay Pit locality in Sayreville, South Amboy Fire Clay, Raritan Formation, New Jersey, Cretaceous of the United States.
+
+**Phylogenetic Justification:** Two different cladistic analyses were performed by (Gandolfo et al., 2002): the first they composed a character matrix consisting of stomata, floral expression, perianth petaloid, perianth connation, perianth curvature, zygomorphy, perigonal nectaries, staminodia, connate stamen filament, connective protrusion, anther attachment, anther dehiscence, sporangia per anther bisporangial, endothecial wallthickenings, pollen units monads, pollen apertures sulcate, number of pollen apertures one, pollen aperture margin nonannulate, pollen sculpturing reticulate and psilate, which was then subject to parsimony analyses to decide the overall phylogenetic placement of the fossil taxa and their relationships with extant monocot taxa; the second they formulated another matrix comprised of outgroup Petrosaviaceae and all the extant
+Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to explore the relationships of the fossil taxa in more detail with the extant members of the Triuridaceae. Based on the cladistic analyses, (Gandolfo et al., 2002) confirm the affinities of the fossil *Nuhliantha nyanzaiana* with modern Triuridaceae.
+
+**Age Justification:** On the basis of stratigraphic and palynological data, the South Amboy Fire Clay, Raritan Formation was dated as the age of Turonian (Doyle and Robbins, 1977; Harland et al., 1989). Thus, we used the age 93.9 - 89.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -185,6 +198,8 @@ de Lima, M. R. (1982). Palinologia da Formação Codó na região de Codó, Mara
 
 Doyle, J.A. (1992). Revised palynological correlations of the lower Potomac Group (USA) and the Cocobeach sequence of Gabon (Barremian–Aptian). Cretaceous Research, 13: 337–349.
 
+Doyle, J. A., and E. I. Robbins. (1977). Angiosperm pollen zonation of the continental Cretaceous of the Atlantic Coastal Plain and its application to deep wells in the Salisbury Embayment. Palynology, 1: 43–78.
+
 Doyle, J.A., P. Biens, A. Doerenkamp and S. Jardiné. (1977). Angiosperm pollen from the pre-Albian Lower Cretaceous of Equatorial Africa. Bulletin Centres Rescherches Exploration-Production Elf-Aquitaine, 1:451-473.
 
 Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of early angiosperm pollen, with notes on the Cretaceous palynostratigraphy and palaeoenvironments of northern Gondwana. Bulletin. Centres de Recherches Exploration-Production Elf-Aquitaine, 6: 39–117.
@@ -194,6 +209,8 @@ E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophor
 E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31:1-55.
 
 E. Schrank and M. S. Mahmoud. (2002). Barremian angiosperm pollen and associated palynomorphs from the Dakhla Oasis Area, Egypt. Palaeontology, 45(1): 33-56.
+
+Harland, W. B., R. L. Armstrong, A. V. Cox, L. A. Craig, A. G. Smith, and D. G. Smith. (1989). A geologic time scale. Cambridge University Press, Cambridge, UK.
 
 Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel Pérez-Pinedo, Jan Westerweel, Zaw Win, Day Wa Aung, Eko Budi Lelono, Galina N. Aleksandrova, Ramesh K. Saxena, Carina Hoorn (2023). A proto-monsoonal climate in the late Eocene of Southeast Asia: Evidence from a sedimentary record in central Myanmar. Geoscience Frontiers, 14(1): 101457.
 
