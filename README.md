@@ -183,6 +183,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** On the basis of stratigraphic and palynological data, the South Amboy Fire Clay, Raritan Formation was dated as the age of Turonian (Doyle and Robbins, 1977; Harland et al., 1989). Thus, we used the age 93.9 - 89.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.15}}$**
+
+**Brief Desription:** The oldest fossil found in Dioscoreales..
+
+**Age Bounds:** 37.71 - 33.9 mya.
+
+**Taxon & Specimen & Rock:** *Dioscorea sp.*, Florissant Flora, Colorado, Eocene of the United States.
+
+**Phylogenetic Justification:** (MacGinitie, 1953) reported the fossil *Dioscorea sp.* at the Florissant Beds of Colorado. (Knowlton, 1919) suggested the *Dioscorea sp.* to be assigned into Dioscoreaceae.
+
+**Age Justification:** The age of the Florissant Beds of Colorado was dated as Priabonian. Thus, we used the age 37.71 - 33.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -210,7 +222,11 @@ E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of
 
 E. Schrank and M. S. Mahmoud. (2002). Barremian angiosperm pollen and associated palynomorphs from the Dakhla Oasis Area, Egypt. Palaeontology, 45(1): 33-56.
 
+F. H. Knowlton. (1919). A catalogue of the Mesozoic and Cenozoic plants of North America. United States Geological Survey Bulletin, 696:1-815.
+
 Harland, W. B., R. L. Armstrong, A. V. Cox, L. A. Craig, A. G. Smith, and D. G. Smith. (1989). A geologic time scale. Cambridge University Press, Cambridge, UK.
+
+H. D. MacGinitie. (1953). Fossil Plants of the Florissant Beds of Colorado. Carnegie Inst. of Washington, Contributions to Paleontology Publ, 599:1-198.
 
 Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel Pérez-Pinedo, Jan Westerweel, Zaw Win, Day Wa Aung, Eko Budi Lelono, Galina N. Aleksandrova, Ramesh K. Saxena, Carina Hoorn (2023). A proto-monsoonal climate in the late Eocene of Southeast Asia: Evidence from a sedimentary record in central Myanmar. Geoscience Frontiers, 14(1): 101457.
 
