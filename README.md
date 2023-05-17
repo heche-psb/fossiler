@@ -255,6 +255,20 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Preguicas Formation was dated as Lower Albian (Herngreen, 1973). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.20}}$**
+
+**Brief Desription:** The oldest fossil found in Gunnerales.
+
+**Age Bounds:** 139.8 - 121.4 mya.
+
+**Taxon & Specimen & Rock:** *Tricolpites sp.*, pollen, CA-5-1982, CU-40-1989, Springhill Formation, Doceava Región, Chile.
+
+**Phylogenetic Justification:** (Quattrocchio et al., 2006) reported the pollen of *Tricolpites sp.* and followed the classification of (Jarzen, 1982) to assign it to Gunneraceae.
+
+**Age Justification:** Above the Springhill Formation is the Pampa Rincón Formation (*Inoceramus* Inferior or Shales with Chert) of Barremian - Early Aptian age (Natland et al., 1974), the age of Springhill Formation was estimated as Valanginian - Barremian (Quattrocchio et al., 2006). Thus, we used the age 139.8 - 121.4 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -271,6 +285,8 @@ de Lima, M. R. (1982). Palinologia da Formação Codó na região de Codó, Mara
 Dinis JL (2001). Definition of the Figueira da Foz Formation:Aptianto Cenomanian of the central sector of the western Iberian margin. Comun Inst Geol Min, 88:127–160.
 
 Dinis JL, J Rey and P-C de Graciansky (2002). Le bassin lusitanien (Portugal) à l’Aptien supérieur-Albien: organisation séquentielle, proposition de corre´lations, évolution. CR Geosci, 334: 757–764.
+
+D. M. Jarzen. (1982). Palynology of Dinosaur Provincial Park (Campanian) Alberta. Syllogeus, 38: 1-69.
 
 Doyle, J.A. (1992). Revised palynological correlations of the lower Potomac Group (USA) and the Cocobeach sequence of Gabon (Barremian–Aptian). Cretaceous Research, 13: 337–349.
 
@@ -312,9 +328,13 @@ Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación
 
 L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia, 16(1):115-126.
 
+M. E. Quattrocchio, M. A. Martínez, A. Carpinelli Pavisich and W. Volkheimer. (2006). Early Cretaceous palynostratigraphy, palynofacies and palaeoenvironments of well sections in northeastern Tierra del Fuego, Argentina. Cretaceous Research, 27: 584-602.
+
 Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Pliocene and Pleistocene), Wanganui, New Zealand (note). New Zealand Journal of Geology and Geophysics, 21:775-777.
 
 Mildenhall, D.C. and Pocknall, D.T. (1989). Miocene–Pleistocene spores and pollen from Central Otago, South Island, New Zealand. New Zealand Geological Survey Paleontological Bulletin, 59: 1–128.
+
+Natland, M.L., Gonzalez, E., Cañon, A. and Ernst, M. (1974). A system of stages for correlation of Magallanes Basin sediments. Geological Society of America, Memoir, 139, 1-126.
 
 Ogg, James,  Ogg, Gabi and Gradstein, Felix. (2016). A Concise Geologic TimeScale.
 
