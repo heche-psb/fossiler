@@ -303,6 +303,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The fossil speceis *Eophylica priscastellata* was found in Tanaing mines and Hkamti mines, estimated as earliest Cenomanian (98.79 ± 0.62 mya) and early Albian (109.7 ± 0.4 mya), respectively. We used 110.1 - 109.3 mya as the age of the fossil.
 
+:leaves: **${\text{\color{green} Fossil \ No.24}}$**
+
+**Brief Desription:** The oldest fossil found in Fabales.
+
+**Age Bounds:** 145.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Fontainea grandifolia*, Upper Belcourt Ridge, Commotion Formation, Cretaceous of Canada.
+
+**Phylogenetic Justification:** (Mellon et al., 1963) reported and diagnosed the fossil as *Fontainea grandifolia*. (Andrews, 1970) proposed its assignment to Leguminosae.
+
+**Age Justification:** The age of Commotion Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -351,6 +363,8 @@ H. N. Andrews. (1970). Index of Generic Names of Fossil Plants, 1820-1965. Geolo
 Isaac, M.J. and Lindqvist, J.K. (1990). Geology and lignite resources of the East Southland Group, New Zealand. New Zealand Geological Survey Bulletin, 101: 1–202.
 
 I. Z. Kotova. (1978). Spores and pollen from Cretaceous deposits of the eastern North Atlantic Ocean, Deep Sea Drealing Project, Leg. 41, Sites 367 and 370. Deep Sea Drealing Project, 41: 841-881.
+
+G.B. Mellon, J.H. Hall, and C.R. Stelck. (1963). Lower Cretaceous Section, Belcourt Ridge, Northeastern British Columbia. Bulletin of Canadian Petroleum Geology 11: 64-72.
 
 G. F. W. Herngreen. (1973). Palynology of the Albian-Cenomanian strata of Borehole 1-QS-1-MA, State of Maranhao, Brazil. Pollen et Spores, 15(3-4): 515-555.
 
