@@ -279,6 +279,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** *Myricipites sp.* was also found in Furao Formation of Heilongjiang Province at the Upper Cretaceous (Liu, 1983). The oldest of Wotoushan Formation can be at Lower Cretaceous (Xing et al., 2011). Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.22}}$**
+
+**Brief Desription:** The oldest fossil found in Cucurbitales.
+
+**Age Bounds:** 56.0 - 47.8 mya
+
+**Taxon & Specimen & Rock:** *Cucurbitospermum obliquum*, Lower Bagshot - Lake near Poole, Bagshot Formation, Eocene of the United Kingdom.
+
+**Phylogenetic Justification:** (Chandler, 1962) assigned the fossil to genus *Cucurbitospermum* and described the fossil *Cucurbitospermum obliquum* and (Andrews, 1970) put the genus *Cucurbitospermum* to Cucurbitaceae..
+
+**Age Justification:** (Chandler, 1962) adopted the age of Bagshot Formation to be Ypresian. Thus, we used the age 56.0 - 47.8 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -343,6 +355,8 @@ Liu Mu-ling 1983, The late Upper Cretaceous to Palaeogene sporen pollen assembla
 L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia, 16(1):115-126.
 
 M. E. Quattrocchio, M. A. Martínez, A. Carpinelli Pavisich and W. Volkheimer. (2006). Early Cretaceous palynostratigraphy, palynofacies and palaeoenvironments of well sections in northeastern Tierra del Fuego, Argentina. Cretaceous Research, 27: 584-602.
+
+M. E. J. Chandler. (1962). The Lower Tertiary Floras of Southern England. II. Flora of the Pipe-Clay Series of Dorset (Lower Bagshot). British Museum (Natural History) London, 1-176.
 
 Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Pliocene and Pleistocene), Wanganui, New Zealand (note). New Zealand Journal of Geology and Geophysics, 21:775-777.
 
