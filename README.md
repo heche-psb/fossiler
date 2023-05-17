@@ -158,7 +158,7 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The age of the middle Gore Lignite Measures is Late Oligocene or Early Miocene (Waitakian to Altonian Stage) based on studies of palynofloras of Oligocene and Miocene strata of Otago and Southland by (Pocknall and Mildenhall, 1984) and (Mildenhall and Pocknall, 1989). Given the close association between marine strata of Waitakian age and the lower and middle Gore Lignite Measures in the Waimumu area (Isaac and Lindqvist, 1990), (Ferguson et al., 2010) suggested the age of the lignite as Waitakian (late Oligocene to early Miocene). Thus, we used the age 27.82 - 15.97 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:microscope: **${\text{\color{green} Fossil \ No.13}}$**
+:microscope: **${\text{\color{green} Fossil \ No.12}}$**
 
 **Brief Desription:** The oldest fossil found in Liliales.
 
@@ -170,7 +170,7 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Justification:** The age of Six Hills Formation was estimated to be as late Barremian (Schrank and Mahmoud., 2002). Thus, we used the age 125.77 - 121.4 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:microscope: **${\text{\color{green} Fossil \ No.14}}$**
+:microscope: **${\text{\color{green} Fossil \ No.13}}$**
 
 **Brief Desription:** The oldest fossil found in Pandanales.
 
@@ -183,7 +183,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** On the basis of stratigraphic and palynological data, the South Amboy Fire Clay, Raritan Formation was dated as the age of Turonian (Doyle and Robbins, 1977; Harland et al., 1989). Thus, we used the age 93.9 - 89.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:leaves: **${\text{\color{green} Fossil \ No.15}}$**
+:leaves: **${\text{\color{green} Fossil \ No.14}}$**
 
 **Brief Desription:** The oldest fossil found in Dioscoreales.
 
@@ -195,7 +195,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of the Florissant Beds of Colorado was dated as Priabonian. Thus, we used the age 37.71 - 33.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:leaves: **${\text{\color{green} Fossil \ No.16}}$**
+:leaves: **${\text{\color{green} Fossil \ No.15}}$**
 
 **Brief Desription:** The oldest fossil found in Ceratophyllales.
 
@@ -207,7 +207,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of the Cheyenne Sandstone Formation is dated as Albian (Huang and Dilcher, 1994). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:leaves: **${\text{\color{green} Fossil \ No.17}}$**
+:leaves: **${\text{\color{green} Fossil \ No.16}}$**
 
 **Brief Desription:** The oldest fossil found in Ranunculales.
 
@@ -219,7 +219,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** (Dinis 2001; Dinis et al., 2002) suggested a Late Aptian age for the base of the Figueira da Foz Formation based on sedimentological and lithofacies correlations. ,correlation of a marine sequence in the Algarve Basin (dated on the basis of dinoflagellates and carbon-isotope data) with the sedimentary sequence in the Lusitanian Basin (western Portugal) has suggested that the base of the Figueira da Foz Formation could be slightly younger than previously thought, as to Early Albian. To be on the safe side, we used the age 121.4 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
-:leaves::microscope: **${\text{\color{green} Fossil \ No.18}}$**
+:leaves::microscope: **${\text{\color{green} Fossil \ No.17}}$**
 
 **Brief Desription:** The oldest fossil found in Proteales.
 
@@ -230,6 +230,19 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 **Phylogenetic Justification:** (Crane et al., 1993) described the fossil *Platanocarpus brookensis* with features: Pistillate inflorescences and infructescences consist of flowers in globose aggregations that are borne directly on the inflorescence axis; Individual flowers are sessile and each consists of five free carpels, surrounded by a prominent perianth. They proposed the affinity to Platanaceae of this fossil.
 
 **Age Justification:** The age of "bank near Brooke" of Subzone II-B zone was dated as early or middle Albian (Doyle and Hickey, 1976). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.18}}$**
+
+**Brief Desription:** The oldest fossil found in Trochodendrales.
+
+**Age Bounds:** 72.3 - 66.0 mya.
+
+**Taxon & Specimen & Rock:** *Tetracentronites panochetris*, Stanford University Paleontology Type Collection 6855, Panoche Formation (Great Valley Group), Del Puerto Canyon, Stanislaus County, California, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Page 1968) first described the fossil *Tetracentronites panochetris* and (Andrews, 1970) assigned it to Trochodendrales.
+
+**Age Justification:** According to (Page 1968), the age of Panoche Formation (Great Valley Group) was at Maastrichtian. Thus, we used the age 72.3 - 66.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -315,5 +328,7 @@ Scott R.W. (2009). Uppermost Albian biostratigraphy and chronostratigraphy. Carn
 Swisher, C.C., Wang, Y.Q., Wang, X.L., Xu, X. and Wang, Y. (1999). Cretaceous age for the feathered dinosaurs of Liaoning, China. Nature, 400: 58–61.
 
 Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
+
+V. M. Page. (1968). Angiosperm Wood from the Upper Creataceous of Central California: Part II. American Journal of Botany, 55(2): 168-172.
 
 Zhengyao Cao, Shunqing Wu, Ping'an and Li Jieru Zhang (1998). Discovery of fossil monocotyledons from Yixian Formation, western Liaoning. Chinese Science Bulletin, 43(3): 230-233.
