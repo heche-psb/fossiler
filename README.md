@@ -185,7 +185,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 :leaves: **${\text{\color{green} Fossil \ No.15}}$**
 
-**Brief Desription:** The oldest fossil found in Dioscoreales..
+**Brief Desription:** The oldest fossil found in Dioscoreales.
 
 **Age Bounds:** 37.71 - 33.9 mya.
 
@@ -194,6 +194,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 **Phylogenetic Justification:** (MacGinitie, 1953) reported the fossil *Dioscorea sp.* at the Florissant Beds of Colorado. (Knowlton, 1919) suggested the *Dioscorea sp.* to be assigned into Dioscoreaceae.
 
 **Age Justification:** The age of the Florissant Beds of Colorado was dated as Priabonian. Thus, we used the age 37.71 - 33.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.16}}$**
+
+**Brief Desription:** The oldest fossil found in Ceratophyllales.
+
+**Age Bounds:** 113.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Ceratophyllum sp.*, Cheyenne Sandstone Formation, Belvidere, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Huang and Dilcher, 1994) reported the fossil *Ceratophyllum sp.* at the Cheyenne Sandstone Formation of Kiowa County, Kansas. The assignment of the fossil to Ceratophyllaceae follows the definition of Carl Linnaeus. 
+
+**Age Justification:** The age of the Cheyenne Sandstone Formation is dated as Albian (Huang and Dilcher, 1994). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -253,6 +265,8 @@ Patil, G. V., & Singh, R. B. (1978). Fossil Eichhornia from the Eocene Deccan In
 Pocknall, D.T. and Mildenhall, D.C. (1984). Late Oligocene–early Miocene spores and pollen from Southland, New Zealand. New Zealand Geological Survey Paleontological Bulletin, 51: 1–66.
 
 Pons, D., Berthou, P.Y., Filgueira, J.B.M., Sampaio, J.J.A. (1996). Palynologie des unités lithostratigraphique “Fundao”, “Crato” et “Ipubi” (Aptien supérieur à Albien inférieurmoyen, Bassin d'Araripe, NE du Brésil): enseignements paléoécologiques, stratigraphiques et climatologiques. In: Jardiné, S., Klasz, I., Debenet, J.-P. (Eds.), Géologie de l'Afrique et de l'Atlantique Sud. Elf Aquitaine Memoire, Pau, pp. 383–401.
+
+Q. C. Huang and D. L. Dilcher. (1994). Evolutionary and Paleoecological Implications of Fossil Plants from the Lower Cretaceous Cheyenne Sandstone of the Western Interior. Geological Society of America Special Paper, 287:129-144.
 
 Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia do Araripe e das Bacias Interiores do Nordeste—Brasil. In: Barros, L.M., Nuvens, P.C., Filgueira, J.B.M. (Eds.), I e II Simpósios Sobre a Bacia do Araripe e Bacias Interiores do Nordeste. Universidade Regional do Cariri—URCA, Crato, pp. 101–108.
 
