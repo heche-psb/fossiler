@@ -261,13 +261,23 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Bounds:** 139.8 - 121.4 mya.
 
-**Taxon & Specimen & Rock:** *Tricolpites sp.*, pollen, CA-5-1982, CU-40-1989, Springhill Formation, Doceava Región, Chile.
+**Taxon & Specimen & Rock:** *Tricolpites sp.*, pollen, CA-5-1982, CU-40-1989, Springhill Formation, Doceava Región, Cretaceous of Chile.
 
 **Phylogenetic Justification:** (Quattrocchio et al., 2006) reported the pollen of *Tricolpites sp.* and followed the classification of (Jarzen, 1982) to assign it to Gunneraceae.
 
 **Age Justification:** Above the Springhill Formation is the Pampa Rincón Formation (*Inoceramus* Inferior or Shales with Chert) of Barremian - Early Aptian age (Natland et al., 1974), the age of Springhill Formation was estimated as Valanginian - Barremian (Quattrocchio et al., 2006). Thus, we used the age 139.8 - 121.4 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.21}}$**
 
+**Brief Desription:** The oldest fossil found in Fagales.
+
+**Age Bounds:** 145.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Myricipites sp.*, spores and pollen grain, Baoyuan track site, Wotoushan Formation (Jiaguan Formation), the Chishui area, Guizhou Province, Cretaceous of China
+
+**Phylogenetic Justification:** (Xing et al., 2011) recovered the fossil as *Myricipites sp.* based on the morphology of spores and pollen grain. The classification of *Myricipites sp.* to Myricaceae follows the definition of (R. N. Lakhanpal et al., 1976).
+
+**Age Justification:** *Myricipites sp.* was also found in Furao Formation of Heilongjiang Province at the Upper Cretaceous (Liu, 1983). The oldest of Wotoushan Formation can be at Lower Cretaceous (Xing et al., 2011). Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -325,6 +335,10 @@ Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geologic
 L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó Formation, Parnaıba Basin, NE Brazil. Cretaceous Research, 14(6): 735-746.
 
 Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia 16(1):115-126.
+
+L.-d. Xing, J. D. Harris, G. D. Gierlinski, W.-m. Wang, Z.-y. Wang and D.-q. Li. (2011). Middle Cretaceous non–avian theropod trackways from the southern margin of the Sichuan Basin, China. Acta Palaeontologica Sinica, 50(4): 470-480.
+
+Liu Mu-ling 1983, The late Upper Cretaceous to Palaeogene sporen pollen assemblages from the Furao area, Heilongjiang Province.Bulletin of the Shenyang Institute of Geology and Mineral Resources, Chinese Academy of Geological Sciences, 7: 99-132.
 
 L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia, 16(1):115-126.
 
