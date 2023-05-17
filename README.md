@@ -243,6 +243,17 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** According to (Page 1968), the age of Panoche Formation (Great Valley Group) was at Maastrichtian. Thus, we used the age 72.3 - 66.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.19}}$**
+
+**Brief Desription:** The oldest fossil found in Buxales.
+
+**Age Bounds:** 113.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Hexaporotricolpites lamellaferus*, Borehole 1-QS-1-MA, Sample 14, Preguicas Formation, Cretaceous to of Brazil.
+
+**Phylogenetic Justification:** (Herngreen, 1973) described the fossil *Hexaporotricolpites lamellaferus* and (Kotova, 1978) suggested of assigning *Hexaporotricolpites* to Didymelaceae.
+
+**Age Justification:** The age of Preguicas Formation was dated as Lower Albian (Herngreen, 1973). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -288,6 +299,10 @@ Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel P
 H. N. Andrews. (1970). Index of Generic Names of Fossil Plants, 1820-1965. Geological Survey Bulletin, 1-354.
 
 Isaac, M.J. and Lindqvist, J.K. (1990). Geology and lignite resources of the East Southland Group, New Zealand. New Zealand Geological Survey Bulletin, 101: 1–202.
+
+I. Z. Kotova. (1978). Spores and pollen from Cretaceous deposits of the eastern North Atlantic Ocean, Deep Sea Drealing Project, Leg. 41, Sites 367 and 370. Deep Sea Drealing Project, 41: 841-881.
+
+G. F. W. Herngreen. (1973). Palynology of the Albian-Cenomanian strata of Borehole 1-QS-1-MA, State of Maranhao, Brazil. Pollen et Spores, 15(3-4): 515-555.
 
 Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
 
