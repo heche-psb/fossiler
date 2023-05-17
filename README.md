@@ -283,13 +283,25 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Brief Desription:** The oldest fossil found in Cucurbitales.
 
-**Age Bounds:** 56.0 - 47.8 mya
+**Age Bounds:** 56.0 - 47.8 mya.
 
 **Taxon & Specimen & Rock:** *Cucurbitospermum obliquum*, Lower Bagshot - Lake near Poole, Bagshot Formation, Eocene of the United Kingdom.
 
 **Phylogenetic Justification:** (Chandler, 1962) assigned the fossil to genus *Cucurbitospermum* and described the fossil *Cucurbitospermum obliquum* and (Andrews, 1970) put the genus *Cucurbitospermum* to Cucurbitaceae..
 
 **Age Justification:** (Chandler, 1962) adopted the age of Bagshot Formation to be Ypresian. Thus, we used the age 56.0 - 47.8 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.23}}$**
+
+**Brief Desription:** The oldest fossil found in Rosales.
+
+**Age Bounds:** 110.1 - 109.3 mya.
+
+**Taxon & Specimen & Rock:** *Eophylica priscastellata* and *Phylica piloburmensis*, Burmese amber, Hkamti amber (QUST collection), Holotype No. QUST-AM32413 and No. QUST-AM32127, Sagaing, Cretaceous of Myanmar.
+
+**Phylogenetic Justification:** (Shi et al., 2022) diagnosed the fossil species *Eophylica priscastellata* as identical to *Phylica* except with 8 sepals (2 × 4-merous) (versus 5 in Phylica), lacking petals (present in most *Phylica*, although secondarily reversed independently in several crown species), and indumentum composed of stellate rhamnaceous hairs (simple in *Phylica*). Ovary inferior, fused to receptacle. Style columnar, simple. Fruit a typical capsule, obovoid, about 5.0 mm long, crowned with persistent base of calyx with a convex calyx area. While for the fossil species *Phylica piloburmensis*, Leaves slightly wider (1.5–2.0 mm wide, 4.5–8.0 mm long) and both ad- and abaxial sides covered with simple linear hairs. Flowers not single but forming a capitulum. Petals present. Fruit covered with dense indumentum. They suggested of assigning these fossils to Rhamnaceae.
+
+**Age Justification:** The fossil speceis *Eophylica priscastellata* was found in Tanaing mines and Hkamti mines, estimated as earliest Cenomanian (98.79 ± 0.62 mya) and early Albian (109.7 ± 0.4 mya), respectively. We used 110.1 - 109.3 mya as the age of the fossil.
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -383,6 +395,8 @@ R. N. Lakhanpal, H. K. Maheshwari, and N. Awasthi. (1976). A Catalogue of Indian
 S. Archangelsky. (1973). Palinología del Paleoceno de Chubut. I. Descripciones Sistemáticas. Ameghiniana, 10(4): 339-399.
 
 S. Archangelsky, A. Archangelsky, and G. Cladera. (2012). Palinología y paleoambientes en el perfil de Bajo Comisión (Cretácico), provincia de Santa Cruz, Argentina. Revista del Museo Argentino de Ciencias Naturales, 14(1):23-39.
+
+Shi, C., Wang, S., Cai, Hh. et al. (2022). Fire-prone Rhamnaceae with South African affinities in Cretaceous Myanmar amber. Nat. Plants 8, 125–135.
 
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
