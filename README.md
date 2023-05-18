@@ -555,10 +555,96 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Visser Member (Peñas Coloradas Formation) was estimated as Danian. Thus, we used the age 66.0 - 61.6 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.45}}$**
+
+**Brief Desription:** The oldest fossil found in Gentianales.
+
+**Age Bounds:** 66.0 - 61.6 mya.
+
+**Taxon & Specimen & Rock:** *cf. Cricotriporites*, pollen, Danian samples 1, 3, 4, 6, 8, 11, San Ramon section, Lefipán Formation, Paleocene of Argentina.
+
+**Phylogenetic Justification:** (Barreda et al.,2012) found and identified the fossil *cf. Cricotriporites*. Following the adoption of (Jaramillo and Dilcher., 2001) we set the fossil as Apocynaceae.
+
+**Age Justification:** The fossil was solely found at Danian samples. Thus, we used the age 66.0 - 61.6 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.46}}$**
+
+**Brief Desription:** The oldest fossil found in Lamiales.
+
+**Age Bounds:** 145.0 - 66.0 mya.
+
+**Taxon & Specimen & Rock:** *Bignonites chalianus*, macrofossils, Cerro Cachetamán, Chubut, Cretaceous of Argentina.
+
+**Phylogenetic Justification:** (Menéndez, 1959) from the flora of the Castillo series found and classified the fossil *Bignonites chalianus* as Bignoniaceae.
+
+**Age Justification:** The age of flora was estimated as Cretaceous (Menéndez, 1959). Thus, we used the age 145.0 - 66.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:microscope: **${\text{\color{green} Fossil \ No.47}}$**
+
+**Brief Desription:** The oldest fossil found in Solanales.
+
+**Age Bounds:** 56.0 - 47.8 mya.
+
+**Taxon & Specimen & Rock:** *Perfotricolpites digitatus*, spore pollen, Catatumbo Basin II, II pollen zone, Mirador Formation, Norte de Santander, Eocene of Colombia.
+
+**Phylogenetic Justification:** (González-Guzmán, 1967) reported the fossil *Perfotricolpites digitatus* on his work on the upper Los Cuervos and Mirador formations and decided the phylogenetic assignment at Convolvulaceae.
+
+**Age Justification:** The age of the II pollen zone of Mirador Formation was estimated to be Lower Eocene. Thus, we used the age 56.0 - 47.8 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.48}}$**
+
+**Brief Desription:** The oldest fossil found in Aquifoliales.
+
+**Age Bounds:** 100.5 - 93.9 mya.
+
+**Taxon & Specimen & Rock:** *Ilex serrata*, macrofossils, KJ9403 (DMNH 947), Dakota Formation, Grand County, Utah, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Johnson, 2003) summarized the fossil records of Kirk Johnson fieldwork and identified the fossil *Ilex serrata*. Following the classification of (Liu et al., 1996) we assigned it to Aquifoliaceae.
+
+**Age Justification:** The age of Dakota Formation was estimated as Cenomanian. Thus, we used the age 100.5 - 93.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:microscope: **${\text{\color{green} Fossil \ No.49}}$**
+
+**Brief Desription:** The oldest fossil found in Escalloniales.
+
+**Age Bounds:** 33.9 - 27.82 mya.
+
+**Taxon & Specimen & Rock:** *Quintinia psilatispora*, pollen, Cethana Dam, Proteacidites tuberculatus pollen zone, Tasmania, Oligocene of Australia.
+
+**Phylogenetic Justification:** (Hill, 1984) reported and identified the pollen fossil of *Quintinia psilatispora*. Following the opinion of (Jordan, 1997), we set it as Escalloniaceae.
+
+**Age Bounds:** The age of Proteacidites tuberculatus pollen zone was estimated as Lower Oligocene. Thus, we used the age 33.9 - 27.82 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.50}}$**
+
+**Brief Desription:** The oldest fossil found in Asterales.
+
+**Age Bounds:** 86.8 - 71.9 mya.
+
+**Taxon & Specimen & Rock:** *Calycithes sp.*, macrofossils, Comox Coalfield 3768, Comox Formation (Nanaimo Group), Cretaceous of Canada.
+
+**Phylogenetic Justification:** (Bell, 1957) reported the fossil species *Calycithes sp.* on the flora of the Nanaimo Group. (MacGinitie, 1941) proposed the phylogenetic assignment of *Celastrinites* to Celastraceae.
+
+**Age Justification:** The age of Comox Formation was estimated to be mid-Santonian to early Campanian (Hamblin, 2012). Thus, we used the age 86.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.51}}$**
+
+**Brief Desription:** The oldest fossil found in Dipsacales.
+
+**Age Bounds:** 145.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Viburnites Evansanus*, macrofossils, Hot Springs #2, Cretaceous Formation, South Dakota, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Ward, 1899) found and identified the fossil *Viburnites Evansanus* at the Cretaceous Formation of the Black Hills. Following the classification of (Knowlton, 1919) we put it at Caprifoliaceae.
+
+**Age Justification:** The age of Hot Springs #2, Cretaceous Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 A. A. M. Eisawi, A. B. Ibrahim, O. B. A. Rahim and E. Schrank. (2012). Palynozonation of the Cretaceous to Lower Paleogene Strata of the Muglad Basin, Sudan. Palynology, 36(2): 191-207.
 
 A. Chandrasekharam. (1974). Megafossil flora from the Genesee Locality, Alberta, Canada. Palaeontographica Abteilung B, 147: 1-41.
+
+A. E. González-Guzmán. (1967). A palynological study on the upper Los Cuervos and Mirador formations (Lower and middle Eocene; Tibu area, Colombia). 1-68.
 
 A. Iglesias, P. Wilf, K. R. Johnson, A. B. Zamuner, N. R. Cúneo and S. D. Matheos. (2007). A Paleocene lowland macroflora from Patagonia reveals signifcantly greater richness than North American analogs. Geology 35(10): 947-950.
 
@@ -573,6 +659,10 @@ Bertels, A., (1975). Bioestratigrafía del Paleógeno en la República Argentina
 Brenner, G.J. (1963). The spores and pollen of the Potomac Group of Maryland. Maryland Department of Geology, Mines and Water Resources, 27: 215.
 
 Brenner, G. J. and Bickoff, I. S. (1992). Palynology and Age of the Lower Cretaceous Basal Kurnub Group from the Coastal Plain to the Northern Negev of Israel. Palynology, 16: 137–185.
+
+C. A. Jaramillo and D. L. Dilcher. (2001). Middle Paleogene palynology of Central Colombia, South America: A study of pollen and spores from tropical latitudes. Palaeontographica Abteilung B, 258(4-6): 87-213.
+
+C. A. Menéndez. (1959). Flora cretacica de la serie del Castillo al S del Cerro Cachetaman, Chubut. Revista de la Asociación Geológica Argentina XIV(3-4): 219-238.
 
 C. Hoorn. (1993). Marine incursions and the influence of Adean tectonics on the Miocene depositional history of northwestern Amazonia: results of a palynostratigraphic study. Palaeogeography, Palaeoclimatology, Palaeoecology, 105: 267-309.
 
@@ -618,9 +708,13 @@ G.B. Mellon, J.H. Hall, and C.R. Stelck. (1963). Lower Cretaceous Section, Belco
 
 G. F. W. Herngreen. (1973). Palynology of the Albian-Cenomanian strata of Borehole 1-QS-1-MA, State of Maranhao, Brazil. Pollen et Spores, 15(3-4): 515-555.
 
+G. J. Jordan. (1997). Evidence of Pleistocene plant extinction and diversity from Regatta Point, western Tasmania, Australia. Botanical Journal of the Linnean Society, 123: 45-71.
+
 Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
 
 Harland, W. B., R. L. Armstrong, A. V. Cox, L. A. Craig, A. G. Smith, and D. G. Smith. (1989). A geologic time scale. Cambridge University Press, Cambridge, UK.
+
+H. D. MacGinitie. (1941). A Middle Eocene Flora from the Central Sierra Nevada. Carnegie Institution of Washington Publication, 534: 1-178.
 
 H. D. MacGinitie. (1953). Fossil Plants of the Florissant Beds of Colorado. Carnegie Inst. of Washington, Contributions to Paleontology Publ, 599: 1-198.
 
@@ -634,13 +728,15 @@ I. Z. Kotova. (1978). Spores and pollen from Cretaceous deposits of the eastern 
 
 K. Ozaki. (1974). Miocene floras of the Pacific side of central Japan (I) Inkyoyama flora. Science Reports of the Yokohama National University, Section II, 21: 1-21.
 
+K. R. Johnson. (2003). Denver Museum of Nature & Science archival records of Kirk Johnson fieldwork in Cretaceous rocks of the Rocky Mountain region.
+
 L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó Formation, Parnaıba Basin, NE Brazil. Cretaceous Research, 14(6): 735-746.
 
 L.-d. Xing, J. D. Harris, G. D. Gierlinski, W.-m. Wang, Z.-y. Wang and D.-q. Li. (2011). Middle Cretaceous non–avian theropod trackways from the southern margin of the Sichuan Basin, China. Acta Palaeontologica Sinica, 50(4): 470-480.
 
 Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia 16(1): 115-126.
 
-L.F. Ward. (1899). The Cretaceous formation of the Black Hills as as indicated by the fossil plants. Cretaceous Formation of the Black Hills.
+L.F. Ward. (1899). The Cretaceous formation of the Black Hills as indicated by the fossil plants. Cretaceous Formation of the Black Hills.
 
 Liu Mu-ling 1983, The late Upper Cretaceous to Palaeogene sporen pollen assemblages from the Furao area, Heilongjiang Province.Bulletin of the Shenyang Institute of Geology and Mineral Resources, Chinese Academy of Geological Sciences, 7: 99-132.
 
@@ -688,6 +784,8 @@ R. N. Lakhanpal, H. K. Maheshwari, and N. Awasthi. (1976). A Catalogue of Indian
 
 R. Srivastava. (1991). A Catalogue of Fossil Plants from India Part 4: Cenozoic (Tertiary) Megafossils. 1-45.
 
+R. S. Hill. (1984). Tertiary Nothofagus macrofossils from Cethana, Tasmania. Alcheringa, 8(1): 81-86.
+
 S. Archangelsky. (1973). Palinología del Paleoceno de Chubut. I. Descripciones Sistemáticas. Ameghiniana, 10(4): 339-399.
 
 S. Archangelsky, A. Archangelsky, and G. Cladera. (2012). Palinología y paleoambientes en el perfil de Bajo Comisión (Cretácico), provincia de Santa Cruz, Argentina. Revista del Museo Argentino de Ciencias Naturales, 14(1):23-39.
@@ -707,6 +805,8 @@ Swisher, C.C., Wang, Y.Q., Wang, X.L., Xu, X. and Wang, Y. (1999). Cretaceous ag
 T. L. Dutra and D. J. Batten. (2000). Upper Cretaceous floras of King George Island, West Antarctica, and their palaeoenvironmental and phytogeographic implications. Cretaceous Research, (21): 181-209.
 
 Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
+
+V. D. Barreda, N. R. Cúneo, P. Wilf, E. D. Currano, R. A. Scasso and H. Brinkhuis. (2012). Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLoS ONE, 7(12): e52455.
 
 V. M. Page. (1968). Angiosperm Wood from the Upper Creataceous of Central California: Part II. American Journal of Botany, 55(2): 168-172.
 
