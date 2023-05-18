@@ -315,6 +315,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Commotion Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.25}}$**
+
+**Brief Desription:** The oldest fossil found in Celastrales.
+
+**Age Bounds:** 83.8 - 71.9 mya.
+
+**Taxon & Specimen & Rock:** *Celastrinites wardii*, Extension 3771, Extension Formation (Nanaimo Group), Vancouver Island, British Columbia, Cretaceous to of Canada.
+
+**Phylogenetic Justification:** (Bell, 1957) reported the fossil species *Celastrinites wardii* on the flora of the Nanaimo Group. (Knowlton, 1919) proposed the phylogenetic assignment of *Celastrinites* to Celastraceae.
+
+**Age Justification:** The age of Extension Formation was estimated to be Early Campanian (Bell, 1957). Thus, we used the age 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -421,5 +433,7 @@ Swisher, C.C., Wang, Y.Q., Wang, X.L., Xu, X. and Wang, Y. (1999). Cretaceous ag
 Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
 
 V. M. Page. (1968). Angiosperm Wood from the Upper Creataceous of Central California: Part II. American Journal of Botany, 55(2): 168-172.
+
+W. A. Bell. (1957). Flora of the Upper Cretaceous Nanaimo Group of Vancouver Island, British Columbia. Geological Survey of Canada Memoir, 293: 1-84.
 
 Zhengyao Cao, Shunqing Wu, Ping'an and Li Jieru Zhang (1998). Discovery of fossil monocotyledons from Yixian Formation, western Liaoning. Chinese Science Bulletin, 43(3): 230-233.
