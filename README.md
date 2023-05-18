@@ -351,6 +351,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Eutaw Formation was suggested to be Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.28}}$**
+
+**Brief Desription:** The oldest fossil found in Zygophyllales.
+
+**Age Bounds:** 72.3 - 66.0 mya.
+
+**Taxon & Specimen & Rock:** *Guaiacum takliensis*, mesofossils, Takli Formation, Takli, Nagpur, Manharashtra, Cretaceous of India.
+
+**Phylogenetic Justification:** (Hislop, 1861) reported the fossil *Guaiacum takliensis* and (Srivastava, 1991) classified it as Zygophyllaceae.
+
+**Age Justification:** The age of Takli Formation was suggested to be Upper Maastrichtian. Thus, we used the age 72.3 - 66.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -448,6 +460,8 @@ Rios-Netto, A.M., Regali, M.S.P. (2007). Estudo bioestratigráfico, paleoclimát
 
 R. N. Lakhanpal, H. K. Maheshwari, and N. Awasthi. (1976). A Catalogue of Indian Fossil Plants. 1-318.
 
+R. Srivastava. (1991). A Catalogue of Fossil Plants from India Part 4: Cenozoic (Tertiary) Megafossils. 1-45.
+
 S. Archangelsky. (1973). Palinología del Paleoceno de Chubut. I. Descripciones Sistemáticas. Ameghiniana, 10(4): 339-399.
 
 S. Archangelsky, A. Archangelsky, and G. Cladera. (2012). Palinología y paleoambientes en el perfil de Bajo Comisión (Cretácico), provincia de Santa Cruz, Argentina. Revista del Museo Argentino de Ciencias Naturales, 14(1):23-39.
@@ -457,6 +471,8 @@ Shi, C., Wang, S., Cai, Hh. et al. (2022). Fire-prone Rhamnaceae with South Afri
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
 Scott R.W. (2009). Uppermost Albian biostratigraphy and chronostratigraphy. Carnets de Géologie / Notebooks on Geology, Brest, Article 2009/03 (CG2009_A03)
+
+S. Hislop. (1861). Remarks on the geology of Nágpur. Journal of the Bombay Branch of the Royal Asiatic Society, 6: 194-204.
 
 Swisher, C.C., Wang, Y.Q., Wang, X.L., Xu, X. and Wang, Y. (1999). Cretaceous age for the feathered dinosaurs of Liaoning, China. Nature, 400: 58–61.
 
