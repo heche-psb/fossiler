@@ -327,6 +327,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Extension Formation was estimated to be Early Campanian (Bell, 1957). Thus, we used the age 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.26}}$**
+
+**Brief Desription:** The oldest fossil found in Oxalidales.
+
+**Age Bounds:** 83.8 - 66.0 mya
+
+**Taxon & Specimen & Rock:** aff. *Elaeocarpus sp.*, leaves, ELA/RHA protophyll morphyotype, Zamek Hill assemblage, Zamek Formation, Zamek Hill, Admiralty Bay, Cretaceous to of Antarctica.
+
+**Phylogenetic Justification:** (Dutra and Batten, 2000) reported the leaf fossil of *Elaeocarpus sp.* after the morphological group of (Crabtree, 1987) and suggested its phylogenetic assignment to Elaeocarpaceae.
+
+**Age Justification:** The age of Zamek Formation was suggested to be Late Campanian - Maastrichtian. Thus, we used the age 83.8 - 66.0 mya, as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -335,6 +347,8 @@ Bell, W. A. (1949). Uppermost Cretaceous and Paleocene floras of western Alberta
 Brenner, G.J. (1963). The spores and pollen of the Potomac Group of Maryland. Maryland Department of Geology, Mines and Water Resources, 27: 215.
 
 Brenner, G. J. and Bickoff, I. S. (1992). Palynology and Age of the Lower Cretaceous Basal Kurnub Group from the Coastal Plain to the Northern Negev of Israel. Palynology, 16: 137–185.
+
+Crabtree, D. R. (1987). Angiosperms of the Northern Rocky Mountains: Albian to Campanian (Cretaceous) Megafossil Floras. Annals of the Missouri Botanical Garden, 74(4): 707–747.
 
 David K. Ferguson, Daphne E. Lee, Jennifer M. Bannister, Reinhard Zetter, Gregory J. Jordan, Norbert Vavra, Dallas C. Mildenhall (2010). The taphonomy of a remarkable leaf bed assemblage from the Late Oligocene–Early Miocene Gore Lignite Measures, southern New Zealand. International Journal of Coal Geology, 83(2-3): 173-181.
 
@@ -429,6 +443,8 @@ Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, sp
 Scott R.W. (2009). Uppermost Albian biostratigraphy and chronostratigraphy. Carnets de Géologie / Notebooks on Geology, Brest, Article 2009/03 (CG2009_A03)
 
 Swisher, C.C., Wang, Y.Q., Wang, X.L., Xu, X. and Wang, Y. (1999). Cretaceous age for the feathered dinosaurs of Liaoning, China. Nature, 400: 58–61.
+
+T. L. Dutra and D. J. Batten. (2000). Upper Cretaceous floras of King George Island, West Antarctica, and their palaeoenvironmental and phytogeographic implications. Cretaceous Research, (21): 181-209.
 
 Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen from a low-latitude succession (Araripe Basin, NE Brazil). Review of Palaeobotany and Palynology, 161(3-4): 105-126.
 
