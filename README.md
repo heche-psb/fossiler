@@ -337,7 +337,19 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Phylogenetic Justification:** (Dutra and Batten, 2000) reported the leaf fossil of *Elaeocarpus sp.* after the morphological group of (Crabtree, 1987) and suggested its phylogenetic assignment to Elaeocarpaceae.
 
-**Age Justification:** The age of Zamek Formation was suggested to be Late Campanian - Maastrichtian. Thus, we used the age 83.8 - 66.0 mya, as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+**Age Justification:** The age of Zamek Formation was suggested to be Late Campanian - Maastrichtian. Thus, we used the age 83.8 - 66.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.27}}$**
+
+**Brief Desription:** The oldest fossil found in Malpighiales.
+
+**Age Bounds:** 145.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Salix lesquereuxii* and *Salix flexuosa*, Chimney Bluff, Eutaw Formation, Chattahoochee County, Georgia, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Berry, 1914) reported the two *Salix* fossils and (Knowlton, 1926) proposed its phylogenetic assignment to Salicaceae.
+
+**Age Justification:** The age of Eutaw Formation was suggested to be Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -370,17 +382,21 @@ Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of e
 
 Doyle, J.A. and L. J. HICKEY. (1976). Pollen and leaves from the mid-Cretaceous Potomac Group and their bearing on early angiosperm evolution. Pp. 139- 206 in *Origin and early evolution of angiosperms*, ed. C. B. Beck. New York: Columbia Univ. Press.
 
-E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophora* gen. et sp. nov., a new Early Cretaceous plant with similarities to Circaeaster and extant Magnoliidae. American Journal of Botany, 82(7):933-943.
+E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophora* gen. et sp. nov., a new Early Cretaceous plant with similarities to Circaeaster and extant Magnoliidae. American Journal of Botany, 82(7): 933-943.
 
-E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31:1-55.
+E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31: 1-55.
 
 E. Schrank and M. S. Mahmoud. (2002). Barremian angiosperm pollen and associated palynomorphs from the Dakhla Oasis Area, Egypt. Palaeontology, 45(1): 33-56.
 
-F. H. Knowlton. (1919). A catalogue of the Mesozoic and Cenozoic plants of North America. United States Geological Survey Bulletin, 696:1-815.
+E. W. Berry. (1914). The Upper Cretaceous and Eocene floras of South Carolina and Georgia. US Geological Survey Professional Paper 84: 1-200.
+
+F. H. Knowlton. (1919). A catalogue of the Mesozoic and Cenozoic plants of North America. United States Geological Survey Bulletin, 696: 1-815.
+
+F. H. Knowlton. (1926). Flora of the Latah formation of Spokane, Washington, and Coeur d'Alene, Idaho. US Geological Survey Professional Paper 140(A): 17-55.
 
 Harland, W. B., R. L. Armstrong, A. V. Cox, L. A. Craig, A. G. Smith, and D. G. Smith. (1989). A geologic time scale. Cambridge University Press, Cambridge, UK.
 
-H. D. MacGinitie. (1953). Fossil Plants of the Florissant Beds of Colorado. Carnegie Inst. of Washington, Contributions to Paleontology Publ, 599:1-198.
+H. D. MacGinitie. (1953). Fossil Plants of the Florissant Beds of Colorado. Carnegie Inst. of Washington, Contributions to Paleontology Publ, 599: 1-198.
 
 Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel Pérez-Pinedo, Jan Westerweel, Zaw Win, Day Wa Aung, Eko Budi Lelono, Galina N. Aleksandrova, Ramesh K. Saxena, Carina Hoorn (2023). A proto-monsoonal climate in the late Eocene of Southeast Asia: Evidence from a sedimentary record in central Myanmar. Geoscience Frontiers, 14(1): 101457.
 
