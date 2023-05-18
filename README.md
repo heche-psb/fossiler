@@ -639,6 +639,30 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Hot Springs #2, Cretaceous Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.52}}$**
+
+**Brief Desription:** The oldest fossil found in Paracryphiales.
+
+**Age Bounds:** 56.0 - 33.9 mya.
+
+**Taxon & Specimen & Rock:** *Sphenostemon spp.*, Alcoa Anglesea locality, Site II , Lens A, Victoria, Eocene of Australia.
+
+**Phylogenetic Justification:** (Christophel et al., 1987) from the Eocene flora of the Anglesea Locality discovered and identified the fossil *Sphenostemon spp.*. Following (Kershaw, 1976) we set it as Paracryphiaceae.
+
+**Age Justification:** The age of the Eocene flora was estimated as Upper Eocene (Christophel et al., 1987). To be on the safe side, we used the age 56.0 - 33.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.53}}$**
+
+**Brief Desription:** The oldest fossil found in Apiales.
+
+**Age Bounds:** 145.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Aralia wellingtoniana*, macrofossils, Upper Belcourt Ridge, Commotion Formation, British Columbia, Cretaceous of Canada.
+
+**Phylogenetic Justification:** (Mellon et al., 1963) reported and identified the fossil as *Aralia wellingtoniana*. Adopting the opinion of (Zhu et al, 2015), we assigned the fossil to Araliaceae.
+
+**Age Justification:** The age of Commotion Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 A. A. M. Eisawi, A. B. Ibrahim, O. B. A. Rahim and E. Schrank. (2012). Palynozonation of the Cretaceous to Lower Paleogene Strata of the Muglad Basin, Sudan. Palynology, 36(2): 191-207.
 
@@ -649,6 +673,8 @@ A. E. González-Guzmán. (1967). A palynological study on the upper Los Cuervos 
 A. Iglesias, P. Wilf, K. R. Johnson, A. B. Zamuner, N. R. Cúneo and S. D. Matheos. (2007). A Paleocene lowland macroflora from Patagonia reveals signifcantly greater richness than North American analogs. Geology 35(10): 947-950.
 
 A.P. Hamblin (2012). Upper Cretaceous Nanaimo Group of Vancouver Island as a potential bedrock aquifer zone: summary of previous literature and concepts. GEOLOGICAL SURVEY OF CANADA OPEN FILE 7265.
+
+A. P. Kershaw. (1976). A Late Pleistocene and Holocene pollen diagram from Lynch’s Crater, northeastern Queensland, Australia. New Phytologist, 77: 469-498.
 
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
@@ -669,6 +695,8 @@ C. Hoorn. (1993). Marine incursions and the influence of Adean tectonics on the 
 Crabtree, D. R. (1987). Angiosperms of the Northern Rocky Mountains: Albian to Campanian (Cretaceous) Megafossil Floras. Annals of the Missouri Botanical Garden, 74(4): 707–747.
 
 David K. Ferguson, Daphne E. Lee, Jennifer M. Bannister, Reinhard Zetter, Gregory J. Jordan, Norbert Vavra, Dallas C. Mildenhall (2010). The taphonomy of a remarkable leaf bed assemblage from the Late Oligocene–Early Miocene Gore Lignite Measures, southern New Zealand. International Journal of Coal Geology, 83(2-3): 173-181.
+
+D. C. Christophel, W. K. Harris, and A. K. Syber. (1987). The Eocene flora of the Anglesea Locality, Victoria. Alcheringa, 11(4): 303-323.
 
 de Lima, M. R. (1982). Palinologia da Formação Codó na região de Codó, Maranhão. Boletim IG, 13: 116-128.
 
@@ -721,6 +749,8 @@ H. D. MacGinitie. (1953). Fossil Plants of the Florissant Beds of Colorado. Carn
 Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel Pérez-Pinedo, Jan Westerweel, Zaw Win, Day Wa Aung, Eko Budi Lelono, Galina N. Aleksandrova, Ramesh K. Saxena, Carina Hoorn (2023). A proto-monsoonal climate in the late Eocene of Southeast Asia: Evidence from a sedimentary record in central Myanmar. Geoscience Frontiers, 14(1): 101457.
 
 H. N. Andrews. (1970). Index of Generic Names of Fossil Plants, 1820-1965. Geological Survey Bulletin, 1-354.
+
+H. Zhu, Y. J. Huang, and Z. K. Zhou. (2015). Systematic descriptions, in Fossil endocarps of Aralia (Araliaceae) from the upper Pliocene of Yunnan in southwest China, and their biogeographical implications. Review of Palaeobotany and Palynology, 223: 94-103.
 
 Isaac, M.J. and Lindqvist, J.K. (1990). Geology and lignite resources of the East Southland Group, New Zealand. New Zealand Geological Survey Bulletin, 101: 1–202.
 
