@@ -507,6 +507,42 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Abu Gabra Formation Zone II was Barremian-Aptian. Thus, we used the age 125.77 - 113.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.41}}$**
+
+**Brief Desription:** The oldest fossil found in Cornales.
+
+**Age Bounds:** 100.5 - 66.0 mya.
+
+**Taxon & Specimen & Rock:** *Cornophyllum wardii*, mesofossils, P3651, Lance Formation, Niobrara County, Wyoming, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Dorf, 1942) in the Cretaceous floras of the Rocky Mountain region dianogsed and identified the fossil *Cornophyllum wardii*. Following (Knowlton, 1919) we adopted its phylogenetic assignment as Cornaceae.
+
+**Age Justification:** The age of Lance Formation was estimated as Upper Cretaceous (Dorf, 1942). Thus, we used the age 100.5 - 66.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.42}}$**
+
+**Brief Desription:** The oldest fossil found in Icacinales.
+
+**Age Bounds:** 59.2 - 56.0 mya.
+
+**Taxon & Specimen & Rock:** *Natsiatum eocenicum*, mesofossils, Reading Beds - Broxbourne, Woolwich & Reading Beds Formation, Paleocene of the United Kingdom.
+
+**Phylogenetic Justification:** (Chandler, 1961) identified and reported the fossil *Natsiatum eocenicum* on the Lower Tertiary Floras of Woolwich & Reading Beds Formation. We adopted the classification of (Collinson et al., 2012) to assign it to Icacinaceae.
+
+**Age Justification:** The age of Woolwich & Reading Beds Formation was estimated as Thanetian. Thus, we used the age 59.2 - 56.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.43}}$**
+
+**Brief Desription:** The oldest fossil found in Garryales.
+
+**Age Bounds:** 66.0 - 63.3 mya.
+
+**Taxon & Specimen & Rock:** *Eucommia serrata*, L.J. Hickey locality Bugger, Fort Union Formation, Bighorn Basin, Wyoming, Paleocene of the United States.
+
+**Phylogenetic Justification:** (Wing et al., 1995) reported from the Bighorn Basin dataset the fossil *Eucommia serrata*. The phylogenetic assignment of it follows (Ozaki, 1974) to be Eucommiaceae.
+
+**Age Justification:** The fossil *Eucommia serrata* was found on sedimentary rock dated as old as Puercan. Thus, we used the age 66.0 - 63.3 mya as the age of the fossil, according to the [Paleobiology Database](https://paleobiodb.org/#/).
+
 ## References
 A. A. M. Eisawi, A. B. Ibrahim, O. B. A. Rahim and E. Schrank. (2012). Palynozonation of the Cretaceous to Lower Paleogene Strata of the Muglad Basin, Sudan. Palynology, 36(2): 191-207.
 
@@ -550,6 +586,8 @@ Doyle, J.A., Jardiné, S., Doerenkamp, A. (1982). *Afropollis*, a new genus of e
 
 Doyle, J.A. and L. J. HICKEY. (1976). Pollen and leaves from the mid-Cretaceous Potomac Group and their bearing on early angiosperm evolution. Pp. 139- 206 in *Origin and early evolution of angiosperms*, ed. C. B. Beck. New York: Columbia Univ. Press.
 
+E. Dorf. (1942). Upper Cretaceous floras of the Rocky Mountain region; Flora of the Lance Formation at its type locality, Niobrara County, Wyoming. Contributions to Palaeontology.
+
 E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophora* gen. et sp. nov., a new Early Cretaceous plant with similarities to Circaeaster and extant Magnoliidae. American Journal of Botany, 82(7): 933-943.
 
 E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31: 1-55.
@@ -582,6 +620,8 @@ Isaac, M.J. and Lindqvist, J.K. (1990). Geology and lignite resources of the Eas
 
 I. Z. Kotova. (1978). Spores and pollen from Cretaceous deposits of the eastern North Atlantic Ocean, Deep Sea Drealing Project, Leg. 41, Sites 367 and 370. Deep Sea Drealing Project, 41: 841-881.
 
+K. Ozaki. (1974). Miocene floras of the Pacific side of central Japan (I) Inkyoyama flora. Science Reports of the Yokohama National University, Section II, 21: 1-21.
+
 L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó Formation, Parnaıba Basin, NE Brazil. Cretaceous Research, 14(6): 735-746.
 
 L.-d. Xing, J. D. Harris, G. D. Gierlinski, W.-m. Wang, Z.-y. Wang and D.-q. Li. (2011). Middle Cretaceous non–avian theropod trackways from the southern margin of the Sichuan Basin, China. Acta Palaeontologica Sinica, 50(4): 470-480.
@@ -599,6 +639,8 @@ Méndez, I., (1966). Foraminíferos, edad y correlación estratigráfi ca del Sa
 M. E. Collinson, S. R. Manchester, and V. Wilde. (2012). Fossil Fruits and Seeds of the Middle Eocene Messel biota, Germany. Abhandlungen der Senckenbergischen Gesellschaft Naturforschenden 570: 1-249.
 
 M. E. Quattrocchio, M. A. Martínez, A. Carpinelli Pavisich and W. Volkheimer. (2006). Early Cretaceous palynostratigraphy, palynofacies and palaeoenvironments of well sections in northeastern Tierra del Fuego, Argentina. Cretaceous Research, 27: 584-602.
+
+M. E. J. Chandler. (1961). The Lower Tertiary Floras of Southern England. I. Palaeocene Floras. London Clay Flora (Supplement), 1-354.
 
 M. E. J. Chandler. (1962). The Lower Tertiary Floras of Southern England. II. Flora of the Pipe-Clay Series of Dorset (Lower Bagshot). British Museum (Natural History) London, 1-176.
 
@@ -639,6 +681,8 @@ S. Archangelsky, A. Archangelsky, and G. Cladera. (2012). Palinología y paleoam
 Shi, C., Wang, S., Cai, Hh. et al. (2022). Fire-prone Rhamnaceae with South African affinities in Cretaceous Myanmar amber. Nat. Plants 8, 125–135.
 
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
+
+S. L. Wing, J. Alroy, and L. J. Hickey. (1995). Plant and mammal diversity in the Paleocene to Early Eocene of the Bighorn Basin. Palaeogeography, Palaeoclimatology, Palaeoecology, 115: 117-155.
 
 Scott R.W. (2009). Uppermost Albian biostratigraphy and chronostratigraphy. Carnets de Géologie / Notebooks on Geology, Brest, Article 2009/03 (CG2009_A03)
 
