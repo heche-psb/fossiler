@@ -363,10 +363,40 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Takli Formation was suggested to be Upper Maastrichtian. Thus, we used the age 72.3 - 66.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.29}}$**
+
+**Brief Desription:** The oldest fossil found in Malvales.
+
+**Age Bounds:** 113.0-100.5.
+
+**Taxon & Specimen & Rock:** *Sterculia towneri*, macrofossils, 773 Hill Gould & Shattuck, Cheyenne Sandstone Formation, Kiowa County, Kansas, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Berry, 1922) reported the fossil *Sterculia towneri* and (Prasad, 2008) classified it to Sterculiaceae.
+
+**Age Justification:** The age of Cheyenne Sandstone Formation was estimated to be Albian. Thus, we used the age 113.0-100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:microscope: **${\text{\color{green} Fossil \ No.30}}$**
+
+**Brief Desription:** The oldest fossil found in Brassicales.
+
+**Age Bounds:** 66.0 - 61.6 mya.
+
+**Taxon & Specimen & Rock:** *Akania sp.* ,leaf species MPEF-Pb-2020, Palacio de los Loros 2, Salamanca Formation, Paleocene of Argentina.
+
+**Phylogenetic Justification:** (Iglesias et al., 2007) reported and identified the leaf fossil of *Akania sp.* by its morphology. (Wilf et al., 2005) adopted its phylogenetic assignment to Akaniaceae.
+
+**Age Justification:** The Salamanca Formation is generally assigned to the Danian stage, based on forami nif era and ostracoda from the northern and eastern parts of the basin (Méndez, 1966; Bertels, 1975). Specifically, the foraminifera species present, including *Globanomalina* (*Turborotalia*) *compressa* and *Globoconusa daubjergensis*, reliably indicate an upper Danian age (zone P1c) for the marine Salamanca (Olsson et al., 1999). The Palacio de los Loros megafloras locally overlie the marine Salamanca while underlie the Banco Negro Inferior, can thus be well constrained to an age near the Danian-Selandian boundary. We used the age 66.0 - 61.6 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+
+
 ## References
+A. Iglesias, P. Wilf, K. R. Johnson, A. B. Zamuner, N. R. Cúneo and S. D. Matheos. (2007). A Paleocene lowland macroflora from Patagonia reveals signifcantly greater richness than North American analogs. Geology 35(10): 947-950.
+
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
 Bell, W. A. (1949). Uppermost Cretaceous and Paleocene floras of western Alberta. Bulletin, Geological Survey of Canada, 13: 1–231.
+
+Bertels, A., (1975). Bioestratigrafía del Paleógeno en la República Argentina: Revista Española de Micropaleontología, v. 7, p. 429–450.
 
 Brenner, G.J. (1963). The spores and pollen of the Potomac Group of Maryland. Maryland Department of Geology, Mines and Water Resources, 27: 215.
 
@@ -402,6 +432,8 @@ E. Schrank and M. S. Mahmoud. (2002). Barremian angiosperm pollen and associated
 
 E. W. Berry. (1914). The Upper Cretaceous and Eocene floras of South Carolina and Georgia. US Geological Survey Professional Paper 84: 1-200.
 
+E. W. Berry. (1922). The flora of the Cheyenne Sandstone of Kansas. United States Geological Survey Professional Paper 129(1): 199-231.
+
 F. H. Knowlton. (1919). A catalogue of the Mesozoic and Cenozoic plants of North America. United States Geological Survey Bulletin, 696: 1-815.
 
 F. H. Knowlton. (1926). Flora of the Latah formation of Spokane, Washington, and Coeur d'Alene, Idaho. US Geological Survey Professional Paper 140(A): 17-55.
@@ -434,6 +466,8 @@ Liu Mu-ling 1983, The late Upper Cretaceous to Palaeogene sporen pollen assembla
 
 L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia, 16(1):115-126.
 
+Méndez, I., (1966). Foraminíferos, edad y correlación estratigráfi ca del Salamanquense de Punta Peligro (45°30′S; 67°11′W), provincia del Chubut: Revista de la Asociación Geológica Argentina, v. 21, p. 127–157.
+
 M. E. Quattrocchio, M. A. Martínez, A. Carpinelli Pavisich and W. Volkheimer. (2006). Early Cretaceous palynostratigraphy, palynofacies and palaeoenvironments of well sections in northeastern Tierra del Fuego, Argentina. Cretaceous Research, 27: 584-602.
 
 M. E. J. Chandler. (1962). The Lower Tertiary Floras of Southern England. II. Flora of the Pipe-Clay Series of Dorset (Lower Bagshot). British Museum (Natural History) London, 1-176.
@@ -442,9 +476,15 @@ Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Plioce
 
 Mildenhall, D.C. and Pocknall, D.T. (1989). Miocene–Pleistocene spores and pollen from Central Otago, South Island, New Zealand. New Zealand Geological Survey Paleontological Bulletin, 59: 1–128.
 
+M. Prasad. (2008). Angiospermous fossil leaves from the Siwalik foreland basins and their palaeoclimatic implications. The Palaeobotanist, 57: 177-215.
+
 Natland, M.L., Gonzalez, E., Cañon, A. and Ernst, M. (1974). A system of stages for correlation of Magallanes Basin sediments. Geological Society of America, Memoir, 139, 1-126.
 
 Ogg, James,  Ogg, Gabi and Gradstein, Felix. (2016). A Concise Geologic TimeScale.
+
+Olsson, R.K., Berggren, W.A., Hemleben, C., and Huber, B.T. (1999). Atlas of Paleocene planktonic foraminifera: Smithsonian Contributions to Paleobiology, v. 85, p. 1–252.
+
+P. Wilf, K. R. Johnson, N. R. Cúneo, M. E. Smith, B. S. Singer and M. A. Gandolfo. (2005). Eocene Plant Diversity at Laguna del Hunco and Río Pichileufú, Patagonia, Argentina. The American Naturalist, 165(6): 634-650.
 
 Patil, G. V., & Singh, R. B. (1978). Fossil Eichhornia from the Eocene Deccan Intertrappean beds, India. Palaeontographica Abteilung B-Palaophytologie.
 
