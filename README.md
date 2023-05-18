@@ -387,9 +387,33 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The Salamanca Formation is generally assigned to the Danian stage, based on forami nif era and ostracoda from the northern and eastern parts of the basin (Méndez, 1966; Bertels, 1975). Specifically, the foraminifera species present, including *Globanomalina* (*Turborotalia*) *compressa* and *Globoconusa daubjergensis*, reliably indicate an upper Danian age (zone P1c) for the marine Salamanca (Olsson et al., 1999). The Palacio de los Loros megafloras locally overlie the marine Salamanca while underlie the Banco Negro Inferior, can thus be well constrained to an age near the Danian-Selandian boundary. We used the age 66.0 - 61.6 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.31}}$**
 
+**Brief Desription:** The oldest fossil found in Huerteales.
+
+**Age Bounds:** 66.0 - 56.0 mya.
+
+**Taxon & Specimen & Rock:** *Tapiscia serrata*, macrofossils, Genesee Locality, Alberta, Paleocene of Canada.
+
+**Phylogenetic Justification:** (Chandrasekharam, 1974) reported the fossil *Tapiscia serrata* of the megafossil flora from the Genesee Locality and (Collinson et al., 2012) classified it as Tapisciaceae.
+
+**Age Justification:** (Chandrasekharam, 1974) adopted the age of the megafossil flora to be at Paleocene. Thus, we used the age 66.0 - 56.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.32}}$**
+
+**Brief Desription:** The oldest fossil found in Sapindales.
+
+**Age Bounds:** 113.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** numerous *Sapindopsis* leaf fossils, Wayan Formation in southeast Idaho, Patapsco Formation of Virginia, Blackleaf Formation of Montana, Cretaceous North America.
+
+**Phylogenetic Justification:** The leaf morphotypes was used to determine the *Sapindopsis* leaf fossil (Crabtree, 1987) and (Knowlton, 1919) adopted its phylogenetic assignment to Sapindaceae.
+
+**Age Justification:** A probable new species of *Sapindopsis* of Middle Albian age is illustrated from rocks equivalent to the Thermopolis Shale in southwestern Montana. A putative Sapindophyll (cf. *Sapindopsis* sp.) from the Upper Albian of Idaho is tentatively assigned to this morphotype. The first angiosperm megafossil from the region, *Sapindopsis angusta* (Heer) Seward, occurs in the lower Middle Albian (Potomac subzone IIB). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
+A. Chandrasekharam. (1974). Megafossil flora from the Genesee Locality, Alberta, Canada. Palaeontographica Abteilung B, 147: 1-41.
+
 A. Iglesias, P. Wilf, K. R. Johnson, A. B. Zamuner, N. R. Cúneo and S. D. Matheos. (2007). A Paleocene lowland macroflora from Patagonia reveals signifcantly greater richness than North American analogs. Geology 35(10): 947-950.
 
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
@@ -467,6 +491,8 @@ Liu Mu-ling 1983, The late Upper Cretaceous to Palaeogene sporen pollen assembla
 L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia, 16(1):115-126.
 
 Méndez, I., (1966). Foraminíferos, edad y correlación estratigráfi ca del Salamanquense de Punta Peligro (45°30′S; 67°11′W), provincia del Chubut: Revista de la Asociación Geológica Argentina, v. 21, p. 127–157.
+
+M. E. Collinson, S. R. Manchester, and V. Wilde. (2012). Fossil Fruits and Seeds of the Middle Eocene Messel biota, Germany. Abhandlungen der Senckenbergischen Gesellschaft Naturforschenden 570: 1-249.
 
 M. E. Quattrocchio, M. A. Martínez, A. Carpinelli Pavisich and W. Volkheimer. (2006). Early Cretaceous palynostratigraphy, palynofacies and palaeoenvironments of well sections in northeastern Tierra del Fuego, Argentina. Cretaceous Research, 27: 584-602.
 
