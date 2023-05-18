@@ -543,6 +543,18 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The fossil *Eucommia serrata* was found on sedimentary rock dated as old as Puercan. Thus, we used the age 66.0 - 63.3 mya as the age of the fossil, according to the [Paleobiology Database](https://paleobiodb.org/#/).
 
+:leaves: **${\text{\color{green} Fossil \ No.44}}$**
+
+**Brief Desription:** The oldest fossil found in Boraginales.
+
+**Age Bounds:** 66.0 - 61.6 mya.
+
+**Taxon & Specimen & Rock:** *Cordioxylon prototrichotoma*, macrofossils, Puerto Visser, Visser Member (Peñas Coloradas Formation), Chubut, Paleocene of Argentina.
+
+**Phylogenetic Justification:** (Brea and Zucol, 2006) reported the fossil *Cordioxylon prototrichotoma* from the Peñas Coloradas Formation and proposed it as Boraginaceae.
+
+**Age Justification:** The age of Visser Member (Peñas Coloradas Formation) was estimated as Danian. Thus, we used the age 66.0 - 61.6 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## References
 A. A. M. Eisawi, A. B. Ibrahim, O. B. A. Rahim and E. Schrank. (2012). Palynozonation of the Cretaceous to Lower Paleogene Strata of the Muglad Basin, Sudan. Palynology, 36(2): 191-207.
 
@@ -633,6 +645,8 @@ L.F. Ward. (1899). The Cretaceous formation of the Black Hills as as indicated b
 Liu Mu-ling 1983, The late Upper Cretaceous to Palaeogene sporen pollen assemblages from the Furao area, Heilongjiang Province.Bulletin of the Shenyang Institute of Geology and Mineral Resources, Chinese Academy of Geological Sciences, 7: 99-132.
 
 L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia, 16(1):115-126.
+
+M. Brea and A. F. Zucol. (2006). Leños fósiles de Boraginaceae de la Formación Peñas Coloradas (Paleoceno superior), Puerto Visser, Chubut, Argentina. Ameghiniana, 43(1): 139-146.
 
 Méndez, I., (1966). Foraminíferos, edad y correlación estratigráfi ca del Salamanquense de Punta Peligro (45°30′S; 67°11′W), provincia del Chubut: Revista de la Asociación Geológica Argentina, v. 21, p. 127–157.
 
