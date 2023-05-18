@@ -20,7 +20,7 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Age Bounds:** 121.4 - 113.0 mya.
 
-**Taxon & Specimen & Rock:** *Nymphaeites choffatii*, young leaves (specimen 184-Pb. DBAV-UERJ), mature leaves (180a,b-Pb. DBAV-UERJ with an incomplete petiole; 181a,b-183-Pb. DBAV-UERJ), aggregates of roots still showing calyptra (185-190-Pb, DBAV-UERJ), Parnaíba Basin, Codó Formation, Cretaceous to of Brazil.
+**Taxon & Specimen & Rock:** *Nymphaeites choffatii*, young leaves (specimen 184-Pb. DBAV-UERJ), mature leaves (180a,b-Pb. DBAV-UERJ with an incomplete petiole; 181a,b-183-Pb. DBAV-UERJ), aggregates of roots still showing calyptra (185-190-Pb, DBAV-UERJ), Parnaíba Basin, Codó Formation, Cretaceous of Brazil.
 
 **Phylogenetic Justification:** This genus *Nymphaeites* was defined to be distinguished with non-peltate leaves with palmate veins branching at acute angles by Heer at 1870. (Bell, 1949) extended the diagnosis of *Nymphaeites* to non-peltate leaves with mixed pinnate and palmate veins as well as peltate and subpeltate leaves with similar venation and a typical petiole, since the secondary vein branches in palmate leaves may suggest a pinnate arrangement. (L. Duarte and R.Silva Santos, 1993) described the leaf remnants found at Parnaíba Basin with common features of symmetrical, orbicular peltate to wide obvate (1.2:1), base symmetrical, rounded to normal obtuse, teeth found along the upper two-thirds of the margin but not along the lateral basal portions, petiole strong and thick, preserved portions about 1.1cm long and 0.6cm width, petiolar insertion at the base of the blade, and specimen-specific features of margin dentate, teeth with a sharp apex, the basal and apical portions straight (182-Pb. DBAV-UERJ) and concave (181-184-Pb. DBAV-UERJ). While the root remnants therein were found to have two distinguished types of arrangement, main roots bearing thin and unbranched secondary roots with preserved calyptras, as well as overlapping aggregates also with preserved calyptras. The representation of leaf and root remnants suggested its assignment to *Nymphaeites choffatii*, according to (L. Duarte and R.Silva Santos, 1993).
 
@@ -213,7 +213,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Bounds:** 121.4 - 100.5 mya.
 
-**Taxon & Specimen & Rock:** *Teixeiraea lusitanica*, flower and pollen grains, Vale de Agua 320, Famalicao Member (Figueira da Foz Formation), Cretaceous to of Portugal.
+**Taxon & Specimen & Rock:** *Teixeiraea lusitanica*, flower and pollen grains, Vale de Agua 320, Famalicao Member (Figueira da Foz Formation), Cretaceous of Portugal.
 
 **Phylogenetic Justification:** (Balthazar et al, 2005) first described the genus and species with features including: the flower is actinomorphic and unisexually male; at the base of the bud there are several bracts of different sizes, which are followed by sepal-like and petal-like tepals; bracts and perianth organs seem to be arranged spirally and to exhibit transitions between different organ categories; the androecium has numerous stamens in two sizes, but with unclear arrangement; pollen is small and tricolpate with a perforate tectum and a densely columellate infra tectal layer; no carpels or remains of carpels could be observed on the floral axis. They also found that *Teixeiraea lusitanica* shows most affinities to members of Ranunculales.
 
@@ -249,7 +249,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Bounds:** 113.0 - 100.5 mya.
 
-**Taxon & Specimen & Rock:** *Hexaporotricolpites lamellaferus*, Borehole 1-QS-1-MA, Sample 14, Preguicas Formation, Cretaceous to of Brazil.
+**Taxon & Specimen & Rock:** *Hexaporotricolpites lamellaferus*, Borehole 1-QS-1-MA, Sample 14, Preguicas Formation, Cretaceous of Brazil.
 
 **Phylogenetic Justification:** (Herngreen, 1973) described the fossil *Hexaporotricolpites lamellaferus* and (Kotova, 1978) suggested of assigning *Hexaporotricolpites* to Didymelaceae.
 
@@ -321,11 +321,11 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Bounds:** 83.8 - 71.9 mya.
 
-**Taxon & Specimen & Rock:** *Celastrinites wardii*, Extension 3771, Extension Formation (Nanaimo Group), Vancouver Island, British Columbia, Cretaceous to of Canada.
+**Taxon & Specimen & Rock:** *Celastrinites wardii*, Extension 3771, Extension Formation (Nanaimo Group), Vancouver Island, British Columbia, Cretaceous of Canada.
 
 **Phylogenetic Justification:** (Bell, 1957) reported the fossil species *Celastrinites wardii* on the flora of the Nanaimo Group. (Knowlton, 1919) proposed the phylogenetic assignment of *Celastrinites* to Celastraceae.
 
-**Age Justification:** The age of Extension Formation was estimated to be Early Campanian (Bell, 1957). Thus, we used the age 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+**Age Justification:** The age of Extension Formation was estimated to be Early Campanian (Hamblin, 2012). Thus, we used the age 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 :microscope: **${\text{\color{green} Fossil \ No.26}}$**
 
@@ -333,7 +333,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Bounds:** 83.8 - 66.0 mya
 
-**Taxon & Specimen & Rock:** aff. *Elaeocarpus sp.*, leaves, ELA/RHA protophyll morphyotype, Zamek Hill assemblage, Zamek Formation, Zamek Hill, Admiralty Bay, Cretaceous to of Antarctica.
+**Taxon & Specimen & Rock:** aff. *Elaeocarpus sp.*, leaves, ELA/RHA protophyll morphyotype, Zamek Hill assemblage, Zamek Formation, Zamek Hill, Admiralty Bay, Cretaceous of Antarctica.
 
 **Phylogenetic Justification:** (Dutra and Batten, 2000) reported the leaf fossil of *Elaeocarpus sp.* after the morphological group of (Crabtree, 1987) and suggested its phylogenetic assignment to Elaeocarpaceae.
 
@@ -423,8 +423,93 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The Protection Formation was estimated to be of early to late Campanian age (Hamblin, 2012). Thus, we used the age 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:microscope: **${\text{\color{green} Fossil \ No.34}}$**
+
+**Brief Desription:** The oldest fossil found in Myrtales.
+
+**Age Bounds:** 145.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Myrtaceidites eugeniioides*, sporo-pollen, Cabo Shirreff, Isla Livingston (Cretácico Inferior), Cretaceous of Antarctica.
+
+**Phylogenetic Justification:** (Palma-Heldt et al., 2004) identified and reported the fossil *Myrtaceidites eugeniioides* based on the morphology. Following the classification of (Ruiz and Quattrocchio, 1997), we adopt it as belonging to Myrtales.
+
+**Age Justification:** The age of Cabo Shirreff, Isla Livingston was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.35}}$**
+
+**Brief Desription:** The oldest fossil found in Geraniales.
+
+**Age Bounds:** 66.0 - 23.03 mya.
+
+**Taxon & Specimen & Rock:** *Simarubinium mahurzari*, macrofossils, Deccan Intertrappean Formation, Mahurzari, Paleogene of India.
+
+**Phylogenetic Justification:** (Lakhanpal et al., 1976) in their category of Indian fossil plants described the fossil *Simarubinium mahurzari* and we followed the classification of (Knowlton, 1919) assigning it to Simarubaceae.
+
+**Age Justification:** The age of Deccan Intertrappean Formation was estimated as Paleogene. Thus, we used the age 66.0 - 23.03 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.36}}$**
+
+**Brief Desription:** The oldest fossil found in Vitales.
+
+**Age Bounds:** 145.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Cissites ingens*, macrofossils, Minnekahta Falls, Cretaceous Formation, Cretaceous of the United States.
+
+**Phylogenetic Justification:** (Ward, 1899) identified and reported the fossil *Cissites ingens*. Following (Berry, 1937), we adopted its phylogenetic assignment as Vitaceae.
+
+**Age Justification:** The age of Minnekahta Falls, Cretaceous Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.37}}$**
+
+**Brief Desription:** The oldest fossil found in Saxifragales.
+
+**Age Bounds:** 113.0 - 100.5 mya.
+
+**Taxon & Specimen & Rock:** *Trochodendroides potomacensis*, macrofossils, Blairmore Formation, Alberta, Canada.
+
+**Phylogenetic Justification:** (Bell, 1956) in the lower Cretaceous floras of of Blairmore Formation identified and reported the fossil *Trochodendroides potomacensis*. (Liu et al., 1996) classified the *Trochodendroides* as Cercidiphyllaceae.
+
+**Age Justification:** The age of Upper Blairmore Group was estimated as Albian. Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.38}}$**
+
+**Brief Desription:** The oldest fossil found in Dilleniales.
+
+**Age Bounds:** 86.8 - 71.9 mya.
+
+**Taxon & Specimen & Rock:** *Dillenites paucidentatus*, macrofossils, Comox Coalfield 3769, Comox Formation (Nanaimo Group), Cretaceous of Canada.
+
+**Phylogenetic Justification:** (Bell, 1957) reported the fossil species *Dillenites paucidentatus* on the flora of the Nanaimo Group, Comox Formation.
+
+**Age Justification:** The age of Comox Formation was estimated to be mid-Santonian to early Campanian (Hamblin, 2012). Thus, we used the age 86.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:microscope: **${\text{\color{green} Fossil \ No.39}}$**
+
+**Brief Desription:** The oldest fossil found in Santalales.
+
+**Age Bounds:** 113.0 - 93.9 mya.
+
+**Taxon & Specimen & Rock:** *Syncolporites marginatus*, pollen grains, Azx-1, Az04/1, N50/3-4, Azx-1, Az04/1, T46/2, Sample Az-03 of Baraka Formation Zone V (Maastrichtian), Sample Az-04 of Bentiu Formation Zone IV (Alb.-Cenom.), Cretaceous of Sudan.
+
+**Phylogenetic Justification:** (Eisawi et al., 2012) identified the fossil *Syncolporites marginatus* based on the observation of pollen grains. Following (Hoorn, 1993), we adopted it as a member of Loranthaceae.
+
+**Age Justification:** The fossil *Syncolporites marginatus* occurred in different Zones. The older one is Sample Az-04 of Zone IV, whose age was estimated as Albian to Cenomanian (Eisawi et al., 2012). Thus, we used the age 113.0 - 93.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:microscope: **${\text{\color{green} Fossil \ No.40}}$**
+
+**Brief Desription:** The oldest fossil found in Caryophyllales.
+
+**Age Bounds:** 125.77 - 113.0 mya.
+
+**Taxon & Specimen & Rock:** *Droseridites senonicus*, pollen grains, Khx-1, Kh15/2, J52/3, Sample Kh- 15 of Abu Gabra Formation Zone II (Barremian-Aptian), Cretaceous of Sudan.
+
+**Phylogenetic Justification:** (Eisawi et al., 2012) dianogsed and identified the fossil *Droseridites senonicus* based on the observation of pollen grains. Following (Deaf et al., 2014) we assigned it to Droseraceae.
+
+**Age Justification:** The age of Abu Gabra Formation Zone II was Barremian-Aptian. Thus, we used the age 125.77 - 113.0 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## References
+A. A. M. Eisawi, A. B. Ibrahim, O. B. A. Rahim and E. Schrank. (2012). Palynozonation of the Cretaceous to Lower Paleogene Strata of the Muglad Basin, Sudan. Palynology, 36(2): 191-207.
+
 A. Chandrasekharam. (1974). Megafossil flora from the Genesee Locality, Alberta, Canada. Palaeontographica Abteilung B, 147: 1-41.
 
 A. Iglesias, P. Wilf, K. R. Johnson, A. B. Zamuner, N. R. Cúneo and S. D. Matheos. (2007). A Paleocene lowland macroflora from Patagonia reveals signifcantly greater richness than North American analogs. Geology 35(10): 947-950.
@@ -440,6 +525,8 @@ Bertels, A., (1975). Bioestratigrafía del Paleógeno en la República Argentina
 Brenner, G.J. (1963). The spores and pollen of the Potomac Group of Maryland. Maryland Department of Geology, Mines and Water Resources, 27: 215.
 
 Brenner, G. J. and Bickoff, I. S. (1992). Palynology and Age of the Lower Cretaceous Basal Kurnub Group from the Coastal Plain to the Northern Negev of Israel. Palynology, 16: 137–185.
+
+C. Hoorn. (1993). Marine incursions and the influence of Adean tectonics on the Miocene depositional history of northwestern Amazonia: results of a palynostratigraphic study. Palaeogeography, Palaeoclimatology, Palaeoecology, 105: 267-309.
 
 Crabtree, D. R. (1987). Angiosperms of the Northern Rocky Mountains: Albian to Campanian (Cretaceous) Megafossil Floras. Annals of the Missouri Botanical Garden, 74(4): 707–747.
 
@@ -477,6 +564,12 @@ F. H. Knowlton. (1919). A catalogue of the Mesozoic and Cenozoic plants of North
 
 F. H. Knowlton. (1926). Flora of the Latah formation of Spokane, Washington, and Coeur d'Alene, Idaho. US Geological Survey Professional Paper 140(A): 17-55.
 
+G.B. Mellon, J.H. Hall, and C.R. Stelck. (1963). Lower Cretaceous Section, Belcourt Ridge, Northeastern British Columbia. Bulletin of Canadian Petroleum Geology 11: 64-72.
+
+G. F. W. Herngreen. (1973). Palynology of the Albian-Cenomanian strata of Borehole 1-QS-1-MA, State of Maranhao, Brazil. Pollen et Spores, 15(3-4): 515-555.
+
+Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
+
 Harland, W. B., R. L. Armstrong, A. V. Cox, L. A. Craig, A. G. Smith, and D. G. Smith. (1989). A geologic time scale. Cambridge University Press, Cambridge, UK.
 
 H. D. MacGinitie. (1953). Fossil Plants of the Florissant Beds of Colorado. Carnegie Inst. of Washington, Contributions to Paleontology Publ, 599: 1-198.
@@ -489,17 +582,13 @@ Isaac, M.J. and Lindqvist, J.K. (1990). Geology and lignite resources of the Eas
 
 I. Z. Kotova. (1978). Spores and pollen from Cretaceous deposits of the eastern North Atlantic Ocean, Deep Sea Drealing Project, Leg. 41, Sites 367 and 370. Deep Sea Drealing Project, 41: 841-881.
 
-G.B. Mellon, J.H. Hall, and C.R. Stelck. (1963). Lower Cretaceous Section, Belcourt Ridge, Northeastern British Columbia. Bulletin of Canadian Petroleum Geology 11: 64-72.
-
-G. F. W. Herngreen. (1973). Palynology of the Albian-Cenomanian strata of Borehole 1-QS-1-MA, State of Maranhao, Brazil. Pollen et Spores, 15(3-4): 515-555.
-
-Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
-
 L. Duarte and R.Silva Santos (1993). Plant and fish megafossils of the Codó Formation, Parnaıba Basin, NE Brazil. Cretaceous Research, 14(6): 735-746.
 
-Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia 16(1):115-126.
-
 L.-d. Xing, J. D. Harris, G. D. Gierlinski, W.-m. Wang, Z.-y. Wang and D.-q. Li. (2011). Middle Cretaceous non–avian theropod trackways from the southern margin of the Sichuan Basin, China. Acta Palaeontologica Sinica, 50(4): 470-480.
+
+Leticia Karina Povilauskas (2013). Palinología de Angiospermas de la Formación Monte Chico (Cretácico Superior) de la Provincia de Santa Cruz, Argentina. Revista Brasileira de Paleontologia 16(1): 115-126.
+
+L.F. Ward. (1899). The Cretaceous formation of the Black Hills as as indicated by the fossil plants. Cretaceous Formation of the Black Hills.
 
 Liu Mu-ling 1983, The late Upper Cretaceous to Palaeogene sporen pollen assemblages from the Furao area, Heilongjiang Province.Bulletin of the Shenyang Institute of Geology and Mineral Resources, Chinese Academy of Geological Sciences, 7: 99-132.
 
@@ -563,6 +652,10 @@ Ulrich Heimhofer, Peter-A. Hochuli (2010). Early Cretaceous angiosperm pollen fr
 
 V. M. Page. (1968). Angiosperm Wood from the Upper Creataceous of Central California: Part II. American Journal of Botany, 55(2): 168-172.
 
+W. A. Bell. (1956). Lower Cretaceous Floras of Western Canada. Geological Survey of Canada Memoir 285(2528): 1-153.
+
 W. A. Bell. (1957). Flora of the Upper Cretaceous Nanaimo Group of Vancouver Island, British Columbia. Geological Survey of Canada Memoir, 293: 1-84.
+
+Y.-S. Liu, S.-X. Guo, and D. K. Ferguson. (1996). A catalogue of Cenozoic megafossil plants in China. Palaeontographica Abteilung B, 238: 141-179.
 
 Zhengyao Cao, Shunqing Wu, Ping'an and Li Jieru Zhang (1998). Discovery of fossil monocotyledons from Yixian Formation, western Liaoning. Chinese Science Bulletin, 43(3): 230-233.
