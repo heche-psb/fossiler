@@ -411,10 +411,25 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** A probable new species of *Sapindopsis* of Middle Albian age is illustrated from rocks equivalent to the Thermopolis Shale in southwestern Montana. A putative Sapindophyll (cf. *Sapindopsis* sp.) from the Upper Albian of Idaho is tentatively assigned to this morphotype. The first angiosperm megafossil from the region, *Sapindopsis angusta* (Heer) Seward, occurs in the lower Middle Albian (Potomac subzone IIB). Thus, we used the age 113.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.33}}$**
+
+**Brief Desription:** The oldest fossil found in Crossosomatales.
+
+**Age Bounds:** 83.8 - 71.9 mya.
+
+**Taxon & Specimen & Rock:** *Staphylea usheri*, macrofossils, Protection 3826, Protection Formation (Nanaimo Group), Cretaceous of Canada.
+
+**Phylogenetic Justification:** *Staphylea usheri* was reported and identified in (Bell, 1957) following the classification of (Knowlton, 1919) that the genus *Staphylea* belongs to Staphyleaceae. 
+
+**Age Justification:** The Protection Formation was estimated to be of early to late Campanian age (Hamblin, 2012). Thus, we used the age 83.8 - 71.9 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+
 ## References
 A. Chandrasekharam. (1974). Megafossil flora from the Genesee Locality, Alberta, Canada. Palaeontographica Abteilung B, 147: 1-41.
 
 A. Iglesias, P. Wilf, K. R. Johnson, A. B. Zamuner, N. R. Cúneo and S. D. Matheos. (2007). A Paleocene lowland macroflora from Patagonia reveals signifcantly greater richness than North American analogs. Geology 35(10): 947-950.
+
+A.P. Hamblin (2012). Upper Cretaceous Nanaimo Group of Vancouver Island as a potential bedrock aquifer zone: summary of previous literature and concepts. GEOLOGICAL SURVEY OF CANADA OPEN FILE 7265.
 
 Barreda VD, Cúneo NR, Wilf P, Currano ED, Scasso RA, et al. (2012) Cretaceous/Paleogene Floral Turnover in Patagonia: Drop in Diversity, Low Extinction, and a Classopollis Spike. PLOS ONE, 7(12): e52455.
 
