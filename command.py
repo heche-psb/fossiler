@@ -30,7 +30,7 @@ def cli(verbosity):
 
 # Find fossils
 @cli.command(context_settings={'help_option_names': ['-h', '--help']})
-@click.argument('sequences', nargs=-1, type=click.Path(exists=True))
+@click.argument('tree', type=click.Path(exists=True))
 @click.option('--outdir', '-o', default='fossiler_find', show_default=True, help='output directory')
 @click.option('--clades', '-c', default=None, show_default=True, help='clade names')
 @click.option('--rocks', '-r', default=None, type = int, show_default=True, help='Rock IDs')
@@ -40,10 +40,11 @@ def find(**kwargs):
     """
     _find(**kwargs)
 
-def _find(sequences,outdir,clades,rocks):
-    from fossiler.fossils import rawfossils,cooccurancerecords
+def _find(tree,outdir,clades,rocks):
+    from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil
     rawfossils(clades)
     cooccurancerecords(rocks)
+    gettreewithfossil(tree)
 
 
 if __name__ == '__main__':
