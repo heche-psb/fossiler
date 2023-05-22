@@ -1,7 +1,7 @@
 import logging
 import pandas as pd
 import os
-from Bio import Phylo
+from Bio import Phylo,Entrez
 
 
 Age_ranges = [(129.4,113.0),(132.9,129.4),(72.3,66.0),(72.3,66.0),(122.5,112.0),(112.0,105.3),(139.8,129.4),(56.0,33.9),(83.6,72.1),(124.85,124.35),(121.4,113.0),(28.4,15.97),(125.77,121.4),(93.9,89.5),(37.71,33.9),(113.0,100.5),(121.4,100.5),(113.0,100.5),(72.3,66.0),(113.0,100.5),(139.8,121.4),(145.0,100.5),(56.0,47.8),(110.0,99.0),(145.0,100.5),(83.8,71.9),(83.8,66.0),(145.0,100.5),(72.3,66.0),(113.0,100.5),(66.0,61.6),(66.0,56.0),(113.0,100.5),(83.8,71.9),(145.0,100.5),(66.0,23.03),(145.0,100.5),(113.0,100.5),(86.8,71.9),(113.0,93.9),(125.77,113.0),(100.5,66.0),(59.2,56.0),(66.0,63.3),(66.0,61.6),(66.0,61.6),(145.0,66.0),(56.0,47.8),(100.5,93.9),(33.9,28.4),(86.8,71.9),(145.0,100.5),(56.0,33.9),(145.0,100.5)]
@@ -9,6 +9,60 @@ Age_ranges = [(129.4,113.0),(132.9,129.4),(72.3,66.0),(72.3,66.0),(122.5,112.0),
 Orders = ['Nymphaeales','Austrobaileyales','Piperales','Canellales','Magnoliales','Laurales','Chloranthales','Commelinales','Zingiberales','Poales','Arecales','Asparagales','Liliales','Pandanales','Dioscoreales','Ceratophyllales','Ranunculales','Proteales','Trochodendrales','Buxales','Gunnerales','Fagales','Cucurbitales','Rosales','Fabales','Celastrales','Oxalidales','Malpighiales','Zygophyllales','Malvales','Brassicales','Huerteales','Sapindales','Crossosomatales','Myrtales','Geraniales','Vitales','Saxifragales','Dilleniales','Santalales','Caryophyllales','Cornales','Icacinales','Garryales','Boraginales','Gentianales','Lamiales','Solanales','Aquifoliales','Escalloniales','Asterales','Dipsacales','Paracryphiales','Apiales']
 
 Orders_Bounds = {'Nymphaeales':113.0,'Austrobaileyales':129.4,'Piperales':66.0,'Canellales':66.0,'Magnoliales':112.0,'Laurales':105.3,'Chloranthales':129.4,'Commelinales':33.9,'Zingiberales':72.1,'Poales':124.35,'Arecales':113.0,'Asparagales':15.97,'Liliales':121.4,'Pandanales':89.5,'Dioscoreales':33.9,'Ceratophyllales':100.5,'Ranunculales':100.5,'Proteales':100.5,'Trochodendrales':66.0,'Buxales':100.5,'Gunnerales':121.4,'Fagales':100.5,'Cucurbitales':47.8,'Rosales':99.0,'Fabales':100.5,'Celastrales':71.9,'Oxalidales':66.0,'Malpighiales':100.5,'Zygophyllales':66.0,'Malvales':100.5,'Brassicales':61.6,'Huerteales':56.0,'Sapindales':100.5,'Crossosomatales':71.9,'Myrtales':100.5,'Geraniales':23.03,'Vitales':100.5,'Saxifragales':100.5,'Dilleniales':71.9,'Santalales':93.9,'Caryophyllales':113.0,'Cornales':66.0,'Icacinales':56.0,'Garryales':63.3,'Boraginales':61.6,'Gentianales':61.6,'Lamiales':66.0,'Solanales':47.8,'Aquifoliales':93.9,'Escalloniales':28.4,'Asterales':71.9,'Dipsacales':100.5,'Paracryphiales':33.9,'Apiales':100.5}
+
+Orders_Upper_Stratum = {'Nymphaeales':'Hauterivian','Austrobaileyales':'Valanginian','Piperales':'Campanian','Canellales':'Santonian','Magnoliales':'Hauterivian','Laurales':'Tithonian','Chloranthales':'Tithonian','Commelinales':'Thanetian','Zingiberales':'Santonian','Poales':'Tithonian','Arecales':'Ladinian','Asparagales':'Maastrichtian','Liliales':'Hauterivian','Pandanales':'Cenomanian','Dioscoreales':'Bartonian','Ceratophyllales':'Aptian','Ranunculales':'Barremian','Proteales':'Tithonian','Trochodendrales':'Campanian','Buxales':'Aptian','Gunnerales':'Tithonian','Fagales':'Tithonian','Cucurbitales':'Maastrichtian','Rosales':'Tithonian','Fabales':'Tithonian','Celastrales':'Albian','Oxalidales':'Albian','Malpighiales':'Tithonian','Zygophyllales':'Campanian','Malvales':'Tithonian','Brassicales':'Maastrichtian','Huerteales':'Maastrichtian','Sapindales':'Aptian','Crossosomatales':'Aptian','Myrtales':'Tithonian','Geraniales':'Maastrichtian','Vitales':'Tithonian','Saxifragales':'Aptian','Dilleniales':'Albian','Santalales':'Aptian','Caryophyllales':'Hauterivian','Cornales':'Albian','Icacinales':'Valanginian','Garryales':'Maastrichtian','Boraginales':'Maastrichtian','Gentianales':'Maastrichtian','Lamiales':'Tithonian','Solanales':'Maastrichtian','Aquifoliales':'Tithonian','Escalloniales':'Thanetian','Asterales':'Turonian','Dipsacales':'Tithonian','Paracryphiales':'Thanetian','Apiales':'Tithonian','Angiospermae':'Olenekian'}
+Orders_Upper_Bounds = {'Nymphaeales':132.6,'Austrobaileyales':139.8,'Piperales':83.8,'Canellales':86.8,'Magnoliales':132.6,'Laurales':149.9,'Chloranthales':149.9,'Commelinales':59.2,'Zingiberales':86.8,'Poales':149.9,'Arecales':242,'Asparagales':72.3,'Liliales':132.6,'Pandanales':100.5,'Dioscoreales':41.2,'Ceratophyllales':121.4,'Ranunculales':125.77,'Proteales':149.9,'Trochodendrales':83.8,'Buxales':121.4,'Gunnerales':149.9,'Fagales':149.9,'Cucurbitales':72.3,'Rosales':149.9,'Fabales':149.9,'Celastrales':113.0,'Oxalidales':113.0,'Malpighiales':149.9,'Zygophyllales':83.8,'Malvales':149.9,'Brassicales':72.3,'Huerteales':72.3,'Sapindales':121.4,'Crossosomatales':121.4,'Myrtales':149.9,'Geraniales':72.3,'Vitales':149.9,'Saxifragales':121.4,'Dilleniales':113.0,'Santalales':121.4,'Caryophyllales':132.6,'Cornales':113.0,'Icacinales':139.8,'Garryales':72.3,'Boraginales':72.3,'Gentianales':72.3,'Lamiales':149.9,'Solanales':72.3,'Aquifoliales':149.9,'Escalloniales':59.2,'Asterales':93.9,'Dipsacales':149.9,'Paracryphiales':59.2,'Apiales':149.9}
+
+Major_Clades_Upper_Stratum = {'Mesangiospermae':'Olenekian','Magnoliidae':'Hettangian','Eudicotyledoneae':'Hettangian','Monocotyledoneae':'Hettangian','Ceratophyllales':'Hettangian','Austrobaileyales':'Olenekian','Nymphaeales':'Olenekian','Amborellales':'Olenekian'}
+
+Major_Clades_Upper_Bounds = {'Mesangiospermae':247.2,'Magnoliidae':201.6,'Eudicotyledoneae':201.6,'Monocotyledoneae':201.6,'Ceratophyllales':201.6,'Austrobaileyales':247.2,'Nymphaeales':247.2,'Amborellales':247.2}
+
+Clades_Upper_Bounds = {'Nymphaeales':247.2,'Austrobaileyales':247.2,'Piperales':201.6,'Canellales':201.6,'Magnoliales':201.6,'Laurales':201.6,'Chloranthales':201.6,'Commelinales':201.6,'Zingiberales':201.6,'Poales':201.6,'Arecales':201.6,'Asparagales':201.6,'Liliales':201.6,'Pandanales':201.6,'Dioscoreales':201.6,'Ceratophyllales':201.6,'Ranunculales':201.6,'Proteales':201.6,'Trochodendrales':201.6,'Buxales':201.6,'Gunnerales':201.6,'Fagales':201.6,'Cucurbitales':201.6,'Rosales':201.6,'Fabales':201.6,'Celastrales':201.6,'Oxalidales':201.6,'Malpighiales':201.6,'Zygophyllales':201.6,'Malvales':201.6,'Brassicales':201.6,'Huerteales':201.6,'Sapindales':201.6,'Crossosomatales':201.6,'Myrtales':201.6,'Geraniales':201.6,'Vitales':201.6,'Saxifragales':201.6,'Dilleniales':201.6,'Santalales':201.6,'Caryophyllales':201.6,'Cornales':201.6,'Icacinales':201.6,'Garryales':201.6,'Boraginales':201.6,'Gentianales':201.6,'Lamiales':201.6,'Solanales':201.6,'Aquifoliales':201.6,'Escalloniales':201.6,'Asterales':201.6,'Dipsacales':201.6,'Paracryphiales':201.6,'Apiales':201.6}
+
+
+def standalonetaxonomy(sp):
+    taxoinfo = get_taxonomy(sp,Fullinfo=True)
+    if taxoinfo != None:
+        for info in taxoinfo:
+            logging.info("{}: {}\n".format(info[0],info[1]))
+
+def get_taxonomy(sp,Fullinfo=False):
+    sp = sp.replace("_"," ")
+    Entrez.email = 'hengchichen11@gmail.com'
+    handle = Entrez.esearch(db='taxonomy', term=sp)
+    record = Entrez.read(handle)
+    if record['Count'] != '0':
+        # the TaxId is the seed of searching
+        taxon_id = record['IdList'][0]
+        handle = Entrez.efetch(db='taxonomy', id=taxon_id, retmode='xml')
+        record = Entrez.read(handle)
+        record[0]['LineageEx']
+        taxoinfo = gettaxinfo(record[0]['LineageEx'],Fullinfo)
+        return taxoinfo
+    else:
+        logging.error("Coundn't find the taxonomy information of {} on NCBI taxonomy database".format(sp))
+        return None
+
+def gettaxinfo(infolist,Fullinfo):
+    if Fullinfo:
+        taxoinfo = []
+        for infodic in infolist: taxoinfo.append((infodic['Rank'],infodic['ScientificName']))
+    else:
+        genus,family,order,subphylum,phylum,kingdom,superkingdom = '','','','','','',''
+        for infodic in infolist:
+            if infodic['Rank'] == 'genus': genus = infodic['ScientificName']
+            if infodic['Rank'] == 'family': family = infodic['ScientificName']
+            if infodic['Rank'] == 'order': order = infodic['ScientificName']
+            if infodic['Rank'] == 'subphylum': subphylum = infodic['ScientificName']
+            if infodic['Rank'] == 'phylum': phylum = infodic['ScientificName']
+            if infodic['Rank'] == 'kingdom': kingdom = infodic['ScientificName']
+            if infodic['Rank'] == 'superkingdom': superkingdom = infodic['ScientificName']
+        taxoinfo = {'genus':genus,'family':family,'order':order,'subphylum':subphylum,'phylum':phylum,'kingdom':kingdom,'superkingdom':superkingdom}
+    return taxoinfo
+
+def findupper(tree):
+    Age_Reference = {'Angiospermae':'https://doi.org/10.1073/pnas.1719588115'}
+    Age_justification = {'Angiospermae':'The maximum age constraint is based on sediments devoid of angiosperm-like pollen below their first report in the Middle Triassic.'}
 
 def cooccurancerecords(Rocks):
     """
@@ -94,12 +148,24 @@ def postprocesstree(treef):
 def gettreewithfossil(tree):
     Tree = Phylo.read(tree,"newick")
     treef = os.path.abspath(tree) + ".addtime"
+    treeftax = os.path.abspath(tree) + ".addtime_taxonomy"
+    taxonomy_dict = {}
+    for clade in Tree.get_terminals():
+        info = get_taxonomy(clade.name)
+        if info['order'] == '': info['order'] = clade.name # This step is tricky, assuming the input is already order name
+        taxonomy_dict[clade.name] = info
+        logging.info("{} belongs to {}".format(clade.name,taxonomy_dict[clade.name]['order']))
     for i,clade in enumerate(Tree.get_nonterminals()):
-        Mininum_limit = 0
+        Mininum_limit,Maximum_limit = 0,0
         for tip in clade.get_terminals():
-            age = Orders_Bounds[tip.name]/100
+            age = Orders_Bounds[taxonomy_dict[tip.name]['order']]/100
             if age > Mininum_limit: Mininum_limit = age
-        clade.name = '[>{:.2f}<xx]'.format(Mininum_limit)
+            upper_age = Clades_Upper_Bounds[taxonomy_dict[tip.name]['order']]/100
+            if upper_age > Maximum_limit: Maximum_limit = upper_age
+        clade.name = '[>{0:.4f}<{1:.4f}]'.format(Mininum_limit,Maximum_limit)
     Phylo.write(Tree,treef, "newick")
     postprocesstree(treef)
+    for clade in Tree.get_terminals(): clade.name = taxonomy_dict[clade.name]['order']
+    Phylo.write(Tree,treeftax, "newick")
+    postprocesstree(treeftax)
 

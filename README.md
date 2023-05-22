@@ -5,6 +5,7 @@
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
 
+[**Upper Limits**](#Upper-Limits) |
 [**Fossil Justifications**](#Fossil-Justifications) |
 [**References**](#References)
 </div>
@@ -662,6 +663,10 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 **Phylogenetic Justification:** (Mellon et al., 1963) reported and identified the fossil as *Aralia wellingtoniana*. Adopting the opinion of (Zhu et al, 2015), we assigned the fossil to Araliaceae.
 
 **Age Justification:** The age of Commotion Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+## Upper Limits
+
+The minimum age constraint for a given clade can be obtained simply from the lower limit of the stratigraphic age in which the oldest fossil was reported, as we justified above. However, the corresponding maximum age constraint for a given clade, is predominantly based on the knowledge and viewpoint of the researcher. The overall stratigraphic distribution of the fossils of crown and stem groups of the given clade, and the age estimates from the molecular dating studies pertaining to the given clade are the major references for determining a safe maximum age constraint. On top of this, with the unearthing of even older fossils nowadays, the upper limit, i.e. the maximum age constraint of any given clade, will be pushed older concomitantly. Here, we provided, in the best of our knowledge, the safe maximum age constraint for some clades and the associated Justification.
 
 ## References
 A. A. M. Eisawi, A. B. Ibrahim, O. B. A. Rahim and E. Schrank. (2012). Palynozonation of the Cretaceous to Lower Paleogene Strata of the Muglad Basin, Sudan. Palynology, 36(2): 191-207.
