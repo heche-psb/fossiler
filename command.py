@@ -30,21 +30,25 @@ def cli(verbosity):
 
 # Find fossils
 @cli.command(context_settings={'help_option_names': ['-h', '--help']})
-@click.argument('tree', type=click.Path(exists=True))
 @click.option('--outdir', '-o', default='fossiler_find', show_default=True, help='output directory')
 @click.option('--clades', '-c', default=None, show_default=True, help='clade names')
-@click.option('--rocks', '-r', default=None, type = int, show_default=True, help='Rock IDs')
+@click.option('--rocks', '-r', default=None, type = int, show_default=True, help='rock IDs')
+@click.option('--tree', '-t', default=None, show_default=True, help='tree file in newick')
+@click.option('--getaxonomy', '-gt', default=None, show_default=True, help='get taxonomy of a given species name')
+@click.option('--mcmctreeformat', '-mf', is_flag=True, help='get mcmctree format output')
+@click.option('--wholetree', '-wt', is_flag=True, help='use the whole angiosperm tree infomation')
 def find(**kwargs):
     """
     Find available fossils
     """
     _find(**kwargs)
 
-def _find(tree,outdir,clades,rocks):
-    from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil
+def _find(tree,outdir,clades,rocks,getaxonomy,mcmctreeformat,wholetree):
+    from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil,standalonetaxonomy
     rawfossils(clades)
     cooccurancerecords(rocks)
-    gettreewithfossil(tree)
+    if tree != None: gettreewithfossil(tree,formatt=mcmctreeformat,wholetree=wholetree)
+    if getaxonomy!= None: standalonetaxonomy(getaxonomy)
 
 
 if __name__ == '__main__':
