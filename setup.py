@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='fossiler',
-    version='0.0.1',
+    version='0.0.2',
     packages=['fossiler'],
     url='http://github.com/heche-psb/fossiler',
     license='GPL',
@@ -17,15 +17,16 @@ setup(
     description='Python package and CLI for finding available fossils',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    py_modules=['cli'],
+    py_modules=['command'],
     include_package_data=True,
     install_requires=[
        'biopython==1.76',
        'click==7.1.2',
-       'pandas==1.4.4'
+       'pandas==1.4.4',
+       'scipy==1.5.4'
     ],
     entry_points='''
         [console_scripts]
-        fossiler=cli:cli
+        fossiler=command:cli
     ''',
 )

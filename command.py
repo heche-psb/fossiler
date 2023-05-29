@@ -37,17 +37,18 @@ def cli(verbosity):
 @click.option('--getaxonomy', '-gt', default=None, show_default=True, help='get taxonomy of a given species name')
 @click.option('--mcmctreeformat', '-mf', is_flag=True, help='get mcmctree format output')
 @click.option('--wholetree', '-wt', is_flag=True, help='use the whole angiosperm tree infomation')
+@click.option('--setconserved', '-sc', is_flag=True, help='adopt the same maximum constraint as (Morris et al., 2018)')
 def find(**kwargs):
     """
     Find available fossils
     """
     _find(**kwargs)
 
-def _find(tree,outdir,clades,rocks,getaxonomy,mcmctreeformat,wholetree):
+def _find(tree,outdir,clades,rocks,getaxonomy,mcmctreeformat,wholetree,setconserved):
     from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil,standalonetaxonomy
-    rawfossils(clades)
-    cooccurancerecords(rocks)
-    if tree != None: gettreewithfossil(tree,formatt=mcmctreeformat,wholetree=wholetree)
+    if clades != None: rawfossils(clades)
+    if rocks !=None: cooccurancerecords(rocks)
+    if tree != None: gettreewithfossil(tree,formatt=mcmctreeformat,wholetree=wholetree,Yang=setconserved)
     if getaxonomy!= None: standalonetaxonomy(getaxonomy)
 
 
