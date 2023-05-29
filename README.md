@@ -1,6 +1,6 @@
 <div align="center">
 
-# `fossiler v0.0.1` : a suite tool of fossils finding
+# `fossiler v0.0.2` : a suite tool of fossils finding
 **Hengchi Chen**
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
@@ -49,13 +49,13 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Phylogenetic Justification:** (Viviana et al., 2012) proposed the fossil assignment as *Rosannia manika* Srivastava emend following the revised generic diagnosis of (Srivastava and Braman 2010) featured with an obligate ana-ulcerate tetrad with calymmate exine and granulose supratectal ornamentation and a close morphological affinity with the pollen of extant *Lactoris fernandeziana* Phil, which was thus suggested to be assigned to Lactoridaceae.
 
-**Age Justification:** Cluster analysis (Q mode) of (Viviana et al., 2012) revealed two stratigraphically wellordered major groups of samples: group A comprised of the Maastrichtian samples M1-M3, group B comprised of all early Danian samples. The highest proportional abundances of *Rosannia manika* Srivastava emend emerged at sample M3 as 0.389. Thus, we used 72.3 - 66.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+**Age Justification:** Cluster analysis (Q mode) of (Viviana et al., 2012) revealed two stratigraphically well ordered major groups of samples: group A comprised of the Maastrichtian samples M1-M3, group B comprised of all early Danian samples. The highest proportional abundances of *Rosannia manika* Srivastava emend emerged at sample M3 as 0.389. Thus, we used 72.3 - 66.0 mya as the age bound for this fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 :microscope: **${\text{\color{green} Fossil \ No.3}}$**
 
 **Brief Desription:** The oldest fossil found in Canellales.
 
-**Age Bounds:** 72.3 - 66.0 mya.
+**Age Bounds:** 72.3 - 66.0 mya (changed into 121.4 - 113.0 mya according to (Santiago el al, 2020)).
 
 **Taxon & Specimen & Rock: *Pseudowinterapollis couperi* Krutzsch, 1970 emend, pollen grains labeled as MPM-MP 1952 101,3/8 on the Monte Chico Formation, Upper Cretaceous, Santa Cruz, Cretaceous of Argentina.
 
@@ -151,7 +151,7 @@ Below we give a detailed justification for each accepted fossil regarding the ph
 
 **Brief Desription:** The oldest fossil found in Asparagales.
 
-**Age Bounds:** 27.82 - 15.97 mya.
+**Age Bounds:** 27.82 - 15.97 mya (changed into 27.82 - 23.03 mya, according to (Santiago et al., 2020)).
 
 **Taxon & Specimen & Rock:** *Phormium sp.*, leaf litter, cuticle and pollen grain, Newvale Mine leaf beds, fossil site F45/f0394, Newvale assemblage, Gore Lignite Measures, the Late Oligocene to Early Miocene southern New Zealand.
 
@@ -380,7 +380,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Brief Desription:** The oldest fossil found in Brassicales.
 
-**Age Bounds:** 66.0 - 61.6 mya.
+**Age Bounds:** 66.0 - 61.6 mya (changed into 90.1 - 85.8 mya, according to (Santiago et al., 2020)).
 
 **Taxon & Specimen & Rock:** *Akania sp.* ,leaf species MPEF-Pb-2020, Palacio de los Loros 2, Salamanca Formation, Paleocene of Argentina.
 
@@ -512,7 +512,7 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Brief Desription:** The oldest fossil found in Cornales.
 
-**Age Bounds:** 100.5 - 66.0 mya.
+**Age Bounds:** 100.5 - 66.0 mya (changed into 90.1 - 85.8 mya, according to (Santiago et al., 2020)).
 
 **Taxon & Specimen & Rock:** *Cornophyllum wardii*, mesofossils, P3651, Lance Formation, Niobrara County, Wyoming, Cretaceous of the United States.
 
@@ -664,6 +664,30 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Commotion Formation was estimated as Lower Cretaceous. Thus, we used the age 145.0 - 100.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{green} Fossil \ No.54}}$**
+
+**Brief Desription:** The oldest fossil found in Alismatales.
+
+**Age Bounds:** 27.82 - 23.03 mya.
+
+**Taxon & Specimen & Rock:** *Caldesia brandoniana*, fossil fruit, Forestdale, ca. 7 km east of Brandon, Vermont, Brandon Lignite Formation, Cenozoic of USA.
+
+**Phylogenetic Justification:** (Kristina and Bruce, 1997) identified and reported the fossil fruit of *Caldesia brandoniana* by the morphological comparison with extant Alismataceae. We followed their phylogenetic assignment of this fossil to Alismataceae.
+
+**Age Justification:** The genus has an extensive Oligocene through Pleistocene fossil record in Eurasia (Kristina and Bruce, 1997). Thus, we used the age 27.82 - 23.03 as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{green} Fossil \ No.55}}$**
+
+**Brief Desription:** The oldest fossil found in Ericales.
+
+**Age Bounds:** 83.8 - 71.9 mya.
+
+**Taxon & Specimen & Rock:** *Actinocalyx bohrii*, fossil flower, Höganäs AB kaolin quarry at the Asen locality in the Kristianstad Basin, Scania, Cretaceous of Sweden.
+
+**Phylogenetic Justification:** (Friis, 1985) identified and reported the fossil flower as actinomorphic, hypogynous, and pentamerous whose calyx is persistent, and upturned in the flowering stage. They resembled the extant Diapensiaceae the most. We adopted its phylogenetic assignment as Ericales.
+
+**Age Justification:** The age of the sedimentary rock was estimated as Santonian to Campanian. Thus, we used the age 83.8 - 71.9 as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## Upper Limits
 
 The minimum age constraint for a given clade can be obtained simply from the lower limit of the stratigraphic age in which the oldest fossil was reported, as we justified above. However, the corresponding maximum age constraint for a given clade, is predominantly based on the knowledge and viewpoint of the researcher. The overall stratigraphic distribution of the fossils of crown and stem groups of the given clade, and the age estimates from the molecular dating studies pertaining to the given clade are the major references for determining a safe maximum age constraint. On top of this, with the unearthing of even older fossils nowadays, the upper limit, i.e. the maximum age constraint of any given clade, will be pushed older concomitantly. Here, we provided, in the best of our knowledge, the safe maximum age constraint for some clades and the associated Justification.
@@ -723,6 +747,8 @@ Doyle, J.A. and L. J. HICKEY. (1976). Pollen and leaves from the mid-Cretaceous 
 
 E. Dorf. (1942). Upper Cretaceous floras of the Rocky Mountain region; Flora of the Lance Formation at its type locality, Niobrara County, Wyoming. Contributions to Palaeontology.
 
+E. M. Friis (1985). *Actinocalyx* gen. nov., sympetalous angiosperm flowers from the upper cretaceous of southern Sweden. Review of Palaeobotany and Palynology, 45(3-4): 171-183.
+
 E. M. Friis, K. R. Pedersen, and P. R. Crane. (1995). *Appomattoxia ancistrophora* gen. et sp. nov., a new Early Cretaceous plant with similarities to Circaeaster and extant Magnoliidae. American Journal of Botany, 82(7): 933-943.
 
 E. M. Friis, P. R. Crane, and K. R. Pedersen. (1988). Reproductive structures of Cretaceous Platanaceae. Biologiske Skrifter Det Kongelige Danske Videnskskabernes Selskab, 31: 1-55.
@@ -744,6 +770,8 @@ G. F. W. Herngreen. (1973). Palynology of the Albian-Cenomanian strata of Boreho
 G. J. Jordan. (1997). Evidence of Pleistocene plant extinction and diversity from Regatta Point, western Tasmania, Australia. Botanical Journal of the Linnean Society, 123: 45-71.
 
 Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
+
+Haggard, K. K., and Tiffney, B. H. (1997). The Flora of the Early Miocene Brandon Lignite, Vermont, USA. VIII. Caldesia (Alismataceae). American Journal of Botany, 84(2): 239–252.
 
 Harland, W. B., R. L. Armstrong, A. V. Cox, L. A. Craig, A. G. Smith, and D. G. Smith. (1989). A geologic time scale. Cambridge University Press, Cambridge, UK.
 
