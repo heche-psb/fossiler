@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='fossiler',
-    version='0.0.2',
+    version='0.0.4',
     packages=['fossiler'],
     url='http://github.com/heche-psb/fossiler',
     license='GPL',

@@ -34,6 +34,8 @@ def cli(verbosity):
 @click.option('--clades', '-c', default=None, show_default=True, help='clade names')
 @click.option('--rocks', '-r', default=None, type = int, show_default=True, help='rock IDs')
 @click.option('--tree', '-t', default=None, show_default=True, help='tree file in newick')
+@click.option('--getsp', '-gs', is_flag=True, help='get species in starting tree')
+@click.option('--number', '-n', default=19, show_default=True, help='number of species in the starting tree')
 @click.option('--getaxonomy', '-gt', default=None, show_default=True, help='get taxonomy of a given species name')
 @click.option('--mcmctreeformat', '-mf', is_flag=True, help='get mcmctree format output')
 @click.option('--wholetree', '-wt', is_flag=True, help='use the whole angiosperm tree infomation')
@@ -44,11 +46,13 @@ def find(**kwargs):
     """
     _find(**kwargs)
 
-def _find(tree,outdir,clades,rocks,getaxonomy,mcmctreeformat,wholetree,setconserved):
-    from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil,standalonetaxonomy
+def _find(tree,outdir,clades,rocks,getaxonomy,mcmctreeformat,wholetree,setconserved,getsp,number):
+    from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil,standalonetaxonomy,getproperstartingtree
     if clades != None: rawfossils(clades)
     if rocks !=None: cooccurancerecords(rocks)
-    if tree != None: gettreewithfossil(tree,formatt=mcmctreeformat,wholetree=wholetree,Yang=setconserved)
+    if tree != None:
+        treef = gettreewithfossil(tree,formatt=mcmctreeformat,wholetree=wholetree,Yang=setconserved)
+        if getsp: getproperstartingtree(treef,number,outdir)
     if getaxonomy!= None: standalonetaxonomy(getaxonomy)
 
 
