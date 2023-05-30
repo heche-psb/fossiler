@@ -246,7 +246,13 @@ def replacespecies(content,Clade_names):
     Tree = Phylo.read(handle,"newick")
     spnum = len(Tree.get_terminals())
     with open("sp{}_species_list".format(spnum),"w") as f:
-        for i in Tree.get_terminals(): f.write("{}\n".format(i.name))
+        focussp = ''
+        for i in Tree.get_terminals():
+            if i.name.endswith("_ap2") or i.name.endswith("_ap1"):
+                focussp = i.name[:-4]
+                continue
+            f.write("{} ".format(i.name))
+        f.write("{} ".format(focussp))
     content = content.replace(str(original_sp_num)+" ",str(spnum)+" ")
     return content, spnum
 
