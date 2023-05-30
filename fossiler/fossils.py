@@ -245,15 +245,18 @@ def replacespecies(content,Clade_names):
     handle = StringIO(content.split("\n")[1])
     Tree = Phylo.read(handle,"newick")
     spnum = len(Tree.get_terminals())
+    with open("sp{}_species_list".format(spnum),"w") as f:
+        for i in Tree.get_terminals(): f.write("{}\n".format(i.name))
     content = content.replace(str(original_sp_num)+" ",str(spnum)+" ")
-    return content
+    return content, spnum
 
 def getproperstartingtree(treef,number,outdir):
     # Only works for order-level/or more recent WGDs
     Tree = Phylo.read(treef,"newick")
     Clade_names = [i.name for i in Tree.get_terminals()]
     with open(treef,"r") as f: content = f.read()
-    with open(treef,"w") as f: f.write(replacespecies(content,Clade_names))
+    content, spnum = replacespecies(content,Clade_names)
+    with open(treef+'_{}sp'.format(spnum),"w") as f: f.write(content)
 
 def otherpaperestimate(data):
     maximum_other_paper = {'eudicots':0}
