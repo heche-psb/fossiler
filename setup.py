@@ -22,8 +22,8 @@ setup(
     install_requires=[
        'biopython==1.76',
        'click==7.1.2',
-       'pandas==1.4.4',
-       'scipy==1.5.4'
+       'pandas<=1.4.4',
+       'scipy<=1.5.4'
     ],
     entry_points='''
         [console_scripts]
