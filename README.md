@@ -7,7 +7,8 @@
 
 [**Upper Limits**](#Upper-Limits) |
 [**Fossil Justifications**](#Fossil-Justifications) |
-[**References**](#References)
+[**References**](#References) |
+[**Monilophyta**](#Monilophyta)
 </div>
 
 ## Fossil Justifications
@@ -688,6 +689,56 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of the sedimentary rock was estimated as Santonian to Campanian. Thus, we used the age 83.8 - 71.9 as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+## Monilophyta
+
+:leaves: **${\text{\color{brown} Fossil \ No.01}}$**
+
+**Brief Desription:** The oldest fossil found in Equisetales.
+
+**Age Bounds:** 384.3 - 358.5 mya.
+
+**Taxon & Specimen & Rock:** *Pseudobornia ursina*, coalified plant megafossils, north-eastern Alaska, Location 2, Collection Be 661 and Rr 635, Devonian of the United States.
+
+**Phylogenetic Justification:** Collection Rr 635 revealed abundant detached foliar material of *Pseudobornia* and axial fragments probably representing the stems and branches of the same plant. A few of the fragments showing swollen nodes, some of which exhibited faint depressions probably marking branch scars, agreed well with the feature of *Pseudobornia* stems proposed by Nathorst.
+
+**Age Justification:** Collection Rr 635 was unearthed (Mamay 1962) at Black shale immediately below Kanayut Conglomerate and above thrust fault. Given the known Late Devonian age of Kanayut Conglomerate, we used the age 384.3 - 358.5 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{brown} Fossil \ No.02}}$**
+
+**Brief Desription:** The oldest fossil found in Psilotales.
+
+**Age Bounds:** 33.9 - 27.82 mya.
+
+**Taxon & Specimen & Rock:** *Tmesipteris tasmanica*, macrofossils, Cethana Dam, Proteacidites tuberculatus pollen zone, Oligocene of Australia.
+
+**Phylogenetic Justification:** The fossil *Tmesipteris tasmanica* was found at the early Eocene-Oligocene deposit at Cethana (Hill 1984). Following the classification of (Knowlton 1919) we put it at Psilotaceae.
+
+**Age Justification:** The palynoflora has been reassigned to early Oligocene by (Macphail et al., 1994). Thus, we adopted the age 33.9 - 27.82 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{brown} Fossil \ No.03}}$**
+
+**Brief Desription:** The oldest fossil found in Ophioglossales.
+
+**Age Bounds:** 251.926 - 251.2 mya.
+
+**Taxon & Specimen & Rock:** *Lycopodiacidites spp.*, sporopollenin, Finnmark core 7129/10-U-01 layer 56.43m, Triassic of Norway.
+
+**Phylogenetic Justification:** The fossil *Lycopodiacidites spp.* was found at the sandstone of the lowermost triassic succession, Finnmark Platform. Following the classification of (Dettmann 1986), we assign it as Ophioglossaceae.
+
+**Age Justification:** The age of *Lundbladispora obsoleta*-*Tympanicysta stoschiana* Assemblage Zone was estimated as Griesbachian, based on palynological correlation with similar assemblages recorded elsewhere in the present Arctic region (Mangerud 1994). Thus, we adopted the age 251.926 - 251.2 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{brown} Fossil \ No.04}}$**
+
+**Brief Desription:** The oldest fossil found in Marattiales.
+
+**Age Bounds:** 394.5 - 381.1 mya.
+
+**Taxon & Specimen & Rock:** *Caulopteris antiqua* and *Caulopteris peregrina*, macrofossils, Corniferous Limestone Ohio, Corniferous Limestone Formation, Devonian of the United States.
+
+**Phylogenetic Justification:** The two fossils were reported by (Dawson 1871). Following the classification of (Pfefferkorn 1976), we assign them as Marattiidae.
+
+**Age Justification:** The age of Corniferous Limestone Formation was estimated as Middle Devonian. Thus, we adopted the age 394.5 - 381.1 mya as the age of the fossils, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
 ## Upper Limits
 
 The minimum age constraint for a given clade can be obtained simply from the lower limit of the stratigraphic age in which the oldest fossil was reported, as we justified above. However, the corresponding maximum age constraint for a given clade, is predominantly based on the knowledge and viewpoint of the researcher. The overall stratigraphic distribution of the fossils of crown and stem groups of the given clade, and the age estimates from the molecular dating studies pertaining to the given clade are the major references for determining a safe maximum age constraint. On top of this, with the unearthing of even older fossils nowadays, the upper limit, i.e. the maximum age constraint of any given clade, will be pushed older concomitantly. Here, we provided, in the best of our knowledge, the safe maximum age constraint for some clades and the associated Justification.
@@ -769,6 +820,8 @@ G. F. W. Herngreen. (1973). Palynology of the Albian-Cenomanian strata of Boreho
 
 G. J. Jordan. (1997). Evidence of Pleistocene plant extinction and diversity from Regatta Point, western Tasmania, Australia. Botanical Journal of the Linnean Society, 123: 45-71.
 
+G. Mangerud. (1994). Palynostratigraphy of the Permian and lowermost Triassic succession, Finnmark Platform, Barents Sea. Review of Palaeobotany and Palynology, 82: 317-349.
+
 Grader, P. and Reiss Z. (1958). On the Lower Cretaceous of Heletz Area. Geological Survey of Israel, 16: 14.
 
 Haggard, K. K., and Tiffney, B. H. (1997). The Flora of the Early Miocene Brandon Lignite, Vermont, USA. VIII. Caldesia (Alismataceae). American Journal of Botany, 84(2): 239–252.
@@ -785,9 +838,13 @@ H. N. Andrews. (1970). Index of Generic Names of Fossil Plants, 1820-1965. Geolo
 
 H. Zhu, Y. J. Huang, and Z. K. Zhou. (2015). Systematic descriptions, in Fossil endocarps of Aralia (Araliaceae) from the upper Pliocene of Yunnan in southwest China, and their biogeographical implications. Review of Palaeobotany and Palynology, 223: 94-103.
 
+H. W. Pfefferkorn. (1976). Pennsylvanian tree fern compressions Caulopteris, Megaphyton, and Artisophyton gen. nov. in Illinois. Illinois State Geological Survey Circular, 492: 1-31.
+
 Isaac, M.J. and Lindqvist, J.K. (1990). Geology and lignite resources of the East Southland Group, New Zealand. New Zealand Geological Survey Bulletin, 101: 1–202.
 
 I. Z. Kotova. (1978). Spores and pollen from Cretaceous deposits of the eastern North Atlantic Ocean, Deep Sea Drealing Project, Leg. 41, Sites 367 and 370. Deep Sea Drealing Project, 41: 841-881.
+
+J. W. Dawson. (1871). On New Tree Ferns and Other Fossils from the Devonian. Quarterly Journal of the Geological Sciences, 27: 269-278.
 
 K. Ozaki. (1974). Miocene floras of the Pacific side of central Japan (I) Inkyoyama flora. Science Reports of the Yokohama National University, Section II, 21: 1-21.
 
@@ -807,7 +864,9 @@ L. Povilauskas. (2013). Palinología de Angiospermas de la Formación Monte Chic
 
 M. Brea and A. F. Zucol. (2006). Leños fósiles de Boraginaceae de la Formación Peñas Coloradas (Paleoceno superior), Puerto Visser, Chubut, Argentina. Ameghiniana, 43(1): 139-146.
 
-Méndez, I., (1966). Foraminíferos, edad y correlación estratigráfi ca del Salamanquense de Punta Peligro (45°30′S; 67°11′W), provincia del Chubut: Revista de la Asociación Geológica Argentina, v. 21, p. 127–157.
+Méndez, I. (1966). Foraminíferos, edad y correlación estratigráfi ca del Salamanquense de Punta Peligro (45°30′S; 67°11′W), provincia del Chubut: Revista de la Asociación Geológica Argentina, v. 21, p. 127–157.
+
+M. E. Dettmann. (1986). Early Cretaceous palynoflora of subsurface strata correlative with the Koonwarra Fossil Bed, Victoria. Mem. Ass. Auslralas. Palaeontols, 3: 79-110.
 
 M. E. Collinson, S. R. Manchester, and V. Wilde. (2012). Fossil Fruits and Seeds of the Middle Eocene Messel biota, Germany. Abhandlungen der Senckenbergischen Gesellschaft Naturforschenden 570: 1-249.
 
@@ -820,6 +879,8 @@ M. E. J. Chandler. (1962). The Lower Tertiary Floras of Southern England. II. Fl
 Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Pliocene and Pleistocene), Wanganui, New Zealand (note). New Zealand Journal of Geology and Geophysics, 21:775-777.
 
 Mildenhall, D.C. and Pocknall, D.T. (1989). Miocene–Pleistocene spores and pollen from Central Otago, South Island, New Zealand. New Zealand Geological Survey Paleontological Bulletin, 59: 1–128.
+
+Macphail, M., Alley, F., Truswell, E. and Sluiter, I. R. K.: Early Tertiary vegetation: Evidence from spores and pollen, in History of the Australian Vegetation: Cretaceous to Recent, edited by R. S. Hill, pp. 189–261, Cambridge University Press, Cambridge., 1994.
 
 M. Prasad. (2008). Angiospermous fossil leaves from the Siwalik foreland basins and their palaeoclimatic implications. The Palaeobotanist, 57: 177-215.
 
@@ -854,6 +915,8 @@ S. Archangelsky. (1973). Palinología del Paleoceno de Chubut. I. Descripciones 
 S. Archangelsky, A. Archangelsky, and G. Cladera. (2012). Palinología y paleoambientes en el perfil de Bajo Comisión (Cretácico), provincia de Santa Cruz, Argentina. Revista del Museo Argentino de Ciencias Naturales, 14(1):23-39.
 
 Shi, C., Wang, S., Cai, Hh. et al. (2022). Fire-prone Rhamnaceae with South African affinities in Cretaceous Myanmar amber. Nat. Plants 8, 125–135.
+
+S. H. Mamay. (1962). Occurrence of Pseudobornia Nathorst in Alaska. The Palaeobotanist, 11(1): 19-22.
 
 Satish K. Srivastava, Dennis R. Braman (2010). The revised generic diagnosis, specific description and synonymy of the Late Cretaceous *Rosannia manika* from Alberta, Canada: Its phytogeography and affinity with family Lactoridaceae. Review of Palaeobotany and Palynology, 159(1–2): 2-13.
 
