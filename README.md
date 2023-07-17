@@ -739,6 +739,32 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of Corniferous Limestone Formation was estimated as Middle Devonian. Thus, we adopted the age 394.5 - 381.1 mya as the age of the fossils, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{brown} Fossil \ No.05}}$**
+
+**Brief Desription:** The oldest fossil found in Osmundales.
+
+**Age Bounds:** 359.3 - 322.8 mya.
+
+**Taxon & Specimen & Rock:** *Todeopsis primaeva*, macrofossil, Flora at Esnost Locality, Carboniferous of France.
+
+**Phylogenetic Justification:** (Scott et al, 1984) reported and identified the fossil *Todeopsis primaeva* according to the definition of (Renault 1896).
+
+**Age Justification:** As shown in the Table 1 of (Scott et al, 1984), the fossil *Todeopsis primaeva* was only unearthed at Esnost Locality, the stratigraphical age of which was estimated as Dinantian based on the compression flora associated with the anthracites and the cherts around the edge of the Autun basin, the radiometric date of which was 323-333 mya. Thus, we adopted the Mississippian age 359.3 - 322.8 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{brown} Fossil \ No.06}}$**
+
+**Brief Desription:** The oldest fossil found in Gleicheniales.
+
+**Age Bounds:** 323.6 - 298.75 mya.
+
+**Taxon & Specimen & Rock:** *Oligocarpia leptophylla*, macrofossil, Pejão Coalfield flora and the adjoining Paraduça No 1 Mine, Dura Basin, Carboniferous of North Portugal.
+
+**Phylogenetic Justification:** (Sousa and Wagner 1983) reported the fossil *Oligocarpia leptophylla* and we assigned it as Gleicheniaceae following the classification of (Andrews 1970).
+
+**Age Justification:** The age of the sedimentary rock was estimated Pennsylvanian. Thus, we adopted the age 323.6 - 298.75 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+
+
 ## Upper Limits
 
 The minimum age constraint for a given clade can be obtained simply from the lower limit of the stratigraphic age in which the oldest fossil was reported, as we justified above. However, the corresponding maximum age constraint for a given clade, is predominantly based on the knowledge and viewpoint of the researcher. The overall stratigraphic distribution of the fossils of crown and stem groups of the given clade, and the age estimates from the molecular dating studies pertaining to the given clade are the major references for determining a safe maximum age constraint. On top of this, with the unearthing of even older fossils nowadays, the upper limit, i.e. the maximum age constraint of any given clade, will be pushed older concomitantly. Here, we provided, in the best of our knowledge, the safe maximum age constraint for some clades and the associated Justification.
@@ -747,6 +773,8 @@ The minimum age constraint for a given clade can be obtained simply from the low
 A. A. M. Eisawi, A. B. Ibrahim, O. B. A. Rahim and E. Schrank. (2012). Palynozonation of the Cretaceous to Lower Paleogene Strata of the Muglad Basin, Sudan. Palynology, 36(2): 191-207.
 
 A. Chandrasekharam. (1974). Megafossil flora from the Genesee Locality, Alberta, Canada. Palaeontographica Abteilung B, 147: 1-41.
+
+A. C. Scott, J. Galtier, and G. Clayton. (1984). Distribution of anatomically-preserved floras in the Lower Carboniferous in Western Europe. Transactions of the Royal Society of Edinburgh, 75: 311-340.
 
 A. E. González-Guzmán. (1967). A palynological study on the upper Los Cuervos and Mirador formations (Lower and middle Eocene; Tibu area, Colombia). 1-68.
 
@@ -879,6 +907,8 @@ M. E. J. Chandler. (1962). The Lower Tertiary Floras of Southern England. II. Fl
 Mildenhall, D.C. (1979). Palynology of the Waipipian and Hautawan Stages (Pliocene and Pleistocene), Wanganui, New Zealand (note). New Zealand Journal of Geology and Geophysics, 21:775-777.
 
 Mildenhall, D.C. and Pocknall, D.T. (1989). Miocene–Pleistocene spores and pollen from Central Otago, South Island, New Zealand. New Zealand Geological Survey Paleontological Bulletin, 59: 1–128.
+
+M. J. de Sousa and R. H. Wagner. (1983). New data on the fossil flora of the Pejão Coalfield and the adjoining Paraduça No 1 Mine (Dura Basin, North Portugal). Contributions to the Carboniferous Geology and Palaeontology of the Iberian Peninsula, 157-170.
 
 Macphail, M., Alley, F., Truswell, E. and Sluiter, I. R. K.: Early Tertiary vegetation: Evidence from spores and pollen, in History of the Australian Vegetation: Cretaceous to Recent, edited by R. S. Hill, pp. 189–261, Cambridge University Press, Cambridge., 1994.
 
