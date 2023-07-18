@@ -5,10 +5,10 @@
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
 
-[**Upper Limits**](#Upper-Limits) |
-[**Fossil Justifications**](#Fossil-Justifications) |
-[**References**](#References) |
-[**Monilophyta**](#Monilophyta)
+[**Upper Limits**](#upper-limits) |
+[**Fossil Justifications**](#fossil-justifications) |
+[**References**](#references) |
+[**Monilophyta**](#monilophyta)
 </div>
 
 ## Fossil Justifications
@@ -763,7 +763,29 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 
 **Age Justification:** The age of the sedimentary rock was estimated Pennsylvanian. Thus, we adopted the age 323.6 - 298.75 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
+:leaves: **${\text{\color{brown} Fossil \ No.07}}$**
 
+**Brief Desription:** The oldest fossil found in Schizaeales.
+
+**Age Bounds:** 323.6 - 298.75 mya.
+
+**Taxon & Specimen & Rock:** *Senftenbergia pennaeformis*, coalified macrofossil, Stewart Mazon Creek and Linopteris obliqua zone, Chieftain No.20 Flora of Vigo County, Busseron Sandstone Member, Shelburn Formation, Indiana, Carboniferous of the United States.
+
+**Phylogenetic Justification:** As shown in the Figure 2 (Boneham 1974), the pinnules have a triangular shape but are longer than those reported for *Dactylotheca plumosa* (Artis) Zeiller whose outline *Senftenbergia pennaeformis* Brongniart otherwise resembles. We accepted the classification of *Senftenbergia pennaeformis* Brongniart.
+
+**Age Justification:** The age of Chieftain No.20 Flora of Vigo County was estimated as Upper Allegheny or lower-most Conemaugh. Thus, we adopted the Pennsylvanian age 323.6 - 298.75 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{brown} Fossil \ No.08}}$**
+
+**Brief Desription:** The oldest fossil found in Salviniales.
+
+**Age Bounds:** 132.6 - 125.77 mya.
+
+**Taxon & Specimen & Rock:** *Crybelosporites striatus*, spore-pollen, Alam El-Beuib Member, Burg El-Arab Formation, West Tiba-1, Assemblage Zone PII, Sample 9, Cretaceous of Egypt.
+
+**Phylogenetic Justification:** (Mahmoud and Moawad 2000) reported and identified the spore-pollen *Crybelosporites striatus* based on palynology.
+
+**Age Justification:** *Crybelosporites striatus* was unearthed at Ephedripites-Aequitriradites verrucosus Assemblage Zone PII, whose age was estimated as Hauterivian based on the recovered palynomorphs. Thus, we adopted the age 132.6 - 125.77 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
 
 ## Upper Limits
 
@@ -914,6 +936,8 @@ Macphail, M., Alley, F., Truswell, E. and Sluiter, I. R. K.: Early Tertiary vege
 
 M. Prasad. (2008). Angiospermous fossil leaves from the Siwalik foreland basins and their palaeoclimatic implications. The Palaeobotanist, 57: 177-215.
 
+M. S. Mahmoud and A.-R. M. Moawad. (2000). Jurassic-Cretaceous (Bathonian to Cenomanian) palynology and stratigraphy of the West Tiba-1 borehole, northern Western Desert, Egypt. Journal of African Earth Sciences, 30: 401-416.
+
 Natland, M.L., Gonzalez, E., Cañon, A. and Ernst, M. (1974). A system of stages for correlation of Magallanes Basin sediments. Geological Society of America, Memoir, 139, 1-126.
 
 Ogg, James,  Ogg, Gabi and Gradstein, Felix. (2016). A Concise Geologic TimeScale.
@@ -929,6 +953,8 @@ Pocknall, D.T. and Mildenhall, D.C. (1984). Late Oligocene–early Miocene spore
 Pons, D., Berthou, P.Y., Filgueira, J.B.M., Sampaio, J.J.A. (1996). Palynologie des unités lithostratigraphique “Fundao”, “Crato” et “Ipubi” (Aptien supérieur à Albien inférieurmoyen, Bassin d'Araripe, NE du Brésil): enseignements paléoécologiques, stratigraphiques et climatologiques. In: Jardiné, S., Klasz, I., Debenet, J.-P. (Eds.), Géologie de l'Afrique et de l'Atlantique Sud. Elf Aquitaine Memoire, Pau, pp. 383–401.
 
 Q. C. Huang and D. L. Dilcher. (1994). Evolutionary and Paleoecological Implications of Fossil Plants from the Lower Cretaceous Cheyenne Sandstone of the Western Interior. Geological Society of America Special Paper, 287:129-144.
+
+R. F. Boneham. (1974). Chieftain No.20 Flora (Middle Pennsylvanian) of Vigo County Indiana. Proceedings of the Indiana Academy of Science, 84: 89-113.
 
 Regali, M.S.P. (2001). Palinoestratigrafia dos sedimentos Cretácicos da Bacia do Araripe e das Bacias Interiores do Nordeste—Brasil. In: Barros, L.M., Nuvens, P.C., Filgueira, J.B.M. (Eds.), I e II Simpósios Sobre a Bacia do Araripe e Bacias Interiores do Nordeste. Universidade Regional do Cariri—URCA, Crato, pp. 101–108.
 
