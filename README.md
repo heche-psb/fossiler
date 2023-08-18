@@ -1,6 +1,6 @@
 <div align="center">
 
-# `fossiler v0.0.4.2` : a suite tool of fossils finding
+# `fossiler v0.0.4.6` : a suite tool of fossils finding
 **Hengchi Chen**
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
@@ -786,6 +786,12 @@ Triuridaceae genera (including *Lacandonia*) of 20 morphological characters to e
 **Phylogenetic Justification:** (Mahmoud and Moawad 2000) reported and identified the spore-pollen *Crybelosporites striatus* based on palynology.
 
 **Age Justification:** *Crybelosporites striatus* was unearthed at Ephedripites-Aequitriradites verrucosus Assemblage Zone PII, whose age was estimated as Hauterivian based on the recovered palynomorphs. Thus, we adopted the age 132.6 - 125.77 mya as the age of the fossil, according to the [International Chronostratigraphic Chart v2023/04](https://stratigraphy.org/).
+
+:leaves: **${\text{\color{brown} Fossil \ No.09}}$**
+
+**Brief Desription:** The oldest fossil found in Cyatheales.
+
+**Age Bounds:** 132.6 - 125.77 mya.
 
 ## Upper Limits
 
