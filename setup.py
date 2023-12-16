@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='fossiler',
-    version='0.0.4.6',
+    version='0.0.4.7',
     packages=['fossiler'],
     url='http://github.com/heche-psb/fossiler',
     license='GPL',
@@ -23,7 +23,8 @@ setup(
        'biopython==1.76',
        'click==7.1.2',
        'pandas<=1.4.4',
-       'scipy<=1.5.4'
+       'scipy<=1.5.4',
+       'rich==12.5.1'
     ],
     entry_points='''
         [console_scripts]

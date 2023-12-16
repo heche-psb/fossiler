@@ -49,6 +49,8 @@ Species_Completeness = {'Abrus precatorius': 0.992, 'Acacia pycnantha': 0.974000
 
 Orders_replace_Species = {'Acorales':'(Acorus_americanus,Acorus_tatarinowii)','Alismatales':'(Potamogeton_acutifolius,(Spirodela_intermedia,Amorphophallus_konjac))','Zingiberales':'(Ensete_glaucum,(Zingiber_officinale,Wurfbainia_villosa))','Vitales':'(Vitis_arizonica,Vitis_vinifera)','Trochodendrales':'(Tetracentron_sinense,Trochodendron_aralioides)','Solanales':'(Ipomoea_nil,(Nicotiana_attenuata,Solanum_pennellii))','Saxifragales':'(Paeonia_ostii,(Sedum_album,Kalanchoe_fedtschenkoi))','Sapindales':'(Poncirus_trifoliata,(Mangifera_indica,Pistacia_vera))','Santalales':'Malania_oleifera','Rosales':'(Artocarpus_nanchuanensis,(Eriobotrya_japonica,Prunus_persica))','Ranunculales':'(Papaver_setigerum,(Aquilegia_coerulea,Aquilegia_oxysepala))','Proteales':'(Nelumbo_nucifera,(Telopea_speciosissima,Protea_cynaroides))','Poales':'(Rhynchospora_pubera,(Brachypodium_hybridum,Panicum_virgatum))','Pleosporales':'Alternaria_oxytropis','Piperales':'(Piper_nigrum,(Aristolochia_fimbriata,Aristolochia_contorta))','Pandanales':'Acanthochlamys_bracteata','Oxalidales':'(Averrhoa_carambola,Cephalotus_follicularis)','Nymphaeales':'(Euryale_ferox,(Nymphaea_colorata,Nymphaea_thermarum))','Myrtales':'(Punica_granatum,(Syzygium_aromaticum,Eucalyptus_grandis))','Malvales':'(Aquilaria_sinensis,(Gossypium_hirsutum,Gossypium_barbadense))','Malpighiales':'(Populus_trichocarpa,(Manihot_esculenta,Vernicia_fordii))','Laurales':'(Chimonanthus_salicifolius,(Cinnamomum_kanehirae,Persea_americana))','Lamiales':'(Andrographis_paniculata,(Pogostemon_cablin,Salvia_splendens))','Gentianales':'(Calotropis_gigantea,(Chiococca_alba,Coffea_canephora))','Fagales':'(Quercus_rubra,(Carya_illinoinensis,Juglans_regia))','Fabales':'(Glycine_max,(Vigna_angularis,Vigna_radiata))','Ericales':'(Primula_veris,(Vaccinium_corymbosum,Vaccinium_caesariense))','Dipsacales':'Lonicera_japonica','Dioscoreales':'(Dioscorea_alata,Dioscorea_rotundata)','Cucurbitales':'(Begonia_fuchsioides,(Benincasa_hispida,Cucurbita_argyrosperma))','Cornales':'(Hydrangea_macrophylla,(Camptotheca_acuminata,Davidia_involucrata))','Chloranthales':'(Chloranthus_spicatus,Chloranthus_sessilifolius)','Ceratophyllales':'Ceratophyllum_demersum','Celastrales':'Tripterygium_wilfordii','Caryophyllales':'(Portulaca_amilis,(Beta_vulgaris,Beta_patula))','Buxales':'(Buxus_austroyunnanensis,Buxus_sinica)','Brassicales':'(Arabidopsis_thaliana,(Tarenaya_hassleriana,Cleome_violacea))','Boraginales':'Lithospermum_erythrorhizon','Asterales':'(Nymphoides_indica,(Smallanthus_sonchifolius,Erigeron_canadensis))','Asparagales':'(Asparagus_setaceus,(Phalaenopsis_equestris,Dendrobium_nobile))','Arecales':'(Daemonorops_jenkinsiana,(Phoenix_dactylifera,Elaeis_guineensis))','Aquifoliales':'Ilex_polyneura','Apiales':'(Coriandrum_sativum,(Aralia_elata,Panax_ginseng))','Amborellales':'Amborella_trichopoda','Magnoliales':'(Liriodendron_chinense,Magnolia_biondii)'}
 
+Orders_replace_One_Species = {'Acorales':'Acorus_americanus','Alismatales':'Potamogeton_acutifolius','Zingiberales':'Ensete_glaucum','Vitales':'Vitis_arizonica','Trochodendrales':'Tetracentron_sinense','Solanales':'Ipomoea_nil','Saxifragales':'Paeonia_ostii','Sapindales':'Poncirus_trifoliata','Santalales':'Malania_oleifera','Rosales':'Artocarpus_nanchuanensis','Ranunculales':'Papaver_setigerum','Proteales':'Nelumbo_nucifera','Poales':'Rhynchospora_pubera','Pleosporales':'Alternaria_oxytropis','Piperales':'Piper_nigrum','Pandanales':'Acanthochlamys_bracteata','Oxalidales':'Averrhoa_carambola','Nymphaeales':'Euryale_ferox','Myrtales':'Punica_granatum','Malvales':'Aquilaria_sinensis','Malpighiales':'Populus_trichocarpa','Laurales':'Chimonanthus_salicifolius','Lamiales':'Andrographis_paniculata','Gentianales':'Calotropis_gigantea','Fagales':'Quercus_rubra','Fabales':'Glycine_max','Ericales':'Primula_veris','Dipsacales':'Lonicera_japonica','Dioscoreales':'Dioscorea_alata','Cucurbitales':'Begonia_fuchsioides','Cornales':'Hydrangea_macrophylla','Chloranthales':'Chloranthus_spicatus','Ceratophyllales':'Ceratophyllum_demersum','Celastrales':'Tripterygium_wilfordii','Caryophyllales':'Portulaca_amilis','Buxales':'Buxus_austroyunnanensis','Brassicales':'Arabidopsis_thaliana','Boraginales':'Lithospermum_erythrorhizon','Asterales':'Nymphoides_indica','Asparagales':'Asparagus_setaceus','Arecales':'Daemonorops_jenkinsiana','Aquifoliales':'Ilex_polyneura','Apiales':'Coriandrum_sativum','Amborellales':'Amborella_trichopoda','Magnoliales':'Liriodendron_chinense'}
+
 def standalonetaxonomy(sp):
     taxoinfo = get_taxonomy(sp,Fullinfo=True)
     if taxoinfo != None:
@@ -247,13 +249,14 @@ def findneighbor(belonged_order,number=8):
              break
     return needed_mrca
 
-def replacespecies(content,Clade_names):
+def replacespecies(content,Clade_names,onlyone=False):
     original_sp_num = int(content.split('\n')[0].split(' ')[0])
     for i in Clade_names:
         if i.endswith("_ap1") or i.endswith("_ap2"): continue
         #added_num = len(Orders_replace_Species[i].split(',')) - 1
         #final_sp_num = original_sp_num + added_num
-        content = content.replace(i,Orders_replace_Species[i])
+        if onlyone: content = content.replace(i,Orders_replace_One_Species[i])
+        else: content = content.replace(i,Orders_replace_Species[i])
     handle = StringIO(content.split("\n")[1])
     Tree = Phylo.read(handle,"newick")
     spnum = len(Tree.get_terminals())
@@ -276,12 +279,12 @@ def replacespecies(content,Clade_names):
     content = content.replace(str(original_sp_num)+" ",str(spnum)+" ")
     return content, spnum
 
-def getproperstartingtree(treef,number,outdir):
+def getproperstartingtree(treef,number,outdir,onlyone=False):
     # Only works for order-level/or more recent WGDs
     Tree = Phylo.read(treef,"newick")
     Clade_names = [i.name for i in Tree.get_terminals()]
     with open(treef,"r") as f: content = f.read()
-    content, spnum = replacespecies(content,Clade_names)
+    content, spnum = replacespecies(content,Clade_names,onlyone=onlyone)
     with open(treef+'_{}sp'.format(spnum),"w") as f: f.write(content)
 
 def otherpaperestimate(data):
