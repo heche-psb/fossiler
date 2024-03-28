@@ -5,6 +5,8 @@ from scipy.stats import norm
 import os
 from Bio import Phylo,Entrez,AlignIO
 from io import StringIO
+import urllib.request
+from urllib.error import HTTPError
 
 Age_ranges = [(129.4,113.0),(121.4,113.0),(72.3,66.0),(121.4,113.0),(121.4,113.0),(113.0,105.68),(139.8,125.77),(56.0,33.9),(83.6,72.1),(124.85,124.35),(121.4,113.0),(28.4,23.03),(125.77,121.4),(93.9,89.5),(37.71,33.9),(113.0,100.5),(121.4,100.5),(113.0,100.5),(72.3,66.0),(113.0,100.5),(139.8,121.4),(145.0,100.5),(56.0,47.8),(110.0,99.0),(145.0,100.5),(83.8,71.9),(83.8,66.0),(145.0,100.5),(72.3,66.0),(113.0,100.5),(90.1,85.8),(66.0,56.0),(113.0,100.5),(83.8,71.9),(145.0,100.5),(66.0,23.03),(145.0,100.5),(113.0,100.5),(86.8,71.9),(113.0,93.9),(125.77,113.0),(90.1,85.8),(59.2,56.0),(66.0,63.3),(66.0,61.6),(66.0,61.6),(145.0,66.0),(56.0,47.8),(100.5,93.9),(33.9,28.4),(86.8,71.9),(145.0,100.5),(56.0,33.9),(145.0,100.5),(27.82,23.03),(83.8,71.9)]
 
@@ -174,7 +176,15 @@ def skipnontreeline(content):
     if not content[0].startswith("("): return skipnontreeline(content[1:])
     else: return content
 
-def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False):
+def writedic(fil):
+    dic = {}
+    with open(orderdata,'r') as f:
+        for line in f.readlines():
+            content = line.strip().split(' ')
+            dic[content[0]] = content[1]
+    return dic
+
+def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=None):
     with open(tree,'r') as f: lines = f.read()
     handle = StringIO(skipnontreeline(lines))
     Tree = Phylo.read(handle,"newick")
@@ -182,13 +192,20 @@ def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False):
     treeftax = os.path.abspath(tree) + ".addtime_taxonomy"
     taxonomy_dict = {}
     Focus_sp = None
+    if orderdata is not None: sp_order = writedic(orderdata)
     for clade in Tree.get_terminals():
         if clade.name.endswith("_ap1"):
             clade.name = clade.name.replace("_ap1","")
             Focus_sp = clade.name
         if clade.name.endswith("_ap2"): clade.name = clade.name.replace("_ap2","")
-        info = get_taxonomy(clade.name)
-        if info['order'] == '': info['order'] = clade.name # This step is tricky, assuming the input is already order name
+        success = False
+        while success == False:
+            try:
+                info = get_taxonomy(clade.name)
+                success = True
+            except HTTPError as e:
+                success = False
+        #if info['order'] == '': info['order'] = clade.name # This step is tricky, assuming the input is already order name
         taxonomy_dict[clade.name] = info
         logging.info("{} belongs to {}".format(clade.name,taxonomy_dict[clade.name]['order']))
     for i,clade in enumerate(Tree.get_nonterminals()):
@@ -255,8 +272,12 @@ def replacespecies(content,Clade_names,onlyone=False):
         if i.endswith("_ap1") or i.endswith("_ap2"): continue
         #added_num = len(Orders_replace_Species[i].split(',')) - 1
         #final_sp_num = original_sp_num + added_num
-        if onlyone: content = content.replace(i,Orders_replace_One_Species[i])
-        else: content = content.replace(i,Orders_replace_Species[i])
+        if onlyone:
+            content = content.replace(i,Orders_replace_One_Species[i])
+            logging.info("Representative species of {0}: {1}".format(i,Orders_replace_One_Species[i]))
+        else:
+            content = content.replace(i,Orders_replace_Species[i])
+            logging.info("Representative species of {0}: {1}".format(i,Orders_replace_Species[i].replace('()','')))
     handle = StringIO(content.split("\n")[1])
     Tree = Phylo.read(handle,"newick")
     spnum = len(Tree.get_terminals())
