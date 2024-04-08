@@ -205,7 +205,7 @@ def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=No
                 success = True
             except HTTPError as e:
                 success = False
-        #if info['order'] == '': info['order'] = clade.name # This step is tricky, assuming the input is already order name
+        if info['order'] == '': info['order'] = clade.name # This step is tricky, assuming the input is already order name
         taxonomy_dict[clade.name] = info
         logging.info("{} belongs to {}".format(clade.name,taxonomy_dict[clade.name]['order']))
     for i,clade in enumerate(Tree.get_nonterminals()):
