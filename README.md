@@ -1,6 +1,6 @@
 <div align="center">
 
-# `fossiler v0.0.4.6` : a suite tool of fossils finding
+# `fossiler v0.0.5.0` : a suite tool of fossils finding
 **Hengchi Chen**
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
