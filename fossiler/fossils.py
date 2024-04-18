@@ -39,6 +39,9 @@ Clades_Upper_Bounds_FollowYang = {'Nymphaeales':247.2,'Austrobaileyales':247.2,'
 
 APG_IV_Modified_Tree = "(Amborellales,(Nymphaeales,(Austrobaileyales,((Acorales,(Alismatales,(Petrosaviales,((Dioscoreales,Pandanales),(Liliales,(Asparagales,(Arecales,(Poales,(Zingiberales,Commelinales))))))))),((Chloranthales,((Laurales,Magnoliales),(Canellales,Piperales))),(Ceratophyllales,(Ranunculales,(Proteales,(Trochodendrales,(Buxales,(Gunnerales,(Dilleniales,(Saxifragales,(Vitales,(((Myrtales,Geraniales),(Crossosomatales,(Picramniales,(Sapindales,(Huerteales,(Malvales,Brassicales)))))),(Zygophyllales,((Celastrales,(Malpighiales,Oxalidales)),(Fabales,(Rosales,(Fagales,Cucurbitales)))))))),(Berberidopsidales,(Santalales,(Caryophyllales,(Cornales,(Ericales,((Aquifoliales,(Asterales,Escalloniales,(Bruniales,(Apiales,(Dipsacales,Paracryphiales))))),(Icacinales,(Metteniusales,(Garryales,(Boraginales,Gentianales,Vahliales,Lamiales,Solanales))))))))))))))))))))));"
 
+Updated_Tree_in_Paper = "(Amborellales,(Nymphaeales,(Austrobaileyales,((Acorales,(Alismatales,(Petrosaviales,((Pandanales,Dioscoreales),(Liliales,(Asparagales,((Arecales,(Zingiberales,Commelinales)),Poales))))))),(((Ranunculales,(Proteales,((Trochodendrales,Buxales),(Gunnerales,((Caryophyllales,((Cornales,Ericales),(((Apiales,Dipsacales),Asterales),(Aquifoliales,((Solanales,(Gentianales,Boraginales)),Lamiales))))),(Santalales,(Vitales,(Saxifragales,(Crossosomatales,(Myrtales,(((Celastrales,Malpighiales),(Oxalidales,(Sapindales,(Malvales,Brassicales)))),((Cucurbitales,Rosales),(Fagales,Fabales))))))))))))),Ceratophyllales),(Chloranthales,((Piperales,Canellales),(Magnoliales,Laurales))))))));"
+
+
 APG_IV_Modified_Family_Tree = APG_IV_Modified_Tree.replace("Fagales","(Nothofagaceae,(Fagaceae,((Myricaceae,(Juglandaceae,Rhoipteleaceae)),(Casuarinaceae,(Betulaceae,Ticodendraceae)))))").replace("Austrobaileyales","(Austrobaileyaceae,(Trimeniaceae,Schisandraceae))").replace("Nymphaeales","(Hydatellaceae,(Cabombaceae,Nymphaeaceae))").replace("Ceratophyllales","Ceratophyllaceae").replace("Chloranthales","Chloranthaceae").replace("Canellales","(Canellaceae,Winteraceae)").replace("Laurales","(Calycanthaceae,((Siparunaceae,(Gomortegaceae,Atherospermataceae)),(Monimiaceae,(Hernandiaceae,Lauraceae))))").replace("Magnoliales","(Myristicaceae,(Magnoliaceae,((Degeneriaceae,Himantandraceae),(Eupomatiaceae,Annonaceae))))").replace("Piperales","(Aristolochiaceae,(Piperaceae,Saururaceae))").replace("Alismatales","(Araceae,(Tofieldiaceae,(((Hydrocharitaceae,Butomaceae),Alismataceae),(Scheuchzeriaceae,(Aponogetonaceae,(Juncaginaceae,(Maundiaceae,((Zosteraceae,Potamogetonaceae),(Posidoniaceae,(Ruppiaceae,Cymodoceaceae))))))))))").replace("Asparagales","(Orchidaceae,((Boryaceae,(Blandfordiaceae,(Lanariaceae,(Asteliaceae,Hypoxidaceae)))),((Ixioliriaceae,Tecophilaeaceae),(Doryanthaceae,(Iridaceae,(Xeronemataceae,(Xanthorrhoeaceae,(Amaryllidaceae,Asparagaceae))))))))")
 
 Codon_Table = {'TTT':'F','TTC':'F','TTA':'L','TTG':'L','CTT':'L','CTC':'L','CTA':'L','CTG':'L','ATT':'I','ATC':'I','ATA':'I','ATG':'M','GTT':'V','GTC':'V','GTA':'V','GTG':'V','TCT':'S','TCC':'S','TCA':'S','TCG':'S','CCT':'P','CCC':'P','CCA':'P','CCG':'P','ACT':'T','ACC':'T','ACA':'T','ACG':'T','GCT':'A','GCC':'A','GCA':'A','GCG':'A','TAT':'Y','TAC':'Y','TAA':'','TAG':'','CAT':'H','CAC':'H','CAA':'Q','CAG':'Q','AAT':'N','AAC':'N','AAA':'K','AAG':'K','GAT':'D','GAC':'D','GAA':'E','GAG':'E','TGT':'C','TGC':'C','TGA':'','TGG':'W','CGT':'R','CGC':'R','CGA':'R','CGG':'R','AGT':'S','AGC':'S','AGA':'R','AGG':'R','GGT':'G','GGC':'G','GGA':'G','GGG':'G'}
@@ -184,7 +187,7 @@ def writedic(fil):
             dic[content[0]] = content[1]
     return dic
 
-def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=None):
+def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=None,Updated_Tree=False):
     with open(tree,'r') as f: lines = f.read()
     handle = StringIO(skipnontreeline(lines))
     Tree = Phylo.read(handle,"newick")
@@ -213,7 +216,7 @@ def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=No
         if len(set(order_occur)) <=1: continue
         Mininum_limit,Maximum_limit,order_occur = 0,0,[]
         if wholetree:
-            total_clades = getotalcaldes(clade,taxonomy_dict)
+            total_clades = getotalcaldes(clade,taxonomy_dict,Updated_Tree=Updated_Tree)
         else:
             total_clades = clade.get_terminals()
         for tip in total_clades:
@@ -247,8 +250,8 @@ def formatmcmctree(spnum,fname):
     with open(fname,"w") as f:
         f.write("{} 1\n{}".format(spnum,content))
 
-def getotalcaldes(clade,taxonomy_dict):
-    handle = StringIO(APG_IV_Modified_Tree)
+def getotalcaldes(clade,taxonomy_dict,Updated_Tree=False):
+    handle = StringIO(Updated_Tree_in_Paper) if Updated_Tree else StringIO(APG_IV_Modified_Tree)
     Tree = Phylo.read(handle,"newick")
     orrurred_clades = [taxonomy_dict[tip.name]['order'] for tip in clade.get_terminals()]
     MRCA_Node = Tree.common_ancestor(*orrurred_clades)
@@ -266,7 +269,7 @@ def findneighbor(belonged_order,number=8):
              break
     return needed_mrca
 
-def replacespecies(content,Clade_names,onlyone=False):
+def replacespecies(content,Clade_names,inname,onlyone=False):
     original_sp_num = int(content.split('\n')[0].split(' ')[0])
     for i in Clade_names:
         if i.endswith("_ap1") or i.endswith("_ap2"): continue
@@ -281,7 +284,7 @@ def replacespecies(content,Clade_names,onlyone=False):
     handle = StringIO(content.split("\n")[1])
     Tree = Phylo.read(handle,"newick")
     spnum = len(Tree.get_terminals())
-    with open("sp{}_species_list_space".format(spnum),"w") as f:
+    with open("{}_sp{}_species_list_space".format(inname,spnum),"w") as f:
         focussp = ''
         for i in Tree.get_terminals():
             if i.name.endswith("_ap2") or i.name.endswith("_ap1"):
@@ -289,7 +292,7 @@ def replacespecies(content,Clade_names,onlyone=False):
                 continue
             f.write("{} ".format(i.name))
         f.write("{}".format(focussp))
-    with open("sp{}_species_list_lines".format(spnum),"w") as f:
+    with open("{}_sp{}_species_list_lines".format(inname,spnum),"w") as f:
         focussp = ''
         for i in Tree.get_terminals():
             if i.name.endswith("_ap2") or i.name.endswith("_ap1"):
@@ -305,7 +308,7 @@ def getproperstartingtree(treef,number,outdir,onlyone=False):
     Tree = Phylo.read(treef,"newick")
     Clade_names = [i.name for i in Tree.get_terminals()]
     with open(treef,"r") as f: content = f.read()
-    content, spnum = replacespecies(content,Clade_names,onlyone=onlyone)
+    content, spnum = replacespecies(content,Clade_names,os.path.basename(treef),onlyone=onlyone)
     with open(treef+'_{}sp'.format(spnum),"w") as f: f.write(content)
 
 def otherpaperestimate(data):
