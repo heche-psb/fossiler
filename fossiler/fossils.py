@@ -187,7 +187,7 @@ def writedic(fil):
             dic[content[0]] = content[1]
     return dic
 
-def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=None,Updated_Tree=False):
+def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=None,Updated_Tree=False,Combined=False):
     with open(tree,'r') as f: lines = f.read()
     handle = StringIO(skipnontreeline(lines))
     Tree = Phylo.read(handle,"newick")
@@ -220,7 +220,12 @@ def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=No
         else:
             total_clades = clade.get_terminals()
         for tip in total_clades:
-            age = Orders_Bounds.get(taxonomy_dict[tip.name]['order'],0)/100 if not wholetree else Orders_Bounds.get(tip.name,0)/100
+            if Combined:
+                age1 = Orders_Bounds.get(taxonomy_dict[tip.name]['order'],0)/100 if not wholetree else Orders_Bounds.get(tip.name,0)/100
+                age2 = Orders_Bounds_Previous.get(taxonomy_dict[tip.name]['order'],0)/100 if not wholetree else Orders_Bounds_Previous.get(tip.name,0)/100
+                age = max([age1,age2])
+            else:
+                age = Orders_Bounds.get(taxonomy_dict[tip.name]['order'],0)/100 if not wholetree else Orders_Bounds.get(tip.name,0)/100
             if age > Mininum_limit: Mininum_limit = age
             if Yang:
                 upper_age = Clades_Upper_Bounds_FollowYang.get(taxonomy_dict[tip.name]['order'],0)/100 if not wholetree else Clades_Upper_Bounds_FollowYang.get(tip.name,0)/100

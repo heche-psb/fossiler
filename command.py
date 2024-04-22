@@ -42,18 +42,19 @@ def cli(verbosity):
 @click.option('--setconserved', '-sc', is_flag=True, help='adopt the same maximum constraint as (Morris et al., 2018)')
 @click.option('--onlyone', '-oo', is_flag=True, help='get only one species per order')
 @click.option('--updatedtree', '-ut', is_flag=True, help='use updated angiosperm phylogeny from paper instead of APG IV')
+@click.option('--combined', '-cb', is_flag=True, help='fossil calibrations based on combined database')
 def find(**kwargs):
     """
     Find available fossils
     """
     _find(**kwargs)
 
-def _find(tree,outdir,clades,rocks,getaxonomy,mcmctreeformat,wholetree,setconserved,getsp,number,onlyone,updatedtree):
+def _find(tree,outdir,clades,rocks,getaxonomy,mcmctreeformat,wholetree,setconserved,getsp,number,onlyone,updatedtree,combined):
     from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil,standalonetaxonomy,getproperstartingtree
     if clades != None: rawfossils(clades)
     if rocks !=None: cooccurancerecords(rocks)
     if tree != None:
-        treef = gettreewithfossil(tree,formatt=mcmctreeformat,wholetree=wholetree,Yang=setconserved,Updated_Tree=updatedtree)
+        treef = gettreewithfossil(tree,formatt=mcmctreeformat,wholetree=wholetree,Yang=setconserved,Updated_Tree=updatedtree,Combined=combined)
         if getsp: getproperstartingtree(treef,number,outdir,onlyone=onlyone)
     if getaxonomy!= None: standalonetaxonomy(getaxonomy)
 
