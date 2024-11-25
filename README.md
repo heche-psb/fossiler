@@ -72,7 +72,7 @@ The `inputfile` is a tree file documenting the species names or taxonomy names. 
 (((Alismatales,(Pandanales,Dioscoreales)),Acorales),(((Trochodendrales,Buxales),Proteales),(Aquilegia_coerulea_ap1,Aquilegia_coerulea_ap2)));
 ```
 
-Species names should be joined by underlines. Note that it's allowed to append `_ap1` and `_ap2` in the end of a species name to create the starting tree file for WGD dating using `wgd v2`.
+Species names should be joined by underlines. Note that it's allowed to append `_ap1` and `_ap2` at the end of a species name to create the starting tree file for WGD dating using `wgd v2`.
 
 There will be 5 output files as below.
 
