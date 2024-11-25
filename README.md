@@ -1,6 +1,6 @@
 <div align="center">
 
-# `fossiler` : a suite tool of fossils finding
+# `fossiler` : a suite tool of fossil calibration finding
 **Hengchi Chen**
 
 [**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.be/)**, VIB-UGent Center for Plant Systems Biology**
