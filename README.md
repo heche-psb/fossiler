@@ -23,7 +23,7 @@ source ENV/bin/activate
 pip install fossiler
 ```
 
-Note that if users want to get the latest update, it's suggested to install from the source here because the update on `PYPI` will be later than here of source. To install from source, the following command can be used.
+Note that if users want to get the latest update, it's suggested to install from the source because the update on `PYPI` will be later than here of source. To install from source, the following command can be used.
 
 ```
 git clone https://github.com/heche-psb/fossiler
@@ -36,7 +36,8 @@ pip install .
 
 If there is permission problem in the installation, please try the following command.
 
-```                                                                                                                                             pip install -e .
+```
+pip install -e .
 ```
 
 ## Parameters
