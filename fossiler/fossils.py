@@ -20,7 +20,9 @@ Orders = ['Nymphaeales','Austrobaileyales','Piperales','Canellales','Magnoliales
 
 Orders_Bounds_Previous = {'Nymphaeales':113.0,'Austrobaileyales':113.0,'Piperales':66.0,'Canellales':113.0,'Magnoliales':113.0,'Laurales':105.68,'Chloranthales':125.77,'Commelinales':33.9,'Zingiberales':72.1,'Poales':124.35,'Arecales':113.0,'Asparagales':23.03,'Liliales':121.4,'Pandanales':89.5,'Dioscoreales':33.9,'Ceratophyllales':100.5,'Ranunculales':100.5,'Proteales':100.5,'Trochodendrales':66.0,'Buxales':100.5,'Gunnerales':121.4,'Fagales':100.5,'Cucurbitales':47.8,'Rosales':99.0,'Fabales':100.5,'Celastrales':71.9,'Oxalidales':66.0,'Malpighiales':100.5,'Zygophyllales':66.0,'Malvales':100.5,'Brassicales':85.8,'Huerteales':56.0,'Sapindales':100.5,'Crossosomatales':71.9,'Myrtales':100.5,'Geraniales':23.03,'Vitales':100.5,'Saxifragales':100.5,'Dilleniales':71.9,'Santalales':93.9,'Caryophyllales':113.0,'Cornales':85.8,'Icacinales':56.0,'Garryales':63.3,'Boraginales':61.6,'Gentianales':61.6,'Lamiales':66.0,'Solanales':47.8,'Aquifoliales':93.9,'Escalloniales':28.4,'Asterales':71.9,'Dipsacales':100.5,'Paracryphiales':33.9,'Apiales':100.5,'Alismatales':23.03,'Ericales':71.9}
 
-Orders_Bounds = {'Nymphaeales':113.0,'Austrobaileyales':113.0,'Piperales':72.1,'Canellales':125,'Magnoliales':113.0,'Laurales':113.0,'Chloranthales':123.0,'Commelinales':12.2,'Zingiberales':72.1,'Poales':66,'Arecales':83.6,'Asparagales':41.2,'Liliales':51,'Pandanales':56.0,'Dioscoreales':27.23,'Ceratophyllales':127.2,'Ranunculales':89.8,'Proteales':107.7,'Trochodendrales':66.0,'Buxales':110.8,'Gunnerales':0,'Fagales':93.9,'Cucurbitales':47.8,'Rosales':72.1,'Fabales':56.0,'Celastrales':46.3,'Oxalidales':80.7,'Malpighiales':86.3,'Zygophyllales':66.0,'Malvales':72.1,'Brassicales':86.3,'Huerteales':41.2,'Sapindales':89.8,'Crossosomatales':56.0,'Myrtales':86.3,'Geraniales':15.97,'Vitales':61.6,'Saxifragales':83.6,'Dilleniales':47.8,'Santalales':80.7,'Caryophyllales':72.1,'Cornales':86.3,'Icacinales':47.8,'Garryales':47.8,'Boraginales':47.8,'Gentianales':48.5,'Lamiales':41.2,'Solanales':52.22,'Aquifoliales':61.6,'Escalloniales':28.4,'Asterales':72.1,'Dipsacales':34.07,'Paracryphiales':33.9,'Apiales':66.0,'Alismatales':66,'Ericales':86.3}
+Orders_Bounds = {'Nymphaeales':113.0,'Austrobaileyales':113.0,'Piperales':72.1,'Canellales':125,'Magnoliales':113.0,'Laurales':113.0,'Chloranthales':121.4,'Commelinales':33.9,'Zingiberales':72.1,'Poales':72.1,'Arecales':83.6,'Asparagales':41.2,'Liliales':51,'Pandanales':56.0,'Dioscoreales':33.9,'Ceratophyllales':127.2,'Ranunculales':110.8,'Proteales':107.7,'Trochodendrales':66.0,'Buxales':110.8,'Gunnerales':0,'Fagales':93.9,'Cucurbitales':47.8,'Rosales':72.1,'Fabales':56.0,'Celastrales':46.3,'Oxalidales':80.7,'Malpighiales':86.3,'Zygophyllales':66.0,'Malvales':72.1,'Brassicales':86.3,'Huerteales':41.2,'Sapindales':89.8,'Crossosomatales':56.0,'Myrtales':86.3,'Geraniales':23.03,'Vitales':61.6,'Saxifragales':83.6,'Dilleniales':47.8,'Santalales':80.7,'Caryophyllales':72.1,'Cornales':86.3,'Icacinales':47.8,'Garryales':47.8,'Boraginales':47.8,'Gentianales':48.5,'Lamiales':41.2,'Solanales':52.22,'Aquifoliales':61.6,'Escalloniales':28.4,'Asterales':72.1,'Dipsacales':34.07,'Paracryphiales':33.9,'Apiales':66.0,'Alismatales':66,'Ericales':86.3}
+
+# Orders_Bounds follows https://doi.org/10.1038/s41559-020-1241-3 on NEE
 
 Family_Bounds = {'Juglandaceae':83.4,'Myricaceae':83.4,'Betulaceae':83.4,'Casuarinaceae':56.0,'Nothofagaceae':83.4,'Schisandraceae':100.5,'Nymphaeaceae':100.5,'Ceratophyllaceae':121.4,'Chloranthaceae':113.0,'Winteraceae':121.4,'Lauraceae':100.5,'Magnoliaceae':93.9,'Myristicaceae':61.6,'Aristolochiaceae':71.9,'Saururaceae':44.3,'Alismataceae':71.9,'Aponogetonaceae':81.13,'Araceae':113.0,'Posidoniaceae':66.0}
 
@@ -56,15 +58,15 @@ Orders_replace_Species = {'Acorales':'(Acorus_americanus,Acorus_tatarinowii)','A
 
 Orders_replace_One_Species = {'Acorales':'Acorus_americanus','Alismatales':'Potamogeton_acutifolius','Zingiberales':'Ensete_glaucum','Vitales':'Vitis_arizonica','Trochodendrales':'Tetracentron_sinense','Solanales':'Ipomoea_nil','Saxifragales':'Paeonia_ostii','Sapindales':'Poncirus_trifoliata','Santalales':'Malania_oleifera','Rosales':'Artocarpus_nanchuanensis','Ranunculales':'Papaver_setigerum','Proteales':'Nelumbo_nucifera','Poales':'Rhynchospora_pubera','Pleosporales':'Alternaria_oxytropis','Piperales':'Piper_nigrum','Pandanales':'Acanthochlamys_bracteata','Oxalidales':'Averrhoa_carambola','Nymphaeales':'Euryale_ferox','Myrtales':'Punica_granatum','Malvales':'Aquilaria_sinensis','Malpighiales':'Populus_trichocarpa','Laurales':'Chimonanthus_salicifolius','Lamiales':'Andrographis_paniculata','Gentianales':'Calotropis_gigantea','Fagales':'Quercus_rubra','Fabales':'Glycine_max','Ericales':'Primula_veris','Dipsacales':'Lonicera_japonica','Dioscoreales':'Dioscorea_alata','Cucurbitales':'Begonia_fuchsioides','Cornales':'Hydrangea_macrophylla','Chloranthales':'Chloranthus_spicatus','Ceratophyllales':'Ceratophyllum_demersum','Celastrales':'Tripterygium_wilfordii','Caryophyllales':'Portulaca_amilis','Buxales':'Buxus_austroyunnanensis','Brassicales':'Arabidopsis_thaliana','Boraginales':'Lithospermum_erythrorhizon','Asterales':'Nymphoides_indica','Asparagales':'Asparagus_setaceus','Arecales':'Daemonorops_jenkinsiana','Aquifoliales':'Ilex_polyneura','Apiales':'Coriandrum_sativum','Amborellales':'Amborella_trichopoda','Magnoliales':'Liriodendron_chinense','Crossosomatales':'Euscaphis_japonica'}
 
-def standalonetaxonomy(sp):
-    taxoinfo = get_taxonomy(sp,Fullinfo=True)
+def standalonetaxonomy(sp,email=''):
+    taxoinfo = get_taxonomy(sp,Fullinfo=True,email=email)
     if taxoinfo != None:
         for info in taxoinfo:
             logging.info("{}: {}\n".format(info[0],info[1]))
 
-def get_taxonomy(sp,Fullinfo=False):
+def get_taxonomy(sp,Fullinfo=False,email='hengchi.chen@ugent.be'):
     sp = sp.replace("_"," ")
-    Entrez.email = 'hengchi.chen@ugent.be'
+    Entrez.email = email
     handle = Entrez.esearch(db='taxonomy', term=sp)
     record = Entrez.read(handle)
     if record['Count'] != '0':
@@ -76,7 +78,7 @@ def get_taxonomy(sp,Fullinfo=False):
         taxoinfo = gettaxinfo(record[0]['LineageEx'],Fullinfo)
         return taxoinfo
     elif " " in sp:
-        return get_taxonomy(sp.split(" ")[0])
+        return get_taxonomy(sp.split(" ")[0],Fullinfo=Fullinfo,email=email)
     else:
         logging.error("Coundn't find the taxonomy information of {} on NCBI taxonomy database".format(sp))
         return None
@@ -187,7 +189,7 @@ def writedic(fil):
             dic[content[0]] = content[1]
     return dic
 
-def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=None,Updated_Tree=False,Combined=False):
+def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=None,Updated_Tree=False,Combined=False,email=''):
     with open(tree,'r') as f: lines = f.read()
     handle = StringIO(skipnontreeline(lines))
     Tree = Phylo.read(handle,"newick")
@@ -204,7 +206,7 @@ def gettreewithfossil(tree,formatt=False,wholetree=False,Yang=False,orderdata=No
         success = False
         while success == False:
             try:
-                info = get_taxonomy(clade.name)
+                info = get_taxonomy(clade.name,email=email)
                 success = True
             except HTTPError as e:
                 success = False
@@ -308,7 +310,7 @@ def replacespecies(content,Clade_names,inname,onlyone=False):
     content = content.replace(str(original_sp_num)+" ",str(spnum)+" ")
     return content, spnum
 
-def getproperstartingtree(treef,number,outdir,onlyone=False):
+def getproperstartingtree(treef,onlyone=False):
     # Only works for order-level/or more recent WGDs
     Tree = Phylo.read(treef,"newick")
     Clade_names = [i.name for i in Tree.get_terminals()]
