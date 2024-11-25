@@ -3,13 +3,41 @@
 # `fossiler v0.0.5.0` : a suite tool of fossils finding
 **Hengchi Chen**
 
-[**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.org/people/heche)**, VIB-UGent Center for Plant Systems Biology**
+[**Bioinformatics & Evolutionary Genomics Group**](https://www.vandepeerlab.be/)**, VIB-UGent Center for Plant Systems Biology**
 
+[**Installation**](#installation) |
+[**Usage**](#usage) |
 [**Upper Limits**](#upper-limits) |
 [**Fossil Justifications**](#fossil-justifications) |
 [**References**](#references) |
 [**Monilophyta**](#monilophyta)
 </div>
+
+## Installation
+The `fossiler` package can be readily installed via `PYPI`. An example command is given below.
+
+```
+virtualenv -p=python3 ENV (or python3/python -m venv ENV)
+source ENV/bin/activate
+pip install fossiler
+```
+
+## Usage
+Below we give an example of using `fossiler` to obtain fossil calibrations.
+
+```
+fossiler find -mf -wt -sc -gs -ut -t inputfile
+```
+
+The `inputfile` is a tree file documenting the species names or taxonomy names. An example is as follows.
+
+```
+9 1
+(((Alismatales,(Pandanales,Dioscoreales)),Acorales),(((Trochodendrales,Buxales),Proteales),(Aquilegia_coerulea_ap1,Aquilegia_coerulea_ap2)));
+```
+
+Species names should be joined by underlines. Note that it's allowed to append `_ap1` and `_ap2` in the end of a species name to create the starting tree file for WGD dating using `wgd v2`.
+
 
 ## Fossil Justifications
 Below we give a detailed justification for each accepted fossil regarding the phylogenetic assignment and age bounds.
@@ -828,6 +856,8 @@ C. A. Menéndez. (1959). Flora cretacica de la serie del Castillo al S del Cerro
 
 C. Hoorn. (1993). Marine incursions and the influence of Adean tectonics on the Miocene depositional history of northwestern Amazonia: results of a palynostratigraphic study. Palaeogeography, Palaeoclimatology, Palaeoecology, 105: 267-309.
 
+Coimbra, J. C., Arai, M., & Carreño, A. L. (2002). Biostratigraphy of Lower Cretaceous microfossils from the Araripe basin, northeastern Brazil. Geobios, 35(6), 687-698.
+
 Crabtree, D. R. (1987). Angiosperms of the Northern Rocky Mountains: Albian to Campanian (Cretaceous) Megafossil Floras. Annals of the Missouri Botanical Garden, 74(4): 707–747.
 
 David K. Ferguson, Daphne E. Lee, Jennifer M. Bannister, Reinhard Zetter, Gregory J. Jordan, Norbert Vavra, Dallas C. Mildenhall (2010). The taphonomy of a remarkable leaf bed assemblage from the Late Oligocene–Early Miocene Gore Lignite Measures, southern New Zealand. International Journal of Coal Geology, 83(2-3): 173-181.
@@ -887,6 +917,8 @@ Harland, W. B., R. L. Armstrong, A. V. Cox, L. A. Craig, A. G. Smith, and D. G. 
 H. D. MacGinitie. (1941). A Middle Eocene Flora from the Central Sierra Nevada. Carnegie Institution of Washington Publication, 534: 1-178.
 
 H. D. MacGinitie. (1953). Fossil Plants of the Florissant Beds of Colorado. Carnegie Inst. of Washington, Contributions to Paleontology Publ, 599: 1-198.
+
+Heer, O. (1870). Die Miocene flora und fauna Spitzbergens (Vol. 2). Norstedt.
 
 Huasheng Huang, Robert J. Morley, Alexis Licht, Guillaume Dupont-Nivet, Daniel Pérez-Pinedo, Jan Westerweel, Zaw Win, Day Wa Aung, Eko Budi Lelono, Galina N. Aleksandrova, Ramesh K. Saxena, Carina Hoorn (2023). A proto-monsoonal climate in the late Eocene of Southeast Asia: Evidence from a sedimentary record in central Myanmar. Geoscience Frontiers, 14(1): 101457.
 
