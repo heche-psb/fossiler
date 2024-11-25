@@ -7,7 +7,7 @@
 
 [**Installation**](#installation) |
 [**Parameters**](#parameters) |
-[**Usage**](#usage) |
+[**Usage**](#usage)
 </div>
 
 ## Installation
