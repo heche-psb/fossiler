@@ -16,8 +16,8 @@ __version__ = pkg_resources.require("fossiler")[0].version
     default='info', help="Verbosity level, default = info.")
 def cli(verbosity):
     """
-    fossiler - Copyright (C) 2024-2025 Hengchi Chen\n
-    Contact: heche@psb.vib-ugent.be
+    fossiler - Copyright (C) 2026-2027 Hengchi Chen\n
+    Contact: hengchi.chen@uni-goettingen.de
     """
     logging.basicConfig(
         format='%(message)s',
@@ -46,7 +46,7 @@ def find(**kwargs):
     """
     _find(**kwargs)
 
-def _find(tree,getaxonomy,mcmctreeformat,wholetree,setconserved,getsp,number,onlyone,updatedtree,combined,email):
+def _find(tree,getaxonomy,mcmctreeformat,wholetree,setconserved,getsp,onlyone,updatedtree,combined,email):
     from fossiler.fossils import rawfossils,cooccurancerecords,gettreewithfossil,standalonetaxonomy,getproperstartingtree
     if clades != None: rawfossils(clades)
     if rocks !=None: cooccurancerecords(rocks)
